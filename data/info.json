@@ -1,0 +1,34 @@
+{
+  "version": 4,
+  "faq": [
+    {
+      "q": "Does the app work offline?",
+      "a": "Yes. The map, all markers and the schedule live on your phone — no internet or mobile signal is needed at the lake. When you do have internet, the app quietly checks for map and schedule updates."
+    },
+    {
+      "q": "Where does my location data go?",
+      "a": "Nowhere. Your position comes from GPS and is drawn on the map by your phone — it never leaves the device. The app has no accounts, no analytics and no tracking. Its only network use is downloading map updates."
+    },
+    {
+      "q": "What are custom pins?",
+      "a": "Tap the pin button, then tap the map to drop your own marker — your tent, your car, the meeting spot. Give it a name, an icon and a color; tap it later to edit, move or remove it. Pins are saved only on your phone."
+    },
+    {
+      "q": "How do favorites work?",
+      "a": "Tap any event in the schedule to open it, then tap Favorite. Favorited events glow on the timeline, and the heart button shows just your picks. Favorites stay on your phone."
+    },
+    {
+      "q": "Why don't the times match my phone's clock?",
+      "a": "All times are shown in the area's local timezone (Europe/Warsaw), regardless of your phone's timezone setting."
+    },
+    {
+      "q": "Is this an official app?",
+      "a": "No — this is an unofficial, fan-made app. It is not affiliated with or endorsed by any event organizer."
+    }
+  ],
+  "contact": {
+    "label": "Questions or problems?",
+    "linkText": "Message me",
+    "url": "https://t.me/oguzyi1diz"
+  }
+}
