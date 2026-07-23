@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updatedAt": "2026-07-23T00:00:00Z",
+  "version": 6,
+  "updatedAt": "2026-07-24T00:00:00Z",
   "faq": [
     {
       "q": "Does the app work offline?",
@@ -31,5 +31,6 @@
     "label": "Questions or problems?",
     "linkText": "Message me",
     "url": "https://t.me/oguzyi1diz"
-  }
+  },
+  "credit": "Made in Mexico with 💚🤍❤️"
 }
