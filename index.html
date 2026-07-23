@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Garbicz — offline map &amp; schedule</title>
+<meta name="description" content="Unofficial offline map of the Garbicz village lake area, with a customizable event schedule. Fan-made.">
+<style>
+  :root {
+    --ink: #12241b;
+    --ink-2: #182f24;
+    --card: #1c3629;
+    --hairline: #24332b;
+    --moon: #edf3ee;
+    --sage: #8ca396;
+    --ember: #f2a93b;
+    --lake: #38bdf8;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--ink);
+    color: var(--moon);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.55;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  main { width: min(560px, 92vw); margin: 0 auto; flex: 1; }
+
+  header { padding: 56px 0 8px; text-align: center; }
+  .unicorn { font-size: 56px; display: block; }
+  h1 {
+    font-size: clamp(38px, 9vw, 52px);
+    letter-spacing: 0.06em;
+    font-weight: 800;
+    margin-top: 8px;
+  }
+  .tagline { color: var(--sage); font-size: 17px; margin-top: 6px; }
+  .disclaimer {
+    color: var(--sage);
+    font-size: 13px;
+    margin: 14px auto 0;
+    max-width: 40ch;
+    opacity: 0.85;
+  }
+
+  /* lake divider */
+  .lake-line {
+    height: 22px;
+    margin: 30px 0 26px;
+    background:
+      radial-gradient(circle at 8px -6px, transparent 12px, var(--lake) 12.5px, transparent 13.5px) repeat-x;
+    background-size: 28px 22px;
+    opacity: 0.35;
+  }
+
+  .platform {
+    background: var(--card);
+    border: 1px solid var(--hairline);
+    border-radius: 16px;
+    padding: 22px;
+    margin-bottom: 18px;
+  }
+  .platform h2 { font-size: 20px; margin-bottom: 10px; }
+  .platform ol { color: var(--sage); font-size: 15px; padding-left: 22px; }
+  .platform li { margin: 6px 0; }
+  .platform li strong { color: var(--moon); font-weight: 600; }
+  .btn {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 17px;
+    border-radius: 12px;
+    padding: 14px;
+    margin-top: 16px;
+    color: #201503;
+    background: var(--ember);
+    box-shadow: 0 0 24px rgba(242, 169, 59, 0.25);
+  }
+  .btn.secondary { background: transparent; color: var(--ember); border: 1.5px solid var(--ember); box-shadow: none; }
+  .btn:active { transform: translateY(1px); }
+
+  .notes { margin: 26px 0 10px; }
+  .notes p { color: var(--sage); font-size: 14px; margin: 8px 0; }
+  .notes strong { color: var(--moon); font-weight: 600; }
+  a.link { color: var(--ember); text-decoration: underline; text-underline-offset: 3px; }
+
+  footer {
+    text-align: center;
+    color: var(--sage);
+    font-size: 13px;
+    padding: 26px 0 34px;
+    opacity: 0.8;
+  }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <span class="unicorn">🦄</span>
+    <h1>GARBICZ</h1>
+    <p class="tagline">Offline map &amp; schedule for the lake</p>
+    <p class="disclaimer">Unofficial, fan-made app. Not affiliated with or endorsed by any event organizer.</p>
+  </header>
+
+  <div class="lake-line"></div>
+
+  <!-- ============ EDIT LINKS / TEXT BELOW ============ -->
+
+  <section class="platform">
+    <h2> iPhone</h2>
+    <ol>
+      <li>Install <strong>TestFlight</strong> from the App Store</li>
+      <li>Tap the button below and choose <strong>Install</strong></li>
+    </ol>
+    <a class="btn" href="https://testflight.apple.com/join/hnzpKzqb">Get it on TestFlight</a>
+  </section>
+
+  <section class="platform">
+    <h2>🤖 Android</h2>
+    <ol>
+      <li>Download the app file below</li>
+      <li>Open it and allow <strong>installing from this source</strong> if asked</li>
+    </ol>
+    <a class="btn secondary" href="https://github.com/oguzyildizz/garbiczmap-data/releases/latest/download/garbicz.apk">Download for Android (.apk)</a>
+  </section>
+
+  <section class="notes">
+    <p><strong>Works fully offline.</strong> Map, markers and schedule are on your phone from the first launch — no signal needed at the lake. With internet, it quietly picks up map updates.</p>
+    <p><strong>Private.</strong> Your location never leaves your phone. No accounts, no tracking.</p>
+    <p>Questions or problems? <a class="link" href="https://t.me/oguzyi1diz">Message me</a>.</p>
+  </section>
+
+  <!-- ============ EDIT LINKS / TEXT ABOVE ============ -->
+</main>
+
+<footer>Made with 🖤 for the lake people</footer>
+</body>
+</html>
