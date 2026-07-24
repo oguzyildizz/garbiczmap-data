@@ -1,5 +1,11 @@
 {
-  "ios": { "build": 5, "url": "https://testflight.apple.com/join/hnzpKzqb" },
-  "android": { "build": 11, "url": "https://oguzyildizz.github.io/garbiczmap-data/" },
-  "notes": ""
+  "ios": {
+    "build": 5,
+    "url": "https://testflight.apple.com/join/hnzpKzqb"
+  },
+  "android": {
+    "build": 12,
+    "url": "https://oguzyildizz.github.io/garbiczmap-data/"
+  },
+  "notes": "Smaller download, map category filter (food/water/WC/top-up), announcements, swipe-to-close cards and more."
 }
