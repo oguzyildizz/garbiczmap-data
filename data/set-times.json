@@ -1,0 +1,1753 @@
+{
+ "version": 1,
+ "updatedAt": "2026-07-24T10:45:35.308Z",
+ "stages": [
+  {
+   "name": "Wald",
+   "color": "#4ade80"
+  },
+  {
+   "name": "Wiese",
+   "color": "#e879f9"
+  },
+  {
+   "name": "See",
+   "color": "#38bdf8"
+  },
+  {
+   "name": "Loco Paraiso",
+   "color": "#fbbf24"
+  },
+  {
+   "name": "Juicy Bar",
+   "color": "#fb923c"
+  },
+  {
+   "name": "Pleasure Island",
+   "color": "#93c5fd"
+  },
+  {
+   "name": "Junkyard",
+   "color": "#f87171"
+  },
+  {
+   "name": "Buk Corner",
+   "color": "#c084fc"
+  },
+  {
+   "name": "Chill In & Out",
+   "color": "#a3e635"
+  }
+ ],
+ "sets": [
+  {
+   "id": "-1-4-1784804400000",
+   "artist": "Ypsilon Crew",
+   "stage": "Juicy Bar",
+   "start": 1784804400000,
+   "end": 1784811600000
+  },
+  {
+   "id": "-1-0-1784808000000",
+   "artist": "Ambra Loop",
+   "stage": "Wald",
+   "start": 1784808000000,
+   "end": 1784815200000
+  },
+  {
+   "id": "-1-1-1784808000000",
+   "artist": "Fjelka",
+   "stage": "Wiese",
+   "start": 1784808000000,
+   "end": 1784818800000
+  },
+  {
+   "id": "-1-2-1784808000000",
+   "artist": "Mellow Anchor",
+   "stage": "See",
+   "start": 1784808000000,
+   "end": 1784815200000
+  },
+  {
+   "id": "-1-8-1784808000000",
+   "artist": "Halcyon Dip",
+   "stage": "Chill In & Out",
+   "start": 1784808000000,
+   "end": 1784818800000
+  },
+  {
+   "id": "-1-3-1784811600000",
+   "artist": "Perpetuum",
+   "stage": "Loco Paraiso",
+   "start": 1784811600000,
+   "end": 1784817000000
+  },
+  {
+   "id": "-1-4-1784811600000",
+   "artist": "Selva Ray",
+   "stage": "Juicy Bar",
+   "start": 1784811600000,
+   "end": 1784818800000
+  },
+  {
+   "id": "-1-5-1784811600000",
+   "artist": "Rüya",
+   "stage": "Pleasure Island",
+   "start": 1784811600000,
+   "end": 1784820600000
+  },
+  {
+   "id": "-1-6-1784811600000",
+   "artist": "Ypsilon Crew",
+   "stage": "Junkyard",
+   "start": 1784811600000,
+   "end": 1784820600000
+  },
+  {
+   "id": "-1-7-1784811600000",
+   "artist": "Dero Mundi",
+   "stage": "Buk Corner",
+   "start": 1784811600000,
+   "end": 1784818800000
+  },
+  {
+   "id": "-1-0-1784815200000",
+   "artist": "Twelve Herons",
+   "stage": "Wald",
+   "start": 1784815200000,
+   "end": 1784820600000
+  },
+  {
+   "id": "-1-2-1784815200000",
+   "artist": "Tinctura",
+   "stage": "See",
+   "start": 1784815200000,
+   "end": 1784822400000,
+   "description": "Closing ritual with strings and synths. Expect tears."
+  },
+  {
+   "id": "-1-1-1784818800000",
+   "artist": "Twelve Herons",
+   "stage": "Wiese",
+   "start": 1784818800000,
+   "end": 1784827800000,
+   "description": "Closing ritual with strings and synths. Expect tears."
+  },
+  {
+   "id": "-1-4-1784818800000",
+   "artist": "Zorya",
+   "stage": "Juicy Bar",
+   "start": 1784818800000,
+   "end": 1784826000000
+  },
+  {
+   "id": "-1-7-1784818800000",
+   "artist": "Madame Sirocco",
+   "stage": "Buk Corner",
+   "start": 1784818800000,
+   "end": 1784826000000
+  },
+  {
+   "id": "-1-8-1784818800000",
+   "artist": "Ypsilon Crew",
+   "stage": "Chill In & Out",
+   "start": 1784818800000,
+   "end": 1784829600000
+  },
+  {
+   "id": "-1-0-1784820600000",
+   "artist": "Mellow Anchor",
+   "stage": "Wald",
+   "start": 1784820600000,
+   "end": 1784831400000
+  },
+  {
+   "id": "-1-3-1784820600000",
+   "artist": "Madame Sirocco",
+   "stage": "Loco Paraiso",
+   "start": 1784820600000,
+   "end": 1784826000000,
+   "description": "Fast, playful and impossible to stand still to."
+  },
+  {
+   "id": "-1-6-1784820600000",
+   "artist": "Cinder Fox",
+   "stage": "Junkyard",
+   "start": 1784820600000,
+   "end": 1784831400000
+  },
+  {
+   "id": "-1-2-1784822400000",
+   "artist": "Glimmerhand",
+   "stage": "See",
+   "start": 1784822400000,
+   "end": 1784833200000
+  },
+  {
+   "id": "-1-5-1784824200000",
+   "artist": "Paloma Drift",
+   "stage": "Pleasure Island",
+   "start": 1784824200000,
+   "end": 1784835000000,
+   "description": "Deep, patient morning sound. Bring a blanket and let it unfold."
+  },
+  {
+   "id": "-1-3-1784826000000",
+   "artist": "Paloma Drift",
+   "stage": "Loco Paraiso",
+   "start": 1784826000000,
+   "end": 1784835000000,
+   "description": "Debut at the lake — their sets in Berlin sell out in minutes."
+  },
+  {
+   "id": "-1-4-1784826000000",
+   "artist": "Nokta",
+   "stage": "Juicy Bar",
+   "start": 1784826000000,
+   "end": 1784836800000,
+   "description": "A four-hour journey from dub to daylight."
+  },
+  {
+   "id": "-1-7-1784826000000",
+   "artist": "Perpetuum",
+   "stage": "Buk Corner",
+   "start": 1784826000000,
+   "end": 1784831400000
+  },
+  {
+   "id": "-1-8-1784829600000",
+   "artist": "Ilo & Ivo",
+   "stage": "Chill In & Out",
+   "start": 1784829600000,
+   "end": 1784836800000
+  },
+  {
+   "id": "-1-1-1784831400000",
+   "artist": "Ypsilon Crew",
+   "stage": "Wiese",
+   "start": 1784831400000,
+   "end": 1784840400000,
+   "description": "Debut at the lake — their sets in Berlin sell out in minutes."
+  },
+  {
+   "id": "-1-7-1784831400000",
+   "artist": "Rüya",
+   "stage": "Buk Corner",
+   "start": 1784831400000,
+   "end": 1784838600000,
+   "description": "A four-hour journey from dub to daylight."
+  },
+  {
+   "id": "-1-2-1784833200000",
+   "artist": "Twelve Herons",
+   "stage": "See",
+   "start": 1784833200000,
+   "end": 1784838600000
+  },
+  {
+   "id": "-1-0-1784835000000",
+   "artist": "Tinctura",
+   "stage": "Wald",
+   "start": 1784835000000,
+   "end": 1784845800000
+  },
+  {
+   "id": "-1-3-1784835000000",
+   "artist": "Twelve Herons",
+   "stage": "Loco Paraiso",
+   "start": 1784835000000,
+   "end": 1784840400000
+  },
+  {
+   "id": "-1-5-1784835000000",
+   "artist": "Ambra Loop",
+   "stage": "Pleasure Island",
+   "start": 1784835000000,
+   "end": 1784845800000,
+   "description": "Deep, patient morning sound. Bring a blanket and let it unfold."
+  },
+  {
+   "id": "-1-6-1784835000000",
+   "artist": "Kilim & Moss",
+   "stage": "Junkyard",
+   "start": 1784835000000,
+   "end": 1784840400000
+  },
+  {
+   "id": "-1-4-1784836800000",
+   "artist": "Tinctura",
+   "stage": "Juicy Bar",
+   "start": 1784836800000,
+   "end": 1784844000000
+  },
+  {
+   "id": "-1-2-1784838600000",
+   "artist": "Cinder Fox",
+   "stage": "See",
+   "start": 1784838600000,
+   "end": 1784849400000
+  },
+  {
+   "id": "-1-7-1784838600000",
+   "artist": "Nokta",
+   "stage": "Buk Corner",
+   "start": 1784838600000,
+   "end": 1784845800000
+  },
+  {
+   "id": "-1-1-1784840400000",
+   "artist": "Aurora Vex",
+   "stage": "Wiese",
+   "start": 1784840400000,
+   "end": 1784849400000
+  },
+  {
+   "id": "-1-3-1784840400000",
+   "artist": "Mica Flux",
+   "stage": "Loco Paraiso",
+   "start": 1784840400000,
+   "end": 1784851200000,
+   "description": "Deep, patient morning sound. Bring a blanket and let it unfold."
+  },
+  {
+   "id": "-1-6-1784840400000",
+   "artist": "Glimmerhand",
+   "stage": "Junkyard",
+   "start": 1784840400000,
+   "end": 1784849400000
+  },
+  {
+   "id": "-1-8-1784840400000",
+   "artist": "Lumen Twins",
+   "stage": "Chill In & Out",
+   "start": 1784840400000,
+   "end": 1784845800000
+  },
+  {
+   "id": "-1-4-1784844000000",
+   "artist": "Karst",
+   "stage": "Juicy Bar",
+   "start": 1784844000000,
+   "end": 1784849400000,
+   "description": "Fast, playful and impossible to stand still to."
+  },
+  {
+   "id": "-1-5-1784845800000",
+   "artist": "Tinctura",
+   "stage": "Pleasure Island",
+   "start": 1784845800000,
+   "end": 1784856600000
+  },
+  {
+   "id": "-1-7-1784845800000",
+   "artist": "Rüya",
+   "stage": "Buk Corner",
+   "start": 1784845800000,
+   "end": 1784853000000,
+   "description": "Live hardware set — no laptop, all wires and sweat."
+  },
+  {
+   "id": "-1-0-1784849400000",
+   "artist": "Kaskade Bleu",
+   "stage": "Wald",
+   "start": 1784849400000,
+   "end": 1784858400000,
+   "description": "Debut at the lake — their sets in Berlin sell out in minutes."
+  },
+  {
+   "id": "-1-1-1784849400000",
+   "artist": "Glimmerhand",
+   "stage": "Wiese",
+   "start": 1784849400000,
+   "end": 1784854800000
+  },
+  {
+   "id": "-1-2-1784849400000",
+   "artist": "Karst",
+   "stage": "See",
+   "start": 1784849400000,
+   "end": 1784858400000
+  },
+  {
+   "id": "-1-4-1784849400000",
+   "artist": "Karst",
+   "stage": "Juicy Bar",
+   "start": 1784849400000,
+   "end": 1784854800000
+  },
+  {
+   "id": "-1-6-1784849400000",
+   "artist": "Fjelka",
+   "stage": "Junkyard",
+   "start": 1784849400000,
+   "end": 1784854800000,
+   "description": "Closing ritual with strings and synths. Expect tears."
+  },
+  {
+   "id": "-1-8-1784849400000",
+   "artist": "Ondine",
+   "stage": "Chill In & Out",
+   "start": 1784849400000,
+   "end": 1784854800000
+  },
+  {
+   "id": "-1-1-1784854800000",
+   "artist": "Cinder Fox",
+   "stage": "Wiese",
+   "start": 1784854800000,
+   "end": 1784862000000,
+   "description": "Live hardware set — no laptop, all wires and sweat."
+  },
+  {
+   "id": "-1-3-1784854800000",
+   "artist": "Vesna Kova",
+   "stage": "Loco Paraiso",
+   "start": 1784854800000,
+   "end": 1784862000000
+  },
+  {
+   "id": "-1-5-1784856600000",
+   "artist": "Halcyon Dip",
+   "stage": "Pleasure Island",
+   "start": 1784856600000,
+   "end": 1784862000000
+  },
+  {
+   "id": "-1-7-1784856600000",
+   "artist": "Halcyon Dip",
+   "stage": "Buk Corner",
+   "start": 1784856600000,
+   "end": 1784862000000
+  },
+  {
+   "id": "-1-0-1784858400000",
+   "artist": "Selva Ray",
+   "stage": "Wald",
+   "start": 1784858400000,
+   "end": 1784862000000
+  },
+  {
+   "id": "-1-2-1784858400000",
+   "artist": "Lumen Twins",
+   "stage": "See",
+   "start": 1784858400000,
+   "end": 1784862000000,
+   "description": "Live hardware set — no laptop, all wires and sweat."
+  },
+  {
+   "id": "0-2-1784890800000",
+   "artist": "Tinctura",
+   "stage": "See",
+   "start": 1784890800000,
+   "end": 1784898000000
+  },
+  {
+   "id": "0-6-1784890800000",
+   "artist": "Aurora Vex",
+   "stage": "Junkyard",
+   "start": 1784890800000,
+   "end": 1784899800000
+  },
+  {
+   "id": "0-7-1784890800000",
+   "artist": "Cinder Fox",
+   "stage": "Buk Corner",
+   "start": 1784890800000,
+   "end": 1784899800000,
+   "description": "Fast, playful and impossible to stand still to."
+  },
+  {
+   "id": "0-4-1784894400000",
+   "artist": "Selva Ray",
+   "stage": "Juicy Bar",
+   "start": 1784894400000,
+   "end": 1784899800000,
+   "description": "Debut at the lake — their sets in Berlin sell out in minutes."
+  },
+  {
+   "id": "0-8-1784894400000",
+   "artist": "Bruno Talus",
+   "stage": "Chill In & Out",
+   "start": 1784894400000,
+   "end": 1784901600000
+  },
+  {
+   "id": "0-0-1784898000000",
+   "artist": "Ondine",
+   "stage": "Wald",
+   "start": 1784898000000,
+   "end": 1784905200000
+  },
+  {
+   "id": "0-1-1784898000000",
+   "artist": "Halcyon Dip",
+   "stage": "Wiese",
+   "start": 1784898000000,
+   "end": 1784903400000
+  },
+  {
+   "id": "0-2-1784898000000",
+   "artist": "Ilo & Ivo",
+   "stage": "See",
+   "start": 1784898000000,
+   "end": 1784903400000
+  },
+  {
+   "id": "0-3-1784898000000",
+   "artist": "Twelve Herons",
+   "stage": "Loco Paraiso",
+   "start": 1784898000000,
+   "end": 1784905200000
+  },
+  {
+   "id": "0-5-1784898000000",
+   "artist": "Ilo & Ivo",
+   "stage": "Pleasure Island",
+   "start": 1784898000000,
+   "end": 1784903400000,
+   "description": "Closing ritual with strings and synths. Expect tears."
+  },
+  {
+   "id": "0-4-1784899800000",
+   "artist": "Paloma Drift",
+   "stage": "Juicy Bar",
+   "start": 1784899800000,
+   "end": 1784910600000
+  },
+  {
+   "id": "0-6-1784899800000",
+   "artist": "Kilim & Moss",
+   "stage": "Junkyard",
+   "start": 1784899800000,
+   "end": 1784908800000
+  },
+  {
+   "id": "0-7-1784899800000",
+   "artist": "Quiet Riot Club",
+   "stage": "Buk Corner",
+   "start": 1784899800000,
+   "end": 1784905200000
+  },
+  {
+   "id": "0-8-1784901600000",
+   "artist": "Glimmerhand",
+   "stage": "Chill In & Out",
+   "start": 1784901600000,
+   "end": 1784912400000,
+   "description": "Debut at the lake — their sets in Berlin sell out in minutes."
+  },
+  {
+   "id": "0-1-1784903400000",
+   "artist": "Selva Ray",
+   "stage": "Wiese",
+   "start": 1784903400000,
+   "end": 1784910600000
+  },
+  {
+   "id": "0-2-1784903400000",
+   "artist": "Ferns!",
+   "stage": "See",
+   "start": 1784903400000,
+   "end": 1784910600000,
+   "description": "Fast, playful and impossible to stand still to."
+  },
+  {
+   "id": "0-5-1784903400000",
+   "artist": "Glimmerhand",
+   "stage": "Pleasure Island",
+   "start": 1784903400000,
+   "end": 1784914200000
+  },
+  {
+   "id": "0-0-1784905200000",
+   "artist": "Madame Sirocco",
+   "stage": "Wald",
+   "start": 1784905200000,
+   "end": 1784912400000,
+   "description": "Debut at the lake — their sets in Berlin sell out in minutes."
+  },
+  {
+   "id": "0-3-1784905200000",
+   "artist": "Quiet Riot Club",
+   "stage": "Loco Paraiso",
+   "start": 1784905200000,
+   "end": 1784916000000
+  },
+  {
+   "id": "0-7-1784905200000",
+   "artist": "Fjelka",
+   "stage": "Buk Corner",
+   "start": 1784905200000,
+   "end": 1784912400000
+  },
+  {
+   "id": "0-6-1784908800000",
+   "artist": "Ondine",
+   "stage": "Junkyard",
+   "start": 1784908800000,
+   "end": 1784916000000
+  },
+  {
+   "id": "0-4-1784910600000",
+   "artist": "Bruno Talus",
+   "stage": "Juicy Bar",
+   "start": 1784910600000,
+   "end": 1784917800000
+  },
+  {
+   "id": "0-0-1784912400000",
+   "artist": "Halcyon Dip",
+   "stage": "Wald",
+   "start": 1784912400000,
+   "end": 1784923200000,
+   "description": "Deep, patient morning sound. Bring a blanket and let it unfold."
+  },
+  {
+   "id": "0-7-1784912400000",
+   "artist": "Selva Ray",
+   "stage": "Buk Corner",
+   "start": 1784912400000,
+   "end": 1784919600000
+  },
+  {
+   "id": "0-8-1784912400000",
+   "artist": "Ypsilon Crew",
+   "stage": "Chill In & Out",
+   "start": 1784912400000,
+   "end": 1784917800000,
+   "description": "Debut at the lake — their sets in Berlin sell out in minutes."
+  },
+  {
+   "id": "0-1-1784914200000",
+   "artist": "Quiet Riot Club",
+   "stage": "Wiese",
+   "start": 1784914200000,
+   "end": 1784923200000
+  },
+  {
+   "id": "0-2-1784914200000",
+   "artist": "Halcyon Dip",
+   "stage": "See",
+   "start": 1784914200000,
+   "end": 1784921400000
+  },
+  {
+   "id": "0-3-1784916000000",
+   "artist": "Bruno Talus",
+   "stage": "Loco Paraiso",
+   "start": 1784916000000,
+   "end": 1784926800000
+  },
+  {
+   "id": "0-6-1784916000000",
+   "artist": "Ondine",
+   "stage": "Junkyard",
+   "start": 1784916000000,
+   "end": 1784925000000
+  },
+  {
+   "id": "0-4-1784917800000",
+   "artist": "Aurora Vex",
+   "stage": "Juicy Bar",
+   "start": 1784917800000,
+   "end": 1784925000000,
+   "description": "Fast, playful and impossible to stand still to."
+  },
+  {
+   "id": "0-5-1784917800000",
+   "artist": "Ilo & Ivo",
+   "stage": "Pleasure Island",
+   "start": 1784917800000,
+   "end": 1784925000000,
+   "description": "Debut at the lake — their sets in Berlin sell out in minutes."
+  },
+  {
+   "id": "0-8-1784917800000",
+   "artist": "Nokta",
+   "stage": "Chill In & Out",
+   "start": 1784917800000,
+   "end": 1784926800000
+  },
+  {
+   "id": "0-7-1784919600000",
+   "artist": "Mica Flux",
+   "stage": "Buk Corner",
+   "start": 1784919600000,
+   "end": 1784930400000,
+   "description": "Debut at the lake — their sets in Berlin sell out in minutes."
+  },
+  {
+   "id": "0-2-1784921400000",
+   "artist": "Kaskade Bleu",
+   "stage": "See",
+   "start": 1784921400000,
+   "end": 1784926800000,
+   "description": "Closing ritual with strings and synths. Expect tears."
+  },
+  {
+   "id": "0-0-1784923200000",
+   "artist": "Cinder Fox",
+   "stage": "Wald",
+   "start": 1784923200000,
+   "end": 1784932200000
+  },
+  {
+   "id": "0-6-1784925000000",
+   "artist": "Lumen Twins",
+   "stage": "Junkyard",
+   "start": 1784925000000,
+   "end": 1784930400000
+  },
+  {
+   "id": "0-1-1784926800000",
+   "artist": "Twelve Herons",
+   "stage": "Wiese",
+   "start": 1784926800000,
+   "end": 1784932200000
+  },
+  {
+   "id": "0-2-1784926800000",
+   "artist": "Dero Mundi",
+   "stage": "See",
+   "start": 1784926800000,
+   "end": 1784935800000,
+   "description": "Live hardware set — no laptop, all wires and sweat."
+  },
+  {
+   "id": "0-3-1784926800000",
+   "artist": "Rüya",
+   "stage": "Loco Paraiso",
+   "start": 1784926800000,
+   "end": 1784932200000
+  },
+  {
+   "id": "0-8-1784926800000",
+   "artist": "Bruno Talus",
+   "stage": "Chill In & Out",
+   "start": 1784926800000,
+   "end": 1784932200000,
+   "description": "Deep, patient morning sound. Bring a blanket and let it unfold."
+  },
+  {
+   "id": "0-4-1784928600000",
+   "artist": "Karst",
+   "stage": "Juicy Bar",
+   "start": 1784928600000,
+   "end": 1784937600000,
+   "description": "Closing ritual with strings and synths. Expect tears."
+  },
+  {
+   "id": "0-5-1784928600000",
+   "artist": "Zorya",
+   "stage": "Pleasure Island",
+   "start": 1784928600000,
+   "end": 1784939400000,
+   "description": "Live hardware set — no laptop, all wires and sweat."
+  },
+  {
+   "id": "0-6-1784930400000",
+   "artist": "Ferns!",
+   "stage": "Junkyard",
+   "start": 1784930400000,
+   "end": 1784937600000
+  },
+  {
+   "id": "0-7-1784930400000",
+   "artist": "Halcyon Dip",
+   "stage": "Buk Corner",
+   "start": 1784930400000,
+   "end": 1784935800000
+  },
+  {
+   "id": "0-0-1784932200000",
+   "artist": "Quiet Riot Club",
+   "stage": "Wald",
+   "start": 1784932200000,
+   "end": 1784939400000
+  },
+  {
+   "id": "0-1-1784932200000",
+   "artist": "Dero Mundi",
+   "stage": "Wiese",
+   "start": 1784932200000,
+   "end": 1784937600000
+  },
+  {
+   "id": "0-3-1784932200000",
+   "artist": "Ypsilon Crew",
+   "stage": "Loco Paraiso",
+   "start": 1784932200000,
+   "end": 1784939400000,
+   "description": "Debut at the lake — their sets in Berlin sell out in minutes."
+  },
+  {
+   "id": "0-8-1784932200000",
+   "artist": "Cinder Fox",
+   "stage": "Chill In & Out",
+   "start": 1784932200000,
+   "end": 1784943000000,
+   "description": "Closing ritual with strings and synths. Expect tears."
+  },
+  {
+   "id": "0-2-1784935800000",
+   "artist": "Rüya",
+   "stage": "See",
+   "start": 1784935800000,
+   "end": 1784943000000,
+   "description": "Closing ritual with strings and synths. Expect tears."
+  },
+  {
+   "id": "0-7-1784935800000",
+   "artist": "Twelve Herons",
+   "stage": "Buk Corner",
+   "start": 1784935800000,
+   "end": 1784941200000
+  },
+  {
+   "id": "0-1-1784937600000",
+   "artist": "Perpetuum",
+   "stage": "Wiese",
+   "start": 1784937600000,
+   "end": 1784944800000
+  },
+  {
+   "id": "0-4-1784937600000",
+   "artist": "Vesna Kova",
+   "stage": "Juicy Bar",
+   "start": 1784937600000,
+   "end": 1784946600000
+  },
+  {
+   "id": "0-6-1784937600000",
+   "artist": "Bruno Talus",
+   "stage": "Junkyard",
+   "start": 1784937600000,
+   "end": 1784944800000
+  },
+  {
+   "id": "0-0-1784939400000",
+   "artist": "Aurora Vex",
+   "stage": "Wald",
+   "start": 1784939400000,
+   "end": 1784944800000
+  },
+  {
+   "id": "0-3-1784939400000",
+   "artist": "Vesna Kova",
+   "stage": "Loco Paraiso",
+   "start": 1784939400000,
+   "end": 1784944800000
+  },
+  {
+   "id": "0-5-1784939400000",
+   "artist": "Glimmerhand",
+   "stage": "Pleasure Island",
+   "start": 1784939400000,
+   "end": 1784944800000
+  },
+  {
+   "id": "0-2-1784943000000",
+   "artist": "Tinctura",
+   "stage": "See",
+   "start": 1784943000000,
+   "end": 1784944800000
+  },
+  {
+   "id": "0-8-1784943000000",
+   "artist": "Perpetuum",
+   "stage": "Chill In & Out",
+   "start": 1784943000000,
+   "end": 1784944800000,
+   "description": "Live hardware set — no laptop, all wires and sweat."
+  },
+  {
+   "id": "0-3-1784944800000",
+   "artist": "Cinder Fox",
+   "stage": "Loco Paraiso",
+   "start": 1784944800000,
+   "end": 1784948400000
+  },
+  {
+   "id": "0-5-1784944800000",
+   "artist": "Fjelka",
+   "stage": "Pleasure Island",
+   "start": 1784944800000,
+   "end": 1784948400000
+  },
+  {
+   "id": "0-4-1784946600000",
+   "artist": "Karst",
+   "stage": "Juicy Bar",
+   "start": 1784946600000,
+   "end": 1784948400000
+  },
+  {
+   "id": "1-4-1784977200000",
+   "artist": "Bruno Talus",
+   "stage": "Juicy Bar",
+   "start": 1784977200000,
+   "end": 1784988000000
+  },
+  {
+   "id": "1-5-1784977200000",
+   "artist": "Kilim & Moss",
+   "stage": "Pleasure Island",
+   "start": 1784977200000,
+   "end": 1784982600000
+  },
+  {
+   "id": "1-8-1784977200000",
+   "artist": "Ondine",
+   "stage": "Chill In & Out",
+   "start": 1784977200000,
+   "end": 1784982600000
+  },
+  {
+   "id": "1-0-1784980800000",
+   "artist": "Aurora Vex",
+   "stage": "Wald",
+   "start": 1784980800000,
+   "end": 1784989800000
+  },
+  {
+   "id": "1-3-1784980800000",
+   "artist": "Zorya",
+   "stage": "Loco Paraiso",
+   "start": 1784980800000,
+   "end": 1784989800000
+  },
+  {
+   "id": "1-6-1784980800000",
+   "artist": "Ondine",
+   "stage": "Junkyard",
+   "start": 1784980800000,
+   "end": 1784989800000,
+   "description": "Debut at the lake — their sets in Berlin sell out in minutes."
+  },
+  {
+   "id": "1-7-1784980800000",
+   "artist": "Zorya",
+   "stage": "Buk Corner",
+   "start": 1784980800000,
+   "end": 1784988000000
+  },
+  {
+   "id": "1-5-1784982600000",
+   "artist": "Perpetuum",
+   "stage": "Pleasure Island",
+   "start": 1784982600000,
+   "end": 1784993400000
+  },
+  {
+   "id": "1-8-1784982600000",
+   "artist": "Paloma Drift",
+   "stage": "Chill In & Out",
+   "start": 1784982600000,
+   "end": 1784991600000
+  },
+  {
+   "id": "1-1-1784984400000",
+   "artist": "Kilim & Moss",
+   "stage": "Wiese",
+   "start": 1784984400000,
+   "end": 1784991600000
+  },
+  {
+   "id": "1-2-1784984400000",
+   "artist": "Sotto Voce",
+   "stage": "See",
+   "start": 1784984400000,
+   "end": 1784995200000
+  },
+  {
+   "id": "1-4-1784988000000",
+   "artist": "Vesna Kova",
+   "stage": "Juicy Bar",
+   "start": 1784988000000,
+   "end": 1784995200000
+  },
+  {
+   "id": "1-7-1784988000000",
+   "artist": "Ambra Loop",
+   "stage": "Buk Corner",
+   "start": 1784988000000,
+   "end": 1784995200000
+  },
+  {
+   "id": "1-0-1784989800000",
+   "artist": "Zorya",
+   "stage": "Wald",
+   "start": 1784989800000,
+   "end": 1784998800000
+  },
+  {
+   "id": "1-3-1784989800000",
+   "artist": "Quiet Riot Club",
+   "stage": "Loco Paraiso",
+   "start": 1784989800000,
+   "end": 1784995200000
+  },
+  {
+   "id": "1-6-1784989800000",
+   "artist": "Kaskade Bleu",
+   "stage": "Junkyard",
+   "start": 1784989800000,
+   "end": 1784995200000
+  },
+  {
+   "id": "1-1-1784991600000",
+   "artist": "Paloma Drift",
+   "stage": "Wiese",
+   "start": 1784991600000,
+   "end": 1784997000000
+  },
+  {
+   "id": "1-8-1784991600000",
+   "artist": "Tinctura",
+   "stage": "Chill In & Out",
+   "start": 1784991600000,
+   "end": 1785000600000
+  },
+  {
+   "id": "1-5-1784993400000",
+   "artist": "Kilim & Moss",
+   "stage": "Pleasure Island",
+   "start": 1784993400000,
+   "end": 1784998800000
+  },
+  {
+   "id": "1-3-1784995200000",
+   "artist": "Twelve Herons",
+   "stage": "Loco Paraiso",
+   "start": 1784995200000,
+   "end": 1785000600000
+  },
+  {
+   "id": "1-4-1784995200000",
+   "artist": "Rüya",
+   "stage": "Juicy Bar",
+   "start": 1784995200000,
+   "end": 1785002400000
+  },
+  {
+   "id": "1-6-1784995200000",
+   "artist": "Ypsilon Crew",
+   "stage": "Junkyard",
+   "start": 1784995200000,
+   "end": 1785004200000
+  },
+  {
+   "id": "1-1-1784997000000",
+   "artist": "Ypsilon Crew",
+   "stage": "Wiese",
+   "start": 1784997000000,
+   "end": 1785002400000
+  },
+  {
+   "id": "1-0-1784998800000",
+   "artist": "Kilim & Moss",
+   "stage": "Wald",
+   "start": 1784998800000,
+   "end": 1785004200000,
+   "description": "Deep, patient morning sound. Bring a blanket and let it unfold."
+  },
+  {
+   "id": "1-2-1784998800000",
+   "artist": "Ypsilon Crew",
+   "stage": "See",
+   "start": 1784998800000,
+   "end": 1785009600000
+  },
+  {
+   "id": "1-5-1784998800000",
+   "artist": "Lumen Twins",
+   "stage": "Pleasure Island",
+   "start": 1784998800000,
+   "end": 1785006000000,
+   "description": "Deep, patient morning sound. Bring a blanket and let it unfold."
+  },
+  {
+   "id": "1-7-1784998800000",
+   "artist": "Ypsilon Crew",
+   "stage": "Buk Corner",
+   "start": 1784998800000,
+   "end": 1785009600000
+  },
+  {
+   "id": "1-3-1785000600000",
+   "artist": "Selva Ray",
+   "stage": "Loco Paraiso",
+   "start": 1785000600000,
+   "end": 1785007800000
+  },
+  {
+   "id": "1-8-1785000600000",
+   "artist": "Kaskade Bleu",
+   "stage": "Chill In & Out",
+   "start": 1785000600000,
+   "end": 1785007800000
+  },
+  {
+   "id": "1-1-1785002400000",
+   "artist": "Kaskade Bleu",
+   "stage": "Wiese",
+   "start": 1785002400000,
+   "end": 1785007800000,
+   "description": "Debut at the lake — their sets in Berlin sell out in minutes."
+  },
+  {
+   "id": "1-4-1785002400000",
+   "artist": "Rüya",
+   "stage": "Juicy Bar",
+   "start": 1785002400000,
+   "end": 1785009600000,
+   "description": "Live hardware set — no laptop, all wires and sweat."
+  },
+  {
+   "id": "1-0-1785004200000",
+   "artist": "Madame Sirocco",
+   "stage": "Wald",
+   "start": 1785004200000,
+   "end": 1785011400000
+  },
+  {
+   "id": "1-6-1785004200000",
+   "artist": "Perpetuum",
+   "stage": "Junkyard",
+   "start": 1785004200000,
+   "end": 1785015000000
+  },
+  {
+   "id": "1-5-1785006000000",
+   "artist": "Kaskade Bleu",
+   "stage": "Pleasure Island",
+   "start": 1785006000000,
+   "end": 1785016800000
+  },
+  {
+   "id": "1-1-1785007800000",
+   "artist": "Ypsilon Crew",
+   "stage": "Wiese",
+   "start": 1785007800000,
+   "end": 1785018600000
+  },
+  {
+   "id": "1-3-1785007800000",
+   "artist": "Madame Sirocco",
+   "stage": "Loco Paraiso",
+   "start": 1785007800000,
+   "end": 1785013200000
+  },
+  {
+   "id": "1-8-1785007800000",
+   "artist": "Paloma Drift",
+   "stage": "Chill In & Out",
+   "start": 1785007800000,
+   "end": 1785016800000
+  },
+  {
+   "id": "1-2-1785009600000",
+   "artist": "Ondine",
+   "stage": "See",
+   "start": 1785009600000,
+   "end": 1785016800000
+  },
+  {
+   "id": "1-4-1785009600000",
+   "artist": "Madame Sirocco",
+   "stage": "Juicy Bar",
+   "start": 1785009600000,
+   "end": 1785015000000
+  },
+  {
+   "id": "1-7-1785009600000",
+   "artist": "Dero Mundi",
+   "stage": "Buk Corner",
+   "start": 1785009600000,
+   "end": 1785015000000,
+   "description": "Deep, patient morning sound. Bring a blanket and let it unfold."
+  },
+  {
+   "id": "1-0-1785011400000",
+   "artist": "Ambra Loop",
+   "stage": "Wald",
+   "start": 1785011400000,
+   "end": 1785018600000
+  },
+  {
+   "id": "1-4-1785015000000",
+   "artist": "Paloma Drift",
+   "stage": "Juicy Bar",
+   "start": 1785015000000,
+   "end": 1785024000000
+  },
+  {
+   "id": "1-6-1785015000000",
+   "artist": "Selva Ray",
+   "stage": "Junkyard",
+   "start": 1785015000000,
+   "end": 1785020400000
+  },
+  {
+   "id": "1-7-1785015000000",
+   "artist": "Sotto Voce",
+   "stage": "Buk Corner",
+   "start": 1785015000000,
+   "end": 1785022200000,
+   "description": "A four-hour journey from dub to daylight."
+  },
+  {
+   "id": "1-2-1785016800000",
+   "artist": "Fjelka",
+   "stage": "See",
+   "start": 1785016800000,
+   "end": 1785022200000
+  },
+  {
+   "id": "1-3-1785016800000",
+   "artist": "Kaskade Bleu",
+   "stage": "Loco Paraiso",
+   "start": 1785016800000,
+   "end": 1785025800000,
+   "description": "A four-hour journey from dub to daylight."
+  },
+  {
+   "id": "1-5-1785016800000",
+   "artist": "Ilo & Ivo",
+   "stage": "Pleasure Island",
+   "start": 1785016800000,
+   "end": 1785025800000
+  },
+  {
+   "id": "1-0-1785018600000",
+   "artist": "Perpetuum",
+   "stage": "Wald",
+   "start": 1785018600000,
+   "end": 1785025800000
+  },
+  {
+   "id": "1-1-1785018600000",
+   "artist": "Kaskade Bleu",
+   "stage": "Wiese",
+   "start": 1785018600000,
+   "end": 1785024000000,
+   "description": "Deep, patient morning sound. Bring a blanket and let it unfold."
+  },
+  {
+   "id": "1-6-1785020400000",
+   "artist": "Perpetuum",
+   "stage": "Junkyard",
+   "start": 1785020400000,
+   "end": 1785031200000
+  },
+  {
+   "id": "1-8-1785020400000",
+   "artist": "Lumen Twins",
+   "stage": "Chill In & Out",
+   "start": 1785020400000,
+   "end": 1785029400000
+  },
+  {
+   "id": "1-2-1785022200000",
+   "artist": "Fjelka",
+   "stage": "See",
+   "start": 1785022200000,
+   "end": 1785027600000
+  },
+  {
+   "id": "1-1-1785024000000",
+   "artist": "Ondine",
+   "stage": "Wiese",
+   "start": 1785024000000,
+   "end": 1785029400000
+  },
+  {
+   "id": "1-4-1785024000000",
+   "artist": "Zorya",
+   "stage": "Juicy Bar",
+   "start": 1785024000000,
+   "end": 1785034800000
+  },
+  {
+   "id": "1-0-1785025800000",
+   "artist": "Kilim & Moss",
+   "stage": "Wald",
+   "start": 1785025800000,
+   "end": 1785031200000
+  },
+  {
+   "id": "1-5-1785025800000",
+   "artist": "Quiet Riot Club",
+   "stage": "Pleasure Island",
+   "start": 1785025800000,
+   "end": 1785031200000
+  },
+  {
+   "id": "1-7-1785025800000",
+   "artist": "Quiet Riot Club",
+   "stage": "Buk Corner",
+   "start": 1785025800000,
+   "end": 1785031200000,
+   "description": "Closing ritual with strings and synths. Expect tears."
+  },
+  {
+   "id": "1-2-1785027600000",
+   "artist": "Perpetuum",
+   "stage": "See",
+   "start": 1785027600000,
+   "end": 1785034800000
+  },
+  {
+   "id": "1-1-1785029400000",
+   "artist": "Glimmerhand",
+   "stage": "Wiese",
+   "start": 1785029400000,
+   "end": 1785034800000
+  },
+  {
+   "id": "2-0-1785063600000",
+   "artist": "Paloma Drift",
+   "stage": "Wald",
+   "start": 1785063600000,
+   "end": 1785072600000
+  },
+  {
+   "id": "2-1-1785063600000",
+   "artist": "Vesna Kova",
+   "stage": "Wiese",
+   "start": 1785063600000,
+   "end": 1785072600000
+  },
+  {
+   "id": "2-2-1785063600000",
+   "artist": "Halcyon Dip",
+   "stage": "See",
+   "start": 1785063600000,
+   "end": 1785069000000
+  },
+  {
+   "id": "2-7-1785063600000",
+   "artist": "Ilo & Ivo",
+   "stage": "Buk Corner",
+   "start": 1785063600000,
+   "end": 1785069000000
+  },
+  {
+   "id": "2-8-1785063600000",
+   "artist": "Fjelka",
+   "stage": "Chill In & Out",
+   "start": 1785063600000,
+   "end": 1785070800000
+  },
+  {
+   "id": "2-5-1785067200000",
+   "artist": "Kaskade Bleu",
+   "stage": "Pleasure Island",
+   "start": 1785067200000,
+   "end": 1785072600000
+  },
+  {
+   "id": "2-2-1785069000000",
+   "artist": "Halcyon Dip",
+   "stage": "See",
+   "start": 1785069000000,
+   "end": 1785079800000
+  },
+  {
+   "id": "2-7-1785069000000",
+   "artist": "Vesna Kova",
+   "stage": "Buk Corner",
+   "start": 1785069000000,
+   "end": 1785079800000,
+   "description": "Live hardware set — no laptop, all wires and sweat."
+  },
+  {
+   "id": "2-3-1785070800000",
+   "artist": "Kilim & Moss",
+   "stage": "Loco Paraiso",
+   "start": 1785070800000,
+   "end": 1785076200000
+  },
+  {
+   "id": "2-4-1785070800000",
+   "artist": "Selva Ray",
+   "stage": "Juicy Bar",
+   "start": 1785070800000,
+   "end": 1785076200000,
+   "description": "A four-hour journey from dub to daylight."
+  },
+  {
+   "id": "2-6-1785070800000",
+   "artist": "Quiet Riot Club",
+   "stage": "Junkyard",
+   "start": 1785070800000,
+   "end": 1785081600000
+  },
+  {
+   "id": "2-8-1785070800000",
+   "artist": "Quiet Riot Club",
+   "stage": "Chill In & Out",
+   "start": 1785070800000,
+   "end": 1785076200000
+  },
+  {
+   "id": "2-1-1785072600000",
+   "artist": "Paloma Drift",
+   "stage": "Wiese",
+   "start": 1785072600000,
+   "end": 1785083400000,
+   "description": "Debut at the lake — their sets in Berlin sell out in minutes."
+  },
+  {
+   "id": "2-5-1785072600000",
+   "artist": "Zorya",
+   "stage": "Pleasure Island",
+   "start": 1785072600000,
+   "end": 1785081600000,
+   "description": "A four-hour journey from dub to daylight."
+  },
+  {
+   "id": "2-0-1785076200000",
+   "artist": "Mellow Anchor",
+   "stage": "Wald",
+   "start": 1785076200000,
+   "end": 1785085200000
+  },
+  {
+   "id": "2-3-1785076200000",
+   "artist": "Kaskade Bleu",
+   "stage": "Loco Paraiso",
+   "start": 1785076200000,
+   "end": 1785083400000
+  },
+  {
+   "id": "2-8-1785076200000",
+   "artist": "Rüya",
+   "stage": "Chill In & Out",
+   "start": 1785076200000,
+   "end": 1785083400000
+  },
+  {
+   "id": "2-2-1785079800000",
+   "artist": "Fjelka",
+   "stage": "See",
+   "start": 1785079800000,
+   "end": 1785085200000
+  },
+  {
+   "id": "2-4-1785079800000",
+   "artist": "Paloma Drift",
+   "stage": "Juicy Bar",
+   "start": 1785079800000,
+   "end": 1785088800000
+  },
+  {
+   "id": "2-7-1785079800000",
+   "artist": "Perpetuum",
+   "stage": "Buk Corner",
+   "start": 1785079800000,
+   "end": 1785085200000
+  },
+  {
+   "id": "2-5-1785081600000",
+   "artist": "Ilo & Ivo",
+   "stage": "Pleasure Island",
+   "start": 1785081600000,
+   "end": 1785090600000,
+   "description": "Debut at the lake — their sets in Berlin sell out in minutes."
+  },
+  {
+   "id": "2-6-1785081600000",
+   "artist": "Fjelka",
+   "stage": "Junkyard",
+   "start": 1785081600000,
+   "end": 1785088800000
+  },
+  {
+   "id": "2-1-1785083400000",
+   "artist": "Dero Mundi",
+   "stage": "Wiese",
+   "start": 1785083400000,
+   "end": 1785092400000
+  },
+  {
+   "id": "2-3-1785083400000",
+   "artist": "Paloma Drift",
+   "stage": "Loco Paraiso",
+   "start": 1785083400000,
+   "end": 1785090600000,
+   "description": "Fast, playful and impossible to stand still to."
+  },
+  {
+   "id": "2-8-1785083400000",
+   "artist": "Lumen Twins",
+   "stage": "Chill In & Out",
+   "start": 1785083400000,
+   "end": 1785088800000,
+   "description": "Fast, playful and impossible to stand still to."
+  },
+  {
+   "id": "2-0-1785085200000",
+   "artist": "Madame Sirocco",
+   "stage": "Wald",
+   "start": 1785085200000,
+   "end": 1785094200000,
+   "description": "A four-hour journey from dub to daylight."
+  },
+  {
+   "id": "2-2-1785085200000",
+   "artist": "Ambra Loop",
+   "stage": "See",
+   "start": 1785085200000,
+   "end": 1785096000000
+  },
+  {
+   "id": "2-4-1785088800000",
+   "artist": "Kaskade Bleu",
+   "stage": "Juicy Bar",
+   "start": 1785088800000,
+   "end": 1785097800000
+  },
+  {
+   "id": "2-7-1785088800000",
+   "artist": "Paloma Drift",
+   "stage": "Buk Corner",
+   "start": 1785088800000,
+   "end": 1785099600000
+  },
+  {
+   "id": "2-8-1785088800000",
+   "artist": "Kilim & Moss",
+   "stage": "Chill In & Out",
+   "start": 1785088800000,
+   "end": 1785097800000
+  },
+  {
+   "id": "2-3-1785090600000",
+   "artist": "Nokta",
+   "stage": "Loco Paraiso",
+   "start": 1785090600000,
+   "end": 1785096000000,
+   "description": "Fast, playful and impossible to stand still to."
+  },
+  {
+   "id": "2-5-1785090600000",
+   "artist": "Ilo & Ivo",
+   "stage": "Pleasure Island",
+   "start": 1785090600000,
+   "end": 1785097800000
+  },
+  {
+   "id": "2-1-1785092400000",
+   "artist": "Ambra Loop",
+   "stage": "Wiese",
+   "start": 1785092400000,
+   "end": 1785099600000
+  },
+  {
+   "id": "2-6-1785092400000",
+   "artist": "Ilo & Ivo",
+   "stage": "Junkyard",
+   "start": 1785092400000,
+   "end": 1785099600000
+  },
+  {
+   "id": "2-0-1785094200000",
+   "artist": "Glimmerhand",
+   "stage": "Wald",
+   "start": 1785094200000,
+   "end": 1785103200000
+  },
+  {
+   "id": "2-2-1785096000000",
+   "artist": "Paloma Drift",
+   "stage": "See",
+   "start": 1785096000000,
+   "end": 1785105000000,
+   "description": "A four-hour journey from dub to daylight."
+  },
+  {
+   "id": "2-3-1785096000000",
+   "artist": "Kaskade Bleu",
+   "stage": "Loco Paraiso",
+   "start": 1785096000000,
+   "end": 1785101400000
+  },
+  {
+   "id": "2-4-1785097800000",
+   "artist": "Karst",
+   "stage": "Juicy Bar",
+   "start": 1785097800000,
+   "end": 1785105000000
+  },
+  {
+   "id": "2-5-1785097800000",
+   "artist": "Fjelka",
+   "stage": "Pleasure Island",
+   "start": 1785097800000,
+   "end": 1785108600000
+  },
+  {
+   "id": "2-8-1785097800000",
+   "artist": "Aurora Vex",
+   "stage": "Chill In & Out",
+   "start": 1785097800000,
+   "end": 1785103200000,
+   "description": "Closing ritual with strings and synths. Expect tears."
+  },
+  {
+   "id": "2-7-1785099600000",
+   "artist": "Perpetuum",
+   "stage": "Buk Corner",
+   "start": 1785099600000,
+   "end": 1785108600000
+  },
+  {
+   "id": "2-3-1785101400000",
+   "artist": "Karst",
+   "stage": "Loco Paraiso",
+   "start": 1785101400000,
+   "end": 1785108600000
+  },
+  {
+   "id": "2-0-1785103200000",
+   "artist": "Mica Flux",
+   "stage": "Wald",
+   "start": 1785103200000,
+   "end": 1785110400000
+  },
+  {
+   "id": "2-1-1785103200000",
+   "artist": "Selva Ray",
+   "stage": "Wiese",
+   "start": 1785103200000,
+   "end": 1785112200000,
+   "description": "Deep, patient morning sound. Bring a blanket and let it unfold."
+  },
+  {
+   "id": "2-6-1785103200000",
+   "artist": "Rüya",
+   "stage": "Junkyard",
+   "start": 1785103200000,
+   "end": 1785108600000,
+   "description": "Deep, patient morning sound. Bring a blanket and let it unfold."
+  },
+  {
+   "id": "2-8-1785103200000",
+   "artist": "Rüya",
+   "stage": "Chill In & Out",
+   "start": 1785103200000,
+   "end": 1785114000000
+  },
+  {
+   "id": "2-2-1785105000000",
+   "artist": "Dero Mundi",
+   "stage": "See",
+   "start": 1785105000000,
+   "end": 1785114000000
+  },
+  {
+   "id": "2-4-1785105000000",
+   "artist": "Dero Mundi",
+   "stage": "Juicy Bar",
+   "start": 1785105000000,
+   "end": 1785110400000,
+   "description": "Deep, patient morning sound. Bring a blanket and let it unfold."
+  },
+  {
+   "id": "2-3-1785108600000",
+   "artist": "Halcyon Dip",
+   "stage": "Loco Paraiso",
+   "start": 1785108600000,
+   "end": 1785114000000
+  },
+  {
+   "id": "2-5-1785108600000",
+   "artist": "Ferns!",
+   "stage": "Pleasure Island",
+   "start": 1785108600000,
+   "end": 1785114000000,
+   "description": "A four-hour journey from dub to daylight."
+  },
+  {
+   "id": "2-6-1785108600000",
+   "artist": "Sotto Voce",
+   "stage": "Junkyard",
+   "start": 1785108600000,
+   "end": 1785115800000,
+   "description": "Closing ritual with strings and synths. Expect tears."
+  },
+  {
+   "id": "2-7-1785108600000",
+   "artist": "Tinctura",
+   "stage": "Buk Corner",
+   "start": 1785108600000,
+   "end": 1785114000000
+  },
+  {
+   "id": "2-0-1785110400000",
+   "artist": "Vesna Kova",
+   "stage": "Wald",
+   "start": 1785110400000,
+   "end": 1785115800000
+  },
+  {
+   "id": "2-4-1785110400000",
+   "artist": "Ilo & Ivo",
+   "stage": "Juicy Bar",
+   "start": 1785110400000,
+   "end": 1785117600000
+  },
+  {
+   "id": "2-1-1785112200000",
+   "artist": "Ambra Loop",
+   "stage": "Wiese",
+   "start": 1785112200000,
+   "end": 1785119400000,
+   "description": "Deep, patient morning sound. Bring a blanket and let it unfold."
+  },
+  {
+   "id": "2-8-1785114000000",
+   "artist": "Perpetuum",
+   "stage": "Chill In & Out",
+   "start": 1785114000000,
+   "end": 1785119400000,
+   "description": "Live hardware set — no laptop, all wires and sweat."
+  },
+  {
+   "id": "2-0-1785115800000",
+   "artist": "Zorya",
+   "stage": "Wald",
+   "start": 1785115800000,
+   "end": 1785117600000
+  },
+  {
+   "id": "2-6-1785115800000",
+   "artist": "Fjelka",
+   "stage": "Junkyard",
+   "start": 1785115800000,
+   "end": 1785117600000
+  },
+  {
+   "id": "2-5-1785117600000",
+   "artist": "Quiet Riot Club",
+   "stage": "Pleasure Island",
+   "start": 1785117600000,
+   "end": 1785121200000
+  },
+  {
+   "id": "2-1-1785119400000",
+   "artist": "Selva Ray",
+   "stage": "Wiese",
+   "start": 1785119400000,
+   "end": 1785121200000
+  },
+  {
+   "id": "2-8-1785119400000",
+   "artist": "Perpetuum",
+   "stage": "Chill In & Out",
+   "start": 1785119400000,
+   "end": 1785121200000
+  }
+ ]
+}
