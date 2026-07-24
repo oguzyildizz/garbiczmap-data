@@ -1,6 +1,14 @@
 {
-  "version": 7,
-  "updatedAt": "2026-07-24T02:00:00Z",
+  "version": 8,
+  "updatedAt": "2026-07-24T02:30:00Z",
+  "announcements": [
+    {
+      "id": "welcome-2026",
+      "title": "Welcome!",
+      "body": "Thanks for installing. Add your tent as a pin before the site fills up, and favorite the sets you don't want to miss.",
+      "date": "2026-07-24T02:30:00Z"
+    }
+  ],
   "faq": [
     {
       "q": "Does the app work offline?",
