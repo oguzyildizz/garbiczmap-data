@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updatedAt": "2026-07-24T00:00:00Z",
+  "version": 7,
+  "updatedAt": "2026-07-24T02:00:00Z",
   "faq": [
     {
       "q": "Does the app work offline?",
@@ -17,10 +17,6 @@
     {
       "q": "How do favorites work?",
       "a": "Tap any event in the schedule to open it, then tap Favorite. Favorited events glow on the timeline, and the heart button shows just your picks. Favorites stay on your phone."
-    },
-    {
-      "q": "Why don't the times match my phone's clock?",
-      "a": "All times are shown in the area's local timezone (Europe/Warsaw), regardless of your phone's timezone setting."
     },
     {
       "q": "Is this an official app?",
