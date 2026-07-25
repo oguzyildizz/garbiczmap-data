@@ -1,6 +1,6 @@
 {
- "version": 4,
- "updatedAt": "2026-07-24T20:42:14.741Z",
+ "version": 5,
+ "updatedAt": "2026-07-25T09:24:18.208Z",
  "stages": [
   {
    "name": "Wald",
@@ -998,6 +998,13 @@
    "end": 1784973600000
   },
   {
+   "id": "wiese-brava",
+   "artist": "Brava",
+   "stage": "Wiese",
+   "start": 1784973600000,
+   "end": 1784980800000
+  },
+  {
    "id": "pleasure-island-hengstenberg",
    "artist": "Hengstenberg",
    "stage": "Pleasure Island",
@@ -1011,13 +1018,6 @@
    "start": 1784973600000,
    "end": 1785002400000,
    "description": "Workshop."
-  },
-  {
-   "id": "see-brava",
-   "artist": "Brava",
-   "stage": "See",
-   "start": 1784977200000,
-   "end": 1784984400000
   },
   {
    "id": "weinbar-mia-twin",
