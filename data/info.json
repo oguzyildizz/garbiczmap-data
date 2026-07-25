@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "updatedAt": "2026-07-24T02:30:00Z",
+  "version": 9,
+  "updatedAt": "2026-07-25T12:00:00Z",
   "announcements": [
     {
       "id": "welcome-2026",
@@ -34,7 +34,7 @@
   "contact": {
     "label": "Questions or problems?",
     "linkText": "Message me",
-    "url": "https://t.me/oguzyi1diz"
+    "url": "https://t.me/aoguzyildiz"
   },
   "credit": "Made in Mexico with 💚🤍❤️"
 }
