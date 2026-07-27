@@ -1,6 +1,6 @@
 {
- "version": 6,
- "updatedAt": "2026-07-27T13:08:26.224Z",
+ "version": 7,
+ "updatedAt": "2026-07-27T13:14:34.700Z",
  "stages": [
   {
    "name": "Wald",
@@ -93,7 +93,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785337200000,
    "end": 1785340800000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-amphitheater-ashtanga-yoga",
@@ -101,7 +101,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785340800000,
    "end": 1785348000000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "weinbar-anni-herzer-b2b-ikarios",
@@ -130,7 +130,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785355200000,
    "end": 1785362400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-teebar-gong-sonido-estelar",
@@ -138,7 +138,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785362400000,
    "end": 1785366000000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-amphitheater-intentional-morning",
@@ -146,7 +146,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785398400000,
    "end": 1785405600000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-dome-guided-meditation-the-simple-feeling-of-being-by-g-nni",
@@ -154,7 +154,7 @@
    "stage": "Lichtung Dome",
    "start": 1785398400000,
    "end": 1785402000000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-moontent-twerkflow-by-bia",
@@ -162,7 +162,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785402000000,
    "end": 1785409200000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-dome-einfach-talky",
@@ -170,7 +170,7 @@
    "stage": "Lichtung Dome",
    "start": 1785402000000,
    "end": 1785405600000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-amphitheater-yivamukti-flow",
@@ -178,7 +178,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785405600000,
    "end": 1785412800000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-the-sober-space-totem-co-creation-by-olga-viktoriya",
@@ -186,7 +186,7 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785405600000,
    "end": 1785416400000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "weinbar-thorleif",
@@ -201,7 +201,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785409200000,
    "end": 1785416400000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-dome-presence-a-family-constellation",
@@ -209,7 +209,7 @@
    "stage": "Lichtung Dome",
    "start": 1785409200000,
    "end": 1785416400000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "loco-paraiso-opening-ceremony",
@@ -217,7 +217,7 @@
    "stage": "Loco Paraiso",
    "start": 1785412800000,
    "end": 1785420000000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "juicy-bar-sander-markey",
@@ -232,7 +232,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785412800000,
    "end": 1785420000000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "buk-corner-immy-b2b-triqi",
@@ -247,7 +247,7 @@
    "stage": "See",
    "start": 1785416400000,
    "end": 1785438000000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-moontent-breathwork-tabacco-ceremony-by-erich-joseph",
@@ -255,7 +255,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785416400000,
    "end": 1785423600000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-dome-release-realign-receive-by-julia-labonte-stoy",
@@ -263,7 +263,7 @@
    "stage": "Lichtung Dome",
    "start": 1785416400000,
    "end": 1785423600000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "loco-paraiso-ab-di",
@@ -285,7 +285,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785420000000,
    "end": 1785427200000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "junkyard-kneipe-radio-schrott",
@@ -307,7 +307,7 @@
    "stage": "Pleasure Island",
    "start": 1785423600000,
    "end": 1785427200000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "weinbar-deafcandance-b2b-frau-kochmann",
@@ -322,7 +322,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785423600000,
    "end": 1785430800000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "wiese-soukie-windish",
@@ -344,7 +344,7 @@
    "stage": "Loco Paraiso",
    "start": 1785427200000,
    "end": 1785432600000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "pleasure-island-chanella",
@@ -366,7 +366,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785427200000,
    "end": 1785434400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "junkyard-kneipe-bargain-bin",
@@ -381,7 +381,7 @@
    "stage": "Ambient",
    "start": 1785430800000,
    "end": 1785438000000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-amphitheater-cabaret-lilium",
@@ -389,7 +389,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785430800000,
    "end": 1785434400000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "wald-mathew-jonson-vril",
@@ -397,7 +397,7 @@
    "stage": "Wald",
    "start": 1785432600000,
    "end": 1785439800000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "loco-paraiso-opal-sunn",
@@ -405,7 +405,7 @@
    "stage": "Loco Paraiso",
    "start": 1785432600000,
    "end": 1785436200000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "juicy-bar-richii",
@@ -441,7 +441,7 @@
    "stage": "Weinbar",
    "start": 1785434400000,
    "end": 1785441600000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-teebar-colibri-b2b-intiche",
@@ -456,7 +456,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785434400000,
    "end": 1785441600000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-playground-dinner-experience",
@@ -471,7 +471,7 @@
    "stage": "Junkyard Kneipe",
    "start": 1785434400000,
    "end": 1785441600000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "performances-dreamweavers",
@@ -479,7 +479,7 @@
    "stage": "Performances",
    "start": 1785435300000,
    "end": 1785444300000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "loco-paraiso-kapten",
@@ -543,7 +543,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785441600000,
    "end": 1785448800000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "junkyard-kneipe-lisa-uebel",
@@ -551,7 +551,7 @@
    "stage": "Junkyard Kneipe",
    "start": 1785441600000,
    "end": 1785448800000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "loco-paraiso-sascha-cawa",
@@ -566,7 +566,7 @@
    "stage": "Pleasure Island",
    "start": 1785443400000,
    "end": 1785454200000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "see-l-f-t-presents-hell-was-boring",
@@ -574,7 +574,7 @@
    "stage": "See",
    "start": 1785445200000,
    "end": 1785448800000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "juicy-bar-toni-aparisi-mystery-affair",
@@ -589,7 +589,7 @@
    "stage": "Wald",
    "start": 1785447000000,
    "end": 1785452400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "wiese-paramida",
@@ -604,7 +604,7 @@
    "stage": "Buk Corner",
    "start": 1785448800000,
    "end": 1785452400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "see-dresden",
@@ -654,7 +654,7 @@
    "stage": "Loco Paraiso",
    "start": 1785450600000,
    "end": 1785456000000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "wald-gigi-fm",
@@ -704,7 +704,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785456000000,
    "end": 1785459600000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "junkyard-kneipe-jini-piju",
@@ -810,7 +810,7 @@
    "stage": "Performances",
    "start": 1785477600000,
    "end": 1785480000000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "juicy-bar-shot-by-stanley",
@@ -825,7 +825,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785484800000,
    "end": 1785492000000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-dome-meditation",
@@ -833,7 +833,7 @@
    "stage": "Lichtung Dome",
    "start": 1785484800000,
    "end": 1785488400000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-the-sober-space-mindful-metamorphosis-movement-breathwork-meditation",
@@ -841,7 +841,7 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785484800000,
    "end": 1785488400000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "buk-corner-victoria-s-sequence",
@@ -863,7 +863,7 @@
    "stage": "Pleasure Island",
    "start": 1785488400000,
    "end": 1785492000000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-moontent-the-friction-department",
@@ -871,7 +871,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785488400000,
    "end": 1785495600000,
-   "description": "Talk"
+   "type": "T"
   },
   {
    "id": "lichtung-dome-zen-thai-shiatsu-by-lauren-cuthberth",
@@ -879,7 +879,7 @@
    "stage": "Lichtung Dome",
    "start": 1785488400000,
    "end": 1785495600000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-the-sober-space-self-regulation-station-chill-out-zone",
@@ -887,7 +887,7 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785488400000,
    "end": 1785495600000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-playground-a-journey-through-breath-sound-by-spirit-of-breath",
@@ -895,7 +895,7 @@
    "stage": "Lichtung Playground",
    "start": 1785488400000,
    "end": 1785495600000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "pleasure-island-prano",
@@ -917,7 +917,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785492000000,
    "end": 1785499200000,
-   "description": "Talk"
+   "type": "T"
   },
   {
    "id": "loco-paraiso-kozlow",
@@ -939,7 +939,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785495600000,
    "end": 1785502800000,
-   "description": "Talk"
+   "type": "T"
   },
   {
    "id": "lichtung-dome-zen-tea-ceremony",
@@ -947,7 +947,7 @@
    "stage": "Lichtung Dome",
    "start": 1785495600000,
    "end": 1785502800000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-the-sober-space-navigating-festivals-sober-and-finding-your-crew",
@@ -955,7 +955,7 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785495600000,
    "end": 1785502800000,
-   "description": "Talk"
+   "type": "T"
   },
   {
    "id": "lichtung-playground-cold-exposure-by-andi-sascha-meetingpoint-sauna",
@@ -963,7 +963,7 @@
    "stage": "Lichtung Playground",
    "start": 1785495600000,
    "end": 1785499200000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "buk-corner-lemonella",
@@ -978,7 +978,7 @@
    "stage": "See",
    "start": 1785499200000,
    "end": 1785517200000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "pleasure-island-riff-orange",
@@ -1000,7 +1000,7 @@
    "stage": "Ambient",
    "start": 1785499200000,
    "end": 1785502800000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "lichtung-amphitheater-neuroflexibility-poliphasic-co2-training-by-rodho-dr-xico",
@@ -1008,7 +1008,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785499200000,
    "end": 1785506400000,
-   "description": "Talk"
+   "type": "T"
   },
   {
    "id": "junkyard-amphitheater-fr-ht-cks-tv",
@@ -1016,7 +1016,7 @@
    "stage": "Junkyard Amphitheater",
    "start": 1785499200000,
    "end": 1785506400000,
-   "description": "Game"
+   "type": "G"
   },
   {
    "id": "loco-paraiso-lulah-francs",
@@ -1031,7 +1031,7 @@
    "stage": "Ambient",
    "start": 1785502800000,
    "end": 1785524400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-moontent-resonance-flow-lab-by-colibri-intiche",
@@ -1039,7 +1039,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785502800000,
    "end": 1785510000000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-dome-sacred-business-by-nikki-trott",
@@ -1047,7 +1047,7 @@
    "stage": "Lichtung Dome",
    "start": 1785502800000,
    "end": 1785510000000,
-   "description": "Talk"
+   "type": "T"
   },
   {
    "id": "lichtung-the-sober-space-sober-speed-dating",
@@ -1055,7 +1055,7 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785502800000,
    "end": 1785510000000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "buk-corner-ilja-franz-b2b-aii-ps",
@@ -1070,7 +1070,7 @@
    "stage": "Pleasure Island",
    "start": 1785506400000,
    "end": 1785510000000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "juicy-bar-amina",
@@ -1092,7 +1092,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785506400000,
    "end": 1785513600000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "junkyard-amphitheater-strip-it-right-how-do-led-strips-work",
@@ -1100,7 +1100,7 @@
    "stage": "Junkyard Amphitheater",
    "start": 1785506400000,
    "end": 1785513600000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "loco-paraiso-paula-tape",
@@ -1122,7 +1122,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785510000000,
    "end": 1785517200000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-dome-initiated-to-indigenous-lineages-by-rani-messias",
@@ -1130,7 +1130,7 @@
    "stage": "Lichtung Dome",
    "start": 1785510000000,
    "end": 1785517200000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "wald-spectribe",
@@ -1166,7 +1166,7 @@
    "stage": "Performances",
    "start": 1785513600000,
    "end": 1785520800000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "lichtung-teebar-lia-ensemble",
@@ -1174,7 +1174,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785513600000,
    "end": 1785520800000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-amphitheater-theater-of-co-creation-by-rico-loop",
@@ -1182,7 +1182,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785513600000,
    "end": 1785520800000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "junkyard-kneipe-lars-vegas",
@@ -1197,7 +1197,7 @@
    "stage": "Junkyard Amphitheater",
    "start": 1785513600000,
    "end": 1785520800000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "see-loui-beton",
@@ -1219,7 +1219,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785517200000,
    "end": 1785524400000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "wiese-katia-curie",
@@ -1248,7 +1248,7 @@
    "stage": "Weinbar",
    "start": 1785520800000,
    "end": 1785526200000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-teebar-spirit-theatre-by-chen-ting-lihla",
@@ -1256,7 +1256,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785520800000,
    "end": 1785524400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-playground-dinner-experience-x2",
@@ -1271,7 +1271,7 @@
    "stage": "Junkyard Amphitheater",
    "start": 1785520800000,
    "end": 1785528000000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "performances-dreamweavers-x2",
@@ -1279,7 +1279,7 @@
    "stage": "Performances",
    "start": 1785521700000,
    "end": 1785530700000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "wald-sandrien",
@@ -1294,7 +1294,7 @@
    "stage": "See",
    "start": 1785524400000,
    "end": 1785528000000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "loco-paraiso-mandrake",
@@ -1309,7 +1309,7 @@
    "stage": "Pleasure Island",
    "start": 1785524400000,
    "end": 1785528000000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "ambient-gaamer",
@@ -1324,7 +1324,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785524400000,
    "end": 1785531600000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "weinbar-isabeau-fort-fromm-now",
@@ -1367,7 +1367,7 @@
    "stage": "Junkyard Amphitheater",
    "start": 1785528000000,
    "end": 1785535200000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "wald-tobias",
@@ -1375,7 +1375,7 @@
    "stage": "Wald",
    "start": 1785529800000,
    "end": 1785535200000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "juicy-bar-carl-berge",
@@ -1397,7 +1397,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785531600000,
    "end": 1785538800000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "performances-corps-et-cris-by-ylva-falk",
@@ -1405,7 +1405,7 @@
    "stage": "Performances",
    "start": 1785533400000,
    "end": 1785537000000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "wald-r-dh-d",
@@ -1427,7 +1427,7 @@
    "stage": "Buk Corner",
    "start": 1785535200000,
    "end": 1785538800000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "see-lander-adriaan",
@@ -1435,7 +1435,7 @@
    "stage": "See",
    "start": 1785535200000,
    "end": 1785538800000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "pleasure-island-shoki287",
@@ -1443,7 +1443,7 @@
    "stage": "Pleasure Island",
    "start": 1785535200000,
    "end": 1785540600000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "ambient-m-morellion-thunderklaus",
@@ -1479,7 +1479,7 @@
    "stage": "Performances",
    "start": 1785537000000,
    "end": 1785538800000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "buk-corner-bruno-schmidt",
@@ -1515,7 +1515,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785538800000,
    "end": 1785542400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "junkyard-kneipe-love-vocoders",
@@ -1537,7 +1537,7 @@
    "stage": "Performances",
    "start": 1785540600000,
    "end": 1785542400000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "wiese-leon-vynehall",
@@ -1559,7 +1559,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785542400000,
    "end": 1785546000000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "junkyard-schuppen-dille-baby-fran",
@@ -1574,7 +1574,7 @@
    "stage": "Wald",
    "start": 1785544200000,
    "end": 1785547800000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "see-wd40",
@@ -1596,7 +1596,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785546000000,
    "end": 1785551400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "junkyard-kneipe-schrotti-allstars-x2",
@@ -1653,7 +1653,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785551400000,
    "end": 1785556800000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "see-lisbird",
@@ -1682,7 +1682,7 @@
    "stage": "Juicy Bar",
    "start": 1785558600000,
    "end": 1785562200000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "see-dr-gonzo",
@@ -1704,7 +1704,7 @@
    "stage": "Performances",
    "start": 1785564000000,
    "end": 1785567600000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "ambient-lemonella",
@@ -1719,7 +1719,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785571200000,
    "end": 1785574800000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-dome-conscious-parenting-by-dave-dinger",
@@ -1727,7 +1727,7 @@
    "stage": "Lichtung Dome",
    "start": 1785571200000,
    "end": 1785574800000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-the-sober-space-slow-soulful-sober-mornings",
@@ -1735,7 +1735,7 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785571200000,
    "end": 1785574800000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-amphitheater-psychedelic-breath-purpose-by-eva-kaczor",
@@ -1743,7 +1743,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785574800000,
    "end": 1785582000000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-moontent-dmt-decompression-in-the-water-free-diving-static-training",
@@ -1751,7 +1751,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785574800000,
    "end": 1785578400000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-dome-laughter-yoga-by-brahmarella",
@@ -1759,7 +1759,7 @@
    "stage": "Lichtung Dome",
    "start": 1785574800000,
    "end": 1785578400000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-the-sober-space-self-regulation-station-chill-out-zone-x2",
@@ -1767,7 +1767,7 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785574800000,
    "end": 1785578400000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-playground-brunch",
@@ -1803,7 +1803,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785578400000,
    "end": 1785585600000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-dome-high-on-story-by-vishal-jodhani",
@@ -1811,7 +1811,7 @@
    "stage": "Lichtung Dome",
    "start": 1785578400000,
    "end": 1785585600000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-the-sober-space-temazcal-ceremony-guided-by-zohar-meeting-point-sauna",
@@ -1819,7 +1819,7 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785578400000,
    "end": 1785585600000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "see-brava",
@@ -1841,7 +1841,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785582000000,
    "end": 1785589200000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "pleasure-island-vouging-workshop",
@@ -1849,7 +1849,7 @@
    "stage": "Pleasure Island",
    "start": 1785585600000,
    "end": 1785589200000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "juicy-bar-lourdes-lourdes",
@@ -1871,7 +1871,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785585600000,
    "end": 1785589200000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-dome-longevity-tradition-modernity-or-capitalism-by-dainius-guzauskas",
@@ -1879,7 +1879,7 @@
    "stage": "Lichtung Dome",
    "start": 1785585600000,
    "end": 1785592800000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "junkyard-kneipe-brunchtime",
@@ -1894,7 +1894,7 @@
    "stage": "Junkyard Amphitheater",
    "start": 1785585600000,
    "end": 1785596400000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "buk-corner-achilles-moss",
@@ -1909,7 +1909,7 @@
    "stage": "See",
    "start": 1785589200000,
    "end": 1785594600000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "pleasure-island-concentio",
@@ -1931,7 +1931,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785589200000,
    "end": 1785596400000,
-   "description": "Talk"
+   "type": "T"
   },
   {
    "id": "juicy-bar-princess-room-live",
@@ -1939,7 +1939,7 @@
    "stage": "Juicy Bar",
    "start": 1785592800000,
    "end": 1785598200000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-teebar-nerual",
@@ -1954,7 +1954,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785592800000,
    "end": 1785600000000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-dome-viazalka-ritual-of-connection",
@@ -1962,7 +1962,7 @@
    "stage": "Lichtung Dome",
    "start": 1785592800000,
    "end": 1785600000000,
-   "description": "Talk"
+   "type": "T"
   },
   {
    "id": "see-nixe",
@@ -2005,7 +2005,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785596400000,
    "end": 1785600000000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "junkyard-kneipe-iiifuh-koliii",
@@ -2020,7 +2020,7 @@
    "stage": "Junkyard Amphitheater",
    "start": 1785596400000,
    "end": 1785603600000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "juicy-bar-pony",
@@ -2049,7 +2049,7 @@
    "stage": "Performances",
    "start": 1785600000000,
    "end": 1785603600000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "lichtung-teebar-alma-linda-b2b-earthtones",
@@ -2064,7 +2064,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785600000000,
    "end": 1785610800000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "see-sutsche",
@@ -2100,7 +2100,7 @@
    "stage": "Junkyard Amphitheater",
    "start": 1785603600000,
    "end": 1785607200000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "juicy-bar-like-lava-b2b-karl",
@@ -2122,7 +2122,7 @@
    "stage": "Ambient",
    "start": 1785607200000,
    "end": 1785614400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "weinbar-sunny-s-karaoke",
@@ -2130,7 +2130,7 @@
    "stage": "Weinbar",
    "start": 1785607200000,
    "end": 1785614400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "junkyard-kneipe-trotz",
@@ -2138,7 +2138,7 @@
    "stage": "Junkyard Kneipe",
    "start": 1785607200000,
    "end": 1785614400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "performances-dreamweavers-x3",
@@ -2146,7 +2146,7 @@
    "stage": "Performances",
    "start": 1785608100000,
    "end": 1785614400000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "wald-peryl",
@@ -2154,7 +2154,7 @@
    "stage": "Wald",
    "start": 1785609000000,
    "end": 1785612600000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "buk-corner-marie-montexier",
@@ -2169,7 +2169,7 @@
    "stage": "See",
    "start": 1785610800000,
    "end": 1785614400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "loco-paraiso-rakim-under-david-triana",
@@ -2198,7 +2198,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785610800000,
    "end": 1785618000000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-moontent-the-love-bubble",
@@ -2206,7 +2206,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785610800000,
    "end": 1785625200000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "wald-abstract-division",
@@ -2235,7 +2235,7 @@
    "stage": "See",
    "start": 1785614400000,
    "end": 1785618000000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "ambient-ektoplast",
@@ -2257,7 +2257,7 @@
    "stage": "Junkyard Kneipe",
    "start": 1785614400000,
    "end": 1785621600000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "junkyard-schuppen-shoee",
@@ -2265,7 +2265,7 @@
    "stage": "Junkyard Schuppen",
    "start": 1785614400000,
    "end": 1785618000000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "buk-corner-gene-on-earth",
@@ -2336,7 +2336,7 @@
    "stage": "Junkyard Kneipe",
    "start": 1785621600000,
    "end": 1785627000000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "juicy-bar-esveae",
@@ -2379,7 +2379,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785625200000,
    "end": 1785632400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-moontent-hilo-sound-vibroaccoustic-chillout",
@@ -2387,7 +2387,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785625200000,
    "end": 1785632400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "junkyard-schuppen-dj-hippiecrack",
@@ -2402,7 +2402,7 @@
    "stage": "Performances",
    "start": 1785627000000,
    "end": 1785628800000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "junkyard-kneipe-karaoke-wheel-of-fortune",
@@ -2410,7 +2410,7 @@
    "stage": "Junkyard Kneipe",
    "start": 1785627000000,
    "end": 1785632400000,
-   "description": "Game"
+   "type": "G"
   },
   {
    "id": "wald-orbe",
@@ -2607,7 +2607,7 @@
    "stage": "Pleasure Island",
    "start": 1785648600000,
    "end": 1785650400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "pleasure-island-daisy-cutter",
@@ -2657,7 +2657,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785657600000,
    "end": 1785664800000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-the-sober-space-slow-soulful-sober-mornings-yoga-breathwork-sound-meditation",
@@ -2665,7 +2665,7 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785657600000,
    "end": 1785661200000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-amphitheater-qi-gong-faultiersport-by-dave-dinger",
@@ -2673,7 +2673,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785661200000,
    "end": 1785664800000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-the-sober-space-self-regulation-station-chill-out-zone-x3",
@@ -2681,7 +2681,7 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785661200000,
    "end": 1785668400000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-playground-brunch-x2",
@@ -2717,7 +2717,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785664800000,
    "end": 1785672000000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-moontent-cacao-ceremony-x2",
@@ -2725,7 +2725,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785664800000,
    "end": 1785672000000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "buk-corner-elli",
@@ -2747,7 +2747,7 @@
    "stage": "Weinbar",
    "start": 1785668400000,
    "end": 1785704400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-the-sober-space-get-ready-for-some-sober-partying",
@@ -2755,7 +2755,7 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785668400000,
    "end": 1785675600000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "wiese-queeratorio",
@@ -2763,7 +2763,7 @@
    "stage": "Wiese",
    "start": 1785670200000,
    "end": 1785675600000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "juicy-bar-alko-melissa",
@@ -2785,7 +2785,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785672000000,
    "end": 1785679200000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "lichtung-moontent-einfach-talky",
@@ -2793,7 +2793,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785672000000,
    "end": 1785675600000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "junkyard-amphitheater-fr-hst-cks-tv",
@@ -2801,7 +2801,7 @@
    "stage": "Junkyard Amphitheater",
    "start": 1785672000000,
    "end": 1785679200000,
-   "description": "Game"
+   "type": "G"
   },
   {
    "id": "wald-cliff",
@@ -2837,7 +2837,7 @@
    "stage": "See",
    "start": 1785679200000,
    "end": 1785686400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "pleasure-island-kitagawa",
@@ -2866,7 +2866,7 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785679200000,
    "end": 1785682800000,
-   "description": "Workshop"
+   "type": "W"
   },
   {
    "id": "junkyard-kneipe-das-gro-e-musikquiz",
@@ -2874,7 +2874,7 @@
    "stage": "Junkyard Kneipe",
    "start": 1785679200000,
    "end": 1785686400000,
-   "description": "Game"
+   "type": "G"
   },
   {
    "id": "wiese-esther-silex",
@@ -2903,7 +2903,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785682800000,
    "end": 1785686400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "wald-sheila-b2b-pauli-pocket",
@@ -2932,7 +2932,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785686400000,
    "end": 1785693600000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "junkyard-kneipe-bingo",
@@ -2940,7 +2940,7 @@
    "stage": "Junkyard Kneipe",
    "start": 1785686400000,
    "end": 1785693600000,
-   "description": "Game"
+   "type": "G"
   },
   {
    "id": "wiese-virginia",
@@ -2969,7 +2969,7 @@
    "stage": "Juicy Bar",
    "start": 1785690000000,
    "end": 1785693600000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "ambient-lila-collective-x-sonarium",
@@ -2977,7 +2977,7 @@
    "stage": "Ambient",
    "start": 1785690000000,
    "end": 1785697200000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "wald-v371x",
@@ -2992,7 +2992,7 @@
    "stage": "See",
    "start": 1785693600000,
    "end": 1785697200000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "pleasure-island-ze-na-b2b-pj-bridger",
@@ -3014,7 +3014,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785693600000,
    "end": 1785700800000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "junkyard-kneipe-die-beh-rde",
@@ -3022,7 +3022,7 @@
    "stage": "Junkyard Kneipe",
    "start": 1785693600000,
    "end": 1785700800000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "wiese-kevin-saunderson",
@@ -3037,7 +3037,7 @@
    "stage": "Buk Corner",
    "start": 1785697200000,
    "end": 1785700800000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "see-mimi-love",
@@ -3094,7 +3094,7 @@
    "stage": "Junkyard Kneipe",
    "start": 1785700800000,
    "end": 1785708000000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "juicy-bar-special-guest",
@@ -3144,7 +3144,7 @@
    "stage": "Loco Paraiso",
    "start": 1785708000000,
    "end": 1785711600000,
-   "description": "Performance"
+   "type": "P"
   },
   {
    "id": "ambient-avi-schneider-friends",
@@ -3152,7 +3152,7 @@
    "stage": "Ambient",
    "start": 1785708000000,
    "end": 1785715200000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-teebar-hovr",
@@ -3167,7 +3167,7 @@
    "stage": "Junkyard Kneipe",
    "start": 1785708000000,
    "end": 1785715200000,
-   "description": "Game"
+   "type": "G"
   },
   {
    "id": "junkyard-schuppen-schrotti-allstars",
@@ -3210,7 +3210,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785715200000,
    "end": 1785722400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "juicy-bar-kotoe",
@@ -3232,7 +3232,7 @@
    "stage": "See",
    "start": 1785718800000,
    "end": 1785726000000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-teebar-piano-piano",
@@ -3282,7 +3282,7 @@
    "stage": "Ambient",
    "start": 1785736800000,
    "end": 1785747600000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "buk-corner-konstantin",
@@ -3332,7 +3332,7 @@
    "stage": "Lichtung Moontent",
    "start": 1785754800000,
    "end": 1785783600000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "buk-corner-dj-so",
@@ -3354,7 +3354,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785758400000,
    "end": 1785765600000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "ambient-baige-b2b-bad-tourist",
@@ -3383,7 +3383,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785765600000,
    "end": 1785772800000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "see-rss-disco",
@@ -3412,7 +3412,7 @@
    "stage": "Ambient",
    "start": 1785772800000,
    "end": 1785780000000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-teebar-andie-sounds",
@@ -3420,7 +3420,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785772800000,
    "end": 1785780000000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "weinbar-luca-garcia",
@@ -3449,7 +3449,7 @@
    "stage": "Lichtung Teebar",
    "start": 1785783600000,
    "end": 1785785400000,
-   "description": "Live Act"
+   "type": "L"
   },
   {
    "id": "lichtung-teebar-huni-kuin-medicine",
