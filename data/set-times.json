@@ -1,54 +1,82 @@
 {
- "version": 5,
- "updatedAt": "2026-07-25T09:24:18.208Z",
+ "version": 6,
+ "updatedAt": "2026-07-27T13:08:26.224Z",
  "stages": [
   {
    "name": "Wald",
-   "color": "#4ade80"
+   "color": "#4CD96A"
   },
   {
    "name": "Wiese",
-   "color": "#e879f9"
-  },
-  {
-   "name": "See",
-   "color": "#38bdf8"
-  },
-  {
-   "name": "Loco Paraiso",
-   "color": "#fbbf24"
-  },
-  {
-   "name": "Juicy Bar",
-   "color": "#fb923c"
-  },
-  {
-   "name": "Pleasure Island",
-   "color": "#93c5fd"
-  },
-  {
-   "name": "Junkyard",
-   "color": "#f87171"
+   "color": "#E05CB2"
   },
   {
    "name": "Buk Corner",
-   "color": "#c084fc"
+   "color": "#B9FF00"
   },
   {
-   "name": "Chill In & Out",
-   "color": "#a3e635"
+   "name": "See",
+   "color": "#64C8FF"
   },
   {
-   "name": "Lichtung",
-   "color": "#fcd34d"
+   "name": "Loco Paraiso",
+   "color": "#FFC800"
   },
   {
-   "name": "Weinbar",
-   "color": "#f472b6"
+   "name": "Pleasure Island",
+   "color": "#00F5FF"
+  },
+  {
+   "name": "Juicy Bar",
+   "color": "#B86AD6"
   },
   {
    "name": "Ambient",
-   "color": "#2dd4bf"
+   "color": "#00FFD1"
+  },
+  {
+   "name": "Weinbar",
+   "color": "#D48832"
+  },
+  {
+   "name": "Performances",
+   "color": "#ffffff"
+  },
+  {
+   "name": "Lichtung Teebar",
+   "color": "#D7FF9F"
+  },
+  {
+   "name": "Lichtung Amphitheater",
+   "color": "#D7FF9F"
+  },
+  {
+   "name": "Lichtung Moontent",
+   "color": "#D7FF9F"
+  },
+  {
+   "name": "Lichtung Dome",
+   "color": "#D7FF9F"
+  },
+  {
+   "name": "Lichtung The Sober Space",
+   "color": "#D7FF9F"
+  },
+  {
+   "name": "Lichtung Playground",
+   "color": "#D7FF9F"
+  },
+  {
+   "name": "Junkyard Kneipe",
+   "color": "#B4B4B4"
+  },
+  {
+   "name": "Junkyard Amphitheater",
+   "color": "#B4B4B4"
+  },
+  {
+   "name": "Junkyard Schuppen",
+   "color": "#B4B4B4"
   }
  ],
  "sets": [
@@ -56,2073 +84,3386 @@
    "id": "weinbar-yusuf-lemone",
    "artist": "Yusuf Lemone",
    "stage": "Weinbar",
-   "start": 1784732400000,
-   "end": 1784743200000
+   "start": 1785337200000,
+   "end": 1785348000000
   },
   {
-   "id": "lichtung-ash-radford",
-   "artist": "Ash Radford",
-   "stage": "Lichtung",
-   "start": 1784743200000,
-   "end": 1784750400000
+   "id": "lichtung-moontent-cacao-ceremony",
+   "artist": "Cacao Ceremony",
+   "stage": "Lichtung Moontent",
+   "start": 1785337200000,
+   "end": 1785340800000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-amphitheater-ashtanga-yoga",
+   "artist": "Ashtanga Yoga",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785340800000,
+   "end": 1785348000000,
+   "description": "Workshop"
   },
   {
    "id": "weinbar-anni-herzer-b2b-ikarios",
    "artist": "Anni Herzer b2b Ikarios",
    "stage": "Weinbar",
-   "start": 1784743200000,
-   "end": 1784750400000
+   "start": 1785348000000,
+   "end": 1785355200000
   },
   {
-   "id": "lichtung-1781-collective-classical-piano",
-   "artist": "1781 Collective: Classical Piano",
-   "stage": "Lichtung",
-   "start": 1784750400000,
-   "end": 1784757600000
+   "id": "lichtung-teebar-ash-radford",
+   "artist": "Ash Radford",
+   "stage": "Lichtung Teebar",
+   "start": 1785348000000,
+   "end": 1785355200000
   },
   {
    "id": "weinbar-matteo-talbot-felix-larson",
    "artist": "Matteo Talbot & Felix Larson",
    "stage": "Weinbar",
-   "start": 1784750400000,
-   "end": 1784761200000
+   "start": 1785355200000,
+   "end": 1785366000000
   },
   {
-   "id": "lichtung-gong-sonido-estelar",
+   "id": "lichtung-teebar-1781-collective-classical-piano",
+   "artist": "1781 Collective: Classical Piano",
+   "stage": "Lichtung Teebar",
+   "start": 1785355200000,
+   "end": 1785362400000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-teebar-gong-sonido-estelar",
    "artist": "Gong Sonido Estelar",
-   "stage": "Lichtung",
-   "start": 1784757600000,
-   "end": 1784761200000
+   "stage": "Lichtung Teebar",
+   "start": 1785362400000,
+   "end": 1785366000000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-amphitheater-intentional-morning",
+   "artist": "Intentional Morning",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785398400000,
+   "end": 1785405600000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-dome-guided-meditation-the-simple-feeling-of-being-by-g-nni",
+   "artist": "Guided Meditation: The simple feeling of being by Günni",
+   "stage": "Lichtung Dome",
+   "start": 1785398400000,
+   "end": 1785402000000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-moontent-twerkflow-by-bia",
+   "artist": "Twerkflow by Bia",
+   "stage": "Lichtung Moontent",
+   "start": 1785402000000,
+   "end": 1785409200000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-dome-einfach-talky",
+   "artist": "Einfach Talky",
+   "stage": "Lichtung Dome",
+   "start": 1785402000000,
+   "end": 1785405600000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-amphitheater-yivamukti-flow",
+   "artist": "Yivamukti Flow",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785405600000,
+   "end": 1785412800000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-the-sober-space-totem-co-creation-by-olga-viktoriya",
+   "artist": "Totem Co-Creation by Olga & Viktoriya",
+   "stage": "Lichtung The Sober Space",
+   "start": 1785405600000,
+   "end": 1785416400000,
+   "description": "Workshop"
   },
   {
    "id": "weinbar-thorleif",
    "artist": "Thorleif",
    "stage": "Weinbar",
-   "start": 1784804400000,
-   "end": 1784818800000
+   "start": 1785409200000,
+   "end": 1785423600000
+  },
+  {
+   "id": "lichtung-moontent-men-s-circle-by-fred-day",
+   "artist": "Men's Circle by Fred Day",
+   "stage": "Lichtung Moontent",
+   "start": 1785409200000,
+   "end": 1785416400000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-dome-presence-a-family-constellation",
+   "artist": "Presence - A family Constellation",
+   "stage": "Lichtung Dome",
+   "start": 1785409200000,
+   "end": 1785416400000,
+   "description": "Workshop"
   },
   {
    "id": "loco-paraiso-opening-ceremony",
-   "artist": "Opening ceremony",
+   "artist": "OPENING CEREMONY!",
    "stage": "Loco Paraiso",
-   "start": 1784808000000,
-   "end": 1784815200000,
-   "description": "Performance."
+   "start": 1785412800000,
+   "end": 1785420000000,
+   "description": "Performance"
   },
   {
-   "id": "see-cassette-heads-takeover",
-   "artist": "Cassette Heads Takeover",
-   "stage": "See",
-   "start": 1784811600000,
-   "end": 1784833200000,
-   "description": "Live set."
+   "id": "juicy-bar-sander-markey",
+   "artist": "Sander Markey",
+   "stage": "Juicy Bar",
+   "start": 1785412800000,
+   "end": 1785420000000
+  },
+  {
+   "id": "lichtung-amphitheater-retro-fit-manifest-by-katzi-schamens",
+   "artist": "Retro Fit & Manifest by Katzi Schamens",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785412800000,
+   "end": 1785420000000,
+   "description": "Workshop"
   },
   {
    "id": "buk-corner-immy-b2b-triqi",
    "artist": "Immy b2b Triqi",
    "stage": "Buk Corner",
-   "start": 1784811600000,
-   "end": 1784822400000,
-   "description": "Garage Girls Takeover"
+   "start": 1785416400000,
+   "end": 1785427200000
+  },
+  {
+   "id": "see-cassette-heads-takeover",
+   "artist": "Cassette Heads Takeover",
+   "stage": "See",
+   "start": 1785416400000,
+   "end": 1785438000000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-moontent-breathwork-tabacco-ceremony-by-erich-joseph",
+   "artist": "Breathwork & Tabacco Ceremony by Erich Joseph",
+   "stage": "Lichtung Moontent",
+   "start": 1785416400000,
+   "end": 1785423600000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-dome-release-realign-receive-by-julia-labonte-stoy",
+   "artist": "Release, Realign, Receive by Julia Labonte-Stoy",
+   "stage": "Lichtung Dome",
+   "start": 1785416400000,
+   "end": 1785423600000,
+   "description": "Workshop"
   },
   {
    "id": "loco-paraiso-ab-di",
    "artist": "ABĒDI",
    "stage": "Loco Paraiso",
-   "start": 1784815200000,
-   "end": 1784822400000
+   "start": 1785420000000,
+   "end": 1785427200000
+  },
+  {
+   "id": "juicy-bar-meriem-s",
+   "artist": "Meriem S",
+   "stage": "Juicy Bar",
+   "start": 1785420000000,
+   "end": 1785427200000
+  },
+  {
+   "id": "lichtung-amphitheater-recode-workout-by-nico-andonakis",
+   "artist": "RECODE Workout by Nico Andonakis",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785420000000,
+   "end": 1785427200000,
+   "description": "Workshop"
+  },
+  {
+   "id": "junkyard-kneipe-radio-schrott",
+   "artist": "Radio Schrott",
+   "stage": "Junkyard Kneipe",
+   "start": 1785420000000,
+   "end": 1785427200000
   },
   {
    "id": "wald-m-morellion-b2b-dj-spock",
    "artist": "M.Morellion b2b dj-spock",
    "stage": "Wald",
-   "start": 1784818800000,
-   "end": 1784827800000
+   "start": 1785423600000,
+   "end": 1785432600000
   },
   {
    "id": "pleasure-island-bling-bling-papaya",
    "artist": "Bling Bling Papaya",
    "stage": "Pleasure Island",
-   "start": 1784818800000,
-   "end": 1784822400000,
-   "description": "Live set."
+   "start": 1785423600000,
+   "end": 1785427200000,
+   "description": "Live Act"
   },
   {
    "id": "weinbar-deafcandance-b2b-frau-kochmann",
    "artist": "Deafcandance b2b Frau Kochmann",
    "stage": "Weinbar",
-   "start": 1784818800000,
-   "end": 1784829600000
+   "start": 1785423600000,
+   "end": 1785434400000
+  },
+  {
+   "id": "lichtung-moontent-longevity-life-hacks-by-andi-stollreiter",
+   "artist": "Longevity Life Hacks by Andi Stollreiter",
+   "stage": "Lichtung Moontent",
+   "start": 1785423600000,
+   "end": 1785430800000,
+   "description": "Workshop"
   },
   {
    "id": "wiese-soukie-windish",
    "artist": "Soukie & Windish",
    "stage": "Wiese",
-   "start": 1784822400000,
-   "end": 1784829600000
-  },
-  {
-   "id": "loco-paraiso-okraa",
-   "artist": "Okraa",
-   "stage": "Loco Paraiso",
-   "start": 1784822400000,
-   "end": 1784827800000,
-   "description": "Live set."
-  },
-  {
-   "id": "pleasure-island-chanella",
-   "artist": "Chanella",
-   "stage": "Pleasure Island",
-   "start": 1784822400000,
-   "end": 1784829600000
-  },
-  {
-   "id": "lichtung-jai-dev-singh-kundalini-activation",
-   "artist": "Jai Dev Singh - Kundalini Activation",
-   "stage": "Lichtung",
-   "start": 1784822400000,
-   "end": 1784829600000
+   "start": 1785427200000,
+   "end": 1785434400000
   },
   {
    "id": "buk-corner-jana-falcon",
    "artist": "Jana Falcon",
    "stage": "Buk Corner",
-   "start": 1784822400000,
-   "end": 1784829600000
+   "start": 1785427200000,
+   "end": 1785434400000
+  },
+  {
+   "id": "loco-paraiso-okraa",
+   "artist": "Okraa",
+   "stage": "Loco Paraiso",
+   "start": 1785427200000,
+   "end": 1785432600000,
+   "description": "Live Act"
+  },
+  {
+   "id": "pleasure-island-chanella",
+   "artist": "Chanella",
+   "stage": "Pleasure Island",
+   "start": 1785427200000,
+   "end": 1785434400000
+  },
+  {
+   "id": "juicy-bar-moretz",
+   "artist": "Moretz",
+   "stage": "Juicy Bar",
+   "start": 1785427200000,
+   "end": 1785432600000
+  },
+  {
+   "id": "lichtung-teebar-jai-dev-singh-kundalini-activation",
+   "artist": "Jai Dev Singh - Kundalini Activation",
+   "stage": "Lichtung Teebar",
+   "start": 1785427200000,
+   "end": 1785434400000,
+   "description": "Live Act"
+  },
+  {
+   "id": "junkyard-kneipe-bargain-bin",
+   "artist": "Bargain Bin",
+   "stage": "Junkyard Kneipe",
+   "start": 1785427200000,
+   "end": 1785434400000
   },
   {
    "id": "ambient-after-bobbie-williams",
    "artist": "After Bobbie Williams",
    "stage": "Ambient",
-   "start": 1784826000000,
-   "end": 1784833200000,
-   "description": "Live set."
+   "start": 1785430800000,
+   "end": 1785438000000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-amphitheater-cabaret-lilium",
+   "artist": "Cabaret LILIUM",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785430800000,
+   "end": 1785434400000,
+   "description": "Performance"
   },
   {
    "id": "wald-mathew-jonson-vril",
-   "artist": "Mathew Jonson & Vril",
+   "artist": "Mathew Jonson & .Vril",
    "stage": "Wald",
-   "start": 1784827800000,
-   "end": 1784835000000
+   "start": 1785432600000,
+   "end": 1785439800000,
+   "description": "Live Act"
   },
   {
    "id": "loco-paraiso-opal-sunn",
    "artist": "Opal Sunn",
    "stage": "Loco Paraiso",
-   "start": 1784827800000,
-   "end": 1784831400000,
-   "description": "Live set."
+   "start": 1785432600000,
+   "end": 1785436200000,
+   "description": "Live Act"
+  },
+  {
+   "id": "juicy-bar-richii",
+   "artist": "Richii",
+   "stage": "Juicy Bar",
+   "start": 1785432600000,
+   "end": 1785438000000
   },
   {
    "id": "wiese-adam-port",
    "artist": "Adam Port",
    "stage": "Wiese",
-   "start": 1784829600000,
-   "end": 1784836800000
-  },
-  {
-   "id": "pleasure-island-bipolar-soundsystem",
-   "artist": "Bipolar Soundsystem",
-   "stage": "Pleasure Island",
-   "start": 1784829600000,
-   "end": 1784838600000
-  },
-  {
-   "id": "lichtung-colibri-b2b-intiche",
-   "artist": "Colibri b2b Intiche",
-   "stage": "Lichtung",
-   "start": 1784829600000,
-   "end": 1784836800000
-  },
-  {
-   "id": "weinbar-karaoke-mit-kiki",
-   "artist": "Karaoke mit KiKi",
-   "stage": "Weinbar",
-   "start": 1784829600000,
-   "end": 1784836800000
+   "start": 1785434400000,
+   "end": 1785441600000
   },
   {
    "id": "buk-corner-kenza-dj-northern",
    "artist": "KENZA / DJ NORTHERN",
    "stage": "Buk Corner",
-   "start": 1784829600000,
-   "end": 1784836800000
+   "start": 1785434400000,
+   "end": 1785441600000
+  },
+  {
+   "id": "pleasure-island-bipolar-soundsystem",
+   "artist": "Bipolar Soundsystem",
+   "stage": "Pleasure Island",
+   "start": 1785434400000,
+   "end": 1785443400000
+  },
+  {
+   "id": "weinbar-karaoke-mit-kiki",
+   "artist": "Karaoke mit KiKi",
+   "stage": "Weinbar",
+   "start": 1785434400000,
+   "end": 1785441600000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-teebar-colibri-b2b-intiche",
+   "artist": "Colibri b2b Intiche",
+   "stage": "Lichtung Teebar",
+   "start": 1785434400000,
+   "end": 1785441600000
+  },
+  {
+   "id": "lichtung-amphitheater-huni-kuin-opening-concert-blessing",
+   "artist": "Huni Kuin Opening Concert & Blessing",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785434400000,
+   "end": 1785441600000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-playground-dinner-experience",
+   "artist": "Dinner Experience",
+   "stage": "Lichtung Playground",
+   "start": 1785434400000,
+   "end": 1785445200000
+  },
+  {
+   "id": "junkyard-kneipe-lovelace",
+   "artist": "Lovelace",
+   "stage": "Junkyard Kneipe",
+   "start": 1785434400000,
+   "end": 1785441600000,
+   "description": "Live Act"
+  },
+  {
+   "id": "performances-dreamweavers",
+   "artist": "Dreamweavers",
+   "stage": "Performances",
+   "start": 1785435300000,
+   "end": 1785444300000,
+   "description": "Performance"
   },
   {
    "id": "loco-paraiso-kapten",
    "artist": "Kapten",
    "stage": "Loco Paraiso",
-   "start": 1784831400000,
-   "end": 1784838600000
+   "start": 1785436200000,
+   "end": 1785443400000
   },
   {
    "id": "see-adi",
    "artist": "Adi",
    "stage": "See",
-   "start": 1784833200000,
-   "end": 1784840400000
+   "start": 1785438000000,
+   "end": 1785445200000
+  },
+  {
+   "id": "juicy-bar-tam-tam",
+   "artist": "Tam Tam",
+   "stage": "Juicy Bar",
+   "start": 1785438000000,
+   "end": 1785445200000
   },
   {
    "id": "ambient-ds8003",
    "artist": "DS8003",
    "stage": "Ambient",
-   "start": 1784833200000,
-   "end": 1784844000000
+   "start": 1785438000000,
+   "end": 1785448800000
   },
   {
    "id": "wald-dj-maria",
    "artist": "DJ Maria",
    "stage": "Wald",
-   "start": 1784835000000,
-   "end": 1784842200000
+   "start": 1785439800000,
+   "end": 1785447000000
   },
   {
    "id": "wiese-alex-kassian",
    "artist": "Alex Kassian",
    "stage": "Wiese",
-   "start": 1784836800000,
-   "end": 1784844000000
-  },
-  {
-   "id": "lichtung-cabaret-cravache-feat-5-string-theory",
-   "artist": "Cabaret Cravache feat. 5.String.Theory",
-   "stage": "Lichtung",
-   "start": 1784836800000,
-   "end": 1784844000000,
-   "description": "Live set."
-  },
-  {
-   "id": "weinbar-qualia-trax",
-   "artist": "Qualia Trax",
-   "stage": "Weinbar",
-   "start": 1784836800000,
-   "end": 1784844000000
+   "start": 1785441600000,
+   "end": 1785448800000
   },
   {
    "id": "buk-corner-garage-girls",
    "artist": "Garage Girls",
    "stage": "Buk Corner",
-   "start": 1784836800000,
-   "end": 1784844000000
+   "start": 1785441600000,
+   "end": 1785448800000
+  },
+  {
+   "id": "weinbar-qualia-trax",
+   "artist": "Qualia Trax",
+   "stage": "Weinbar",
+   "start": 1785441600000,
+   "end": 1785448800000
+  },
+  {
+   "id": "lichtung-teebar-cabaret-cravache-feat-5-string-theory",
+   "artist": "Cabaret Cravache feat. 5.String.Theory",
+   "stage": "Lichtung Teebar",
+   "start": 1785441600000,
+   "end": 1785448800000,
+   "description": "Performance"
+  },
+  {
+   "id": "junkyard-kneipe-lisa-uebel",
+   "artist": "Lisa Uebel",
+   "stage": "Junkyard Kneipe",
+   "start": 1785441600000,
+   "end": 1785448800000,
+   "description": "Live Act"
   },
   {
    "id": "loco-paraiso-sascha-cawa",
    "artist": "Sascha Cawa",
    "stage": "Loco Paraiso",
-   "start": 1784838600000,
-   "end": 1784845800000
+   "start": 1785443400000,
+   "end": 1785450600000
   },
   {
    "id": "pleasure-island-dj-real-madrid",
    "artist": "DJ Real Madrid",
    "stage": "Pleasure Island",
-   "start": 1784838600000,
-   "end": 1784847600000,
-   "description": "Live set."
+   "start": 1785443400000,
+   "end": 1785454200000,
+   "description": "Live Act"
   },
   {
    "id": "see-l-f-t-presents-hell-was-boring",
-   "artist": "L.F.T. presents „Hell Was Boring“",
+   "artist": "L.F.T. presents \"Hell Was Boring\"",
    "stage": "See",
-   "start": 1784840400000,
-   "end": 1784844000000,
-   "description": "Live set."
+   "start": 1785445200000,
+   "end": 1785448800000,
+   "description": "Live Act"
+  },
+  {
+   "id": "juicy-bar-toni-aparisi-mystery-affair",
+   "artist": "Toni Aparisi & Mystery Affair",
+   "stage": "Juicy Bar",
+   "start": 1785445200000,
+   "end": 1785456000000
   },
   {
    "id": "wald-luigi-tozzi",
    "artist": "Luigi Tozzi",
    "stage": "Wald",
-   "start": 1784842200000,
-   "end": 1784847600000
+   "start": 1785447000000,
+   "end": 1785452400000,
+   "description": "Live Act"
   },
   {
    "id": "wiese-paramida",
    "artist": "Paramida",
    "stage": "Wiese",
-   "start": 1784844000000,
-   "end": 1784851200000
-  },
-  {
-   "id": "see-dresden",
-   "artist": "DRESDEN",
-   "stage": "See",
-   "start": 1784844000000,
-   "end": 1784858400000
-  },
-  {
-   "id": "lichtung-blindsmyth",
-   "artist": "Blindsmyth",
-   "stage": "Lichtung",
-   "start": 1784844000000,
-   "end": 1784851200000
-  },
-  {
-   "id": "weinbar-leona-chris-me",
-   "artist": "Leona & Chris.Me",
-   "stage": "Weinbar",
-   "start": 1784844000000,
-   "end": 1784851200000
+   "start": 1785448800000,
+   "end": 1785456000000
   },
   {
    "id": "buk-corner-ok-eg",
    "artist": "OK EG",
    "stage": "Buk Corner",
-   "start": 1784844000000,
-   "end": 1784847600000,
-   "description": "Live set."
+   "start": 1785448800000,
+   "end": 1785452400000,
+   "description": "Live Act"
   },
   {
-   "id": "ambient-arnau-yuna",
-   "artist": "Arnau Yuna",
+   "id": "see-dresden",
+   "artist": "DRESDEN",
+   "stage": "See",
+   "start": 1785448800000,
+   "end": 1785463200000
+  },
+  {
+   "id": "ambient-arnau-yuna-ft-amapola",
+   "artist": "Arnau Yuna ft. Amapola",
    "stage": "Ambient",
-   "start": 1784844000000,
-   "end": 1784854800000
+   "start": 1785448800000,
+   "end": 1785459600000
+  },
+  {
+   "id": "weinbar-la-leona",
+   "artist": "La Leona",
+   "stage": "Weinbar",
+   "start": 1785448800000,
+   "end": 1785456000000
+  },
+  {
+   "id": "lichtung-teebar-blindsmyth",
+   "artist": "Blindsmyth",
+   "stage": "Lichtung Teebar",
+   "start": 1785448800000,
+   "end": 1785456000000
+  },
+  {
+   "id": "junkyard-kneipe-pigeon-era",
+   "artist": "Pigeon Era",
+   "stage": "Junkyard Kneipe",
+   "start": 1785448800000,
+   "end": 1785456000000
+  },
+  {
+   "id": "junkyard-schuppen-fran-der-milde",
+   "artist": "Fran & Der Milde",
+   "stage": "Junkyard Schuppen",
+   "start": 1785448800000,
+   "end": 1785456000000
   },
   {
    "id": "loco-paraiso-rigopolar",
    "artist": "Rigopolar",
    "stage": "Loco Paraiso",
-   "start": 1784845800000,
-   "end": 1784851200000,
-   "description": "Live set."
+   "start": 1785450600000,
+   "end": 1785456000000,
+   "description": "Live Act"
   },
   {
    "id": "wald-gigi-fm",
    "artist": "Gigi FM",
    "stage": "Wald",
-   "start": 1784847600000,
-   "end": 1784854800000
+   "start": 1785452400000,
+   "end": 1785459600000
   },
   {
    "id": "buk-corner-131bpm",
    "artist": "131bpm",
    "stage": "Buk Corner",
-   "start": 1784847600000,
-   "end": 1784854800000
+   "start": 1785452400000,
+   "end": 1785459600000
   },
   {
    "id": "wiese-tasha",
    "artist": "Tasha",
    "stage": "Wiese",
-   "start": 1784851200000,
-   "end": 1784858400000
+   "start": 1785456000000,
+   "end": 1785463200000
   },
   {
    "id": "loco-paraiso-chris-schwarzw-lder",
    "artist": "Chris Schwarzwälder",
    "stage": "Loco Paraiso",
-   "start": 1784851200000,
-   "end": 1784858400000
+   "start": 1785456000000,
+   "end": 1785463200000
   },
   {
-   "id": "lichtung-leni",
-   "artist": "Leni",
-   "stage": "Lichtung",
-   "start": 1784851200000,
-   "end": 1784854800000,
-   "description": "Live set."
+   "id": "juicy-bar-camilla-rae",
+   "artist": "Camilla Rae",
+   "stage": "Juicy Bar",
+   "start": 1785456000000,
+   "end": 1785463200000
   },
   {
    "id": "weinbar-mixed-methods-b2b-niklas-becher",
    "artist": "Mixed Methods b2b Niklas Becher",
    "stage": "Weinbar",
-   "start": 1784851200000,
-   "end": 1784858400000
+   "start": 1785456000000,
+   "end": 1785463200000
+  },
+  {
+   "id": "lichtung-teebar-leni",
+   "artist": "Leni",
+   "stage": "Lichtung Teebar",
+   "start": 1785456000000,
+   "end": 1785459600000,
+   "description": "Live Act"
+  },
+  {
+   "id": "junkyard-kneipe-jini-piju",
+   "artist": "Jini Piju",
+   "stage": "Junkyard Kneipe",
+   "start": 1785456000000,
+   "end": 1785463200000
+  },
+  {
+   "id": "junkyard-schuppen-beule-plus",
+   "artist": "Beule Plus",
+   "stage": "Junkyard Schuppen",
+   "start": 1785456000000,
+   "end": 1785463200000
   },
   {
    "id": "wald-fadi-mohem-b2b-ignez",
    "artist": "Fadi Mohem b2b Ignez",
    "stage": "Wald",
-   "start": 1784854800000,
-   "end": 1784862000000
+   "start": 1785459600000,
+   "end": 1785466800000
   },
   {
    "id": "buk-corner-holden-sinclair",
    "artist": "Holden Sinclair",
    "stage": "Buk Corner",
-   "start": 1784854800000,
-   "end": 1784862000000
+   "start": 1785459600000,
+   "end": 1785466800000
   },
   {
    "id": "ambient-escuta-soundsystem",
-   "artist": "Escuta Soundsystem",
+   "artist": "à escuta soundsystem",
    "stage": "Ambient",
-   "start": 1784854800000,
-   "end": 1784869200000
+   "start": 1785459600000,
+   "end": 1785474000000
   },
   {
    "id": "wiese-amaliah",
    "artist": "Amaliah",
    "stage": "Wiese",
-   "start": 1784858400000,
-   "end": 1784865600000
-  },
-  {
-   "id": "loco-paraiso-theus-mago",
-   "artist": "Theus Mago",
-   "stage": "Loco Paraiso",
-   "start": 1784858400000,
-   "end": 1784865600000
+   "start": 1785463200000,
+   "end": 1785470400000
   },
   {
    "id": "see-acid-tears",
    "artist": "Acid Tears",
    "stage": "See",
-   "start": 1784858400000,
-   "end": 1784869200000
+   "start": 1785463200000,
+   "end": 1785474000000
+  },
+  {
+   "id": "loco-paraiso-theus-mago",
+   "artist": "Theus Mago",
+   "stage": "Loco Paraiso",
+   "start": 1785463200000,
+   "end": 1785470400000
+  },
+  {
+   "id": "juicy-bar-baloo-agha",
+   "artist": "Baloo & Agha",
+   "stage": "Juicy Bar",
+   "start": 1785463200000,
+   "end": 1785472200000
+  },
+  {
+   "id": "junkyard-kneipe-schrotti-allstars",
+   "artist": "Schrotti Allstars",
+   "stage": "Junkyard Kneipe",
+   "start": 1785463200000,
+   "end": 1785470400000
+  },
+  {
+   "id": "junkyard-schuppen-terjott",
+   "artist": "Terjott",
+   "stage": "Junkyard Schuppen",
+   "start": 1785463200000,
+   "end": 1785470400000
   },
   {
    "id": "buk-corner-rasmus-bell",
    "artist": "Rasmus Bell",
    "stage": "Buk Corner",
-   "start": 1784862000000,
-   "end": 1784872800000,
-   "description": "BUK Cocktailbar"
+   "start": 1785466800000,
+   "end": 1785477600000
   },
   {
-   "id": "buk-corner-jeanette-tresbien",
-   "artist": "Jeanette Tresbien",
+   "id": "juicy-bar-rasmus-lutzen",
+   "artist": "Rasmus Lutzen",
+   "stage": "Juicy Bar",
+   "start": 1785472200000,
+   "end": 1785479400000
+  },
+  {
+   "id": "buk-corner-jeanette-tr-sbien",
+   "artist": "Jeanette Trésbien",
    "stage": "Buk Corner",
-   "start": 1784872800000,
-   "end": 1784883600000,
-   "description": "BUK Cocktailbar"
+   "start": 1785477600000,
+   "end": 1785488400000
+  },
+  {
+   "id": "performances-dawn-s-nymphs",
+   "artist": "DAWN'S NYMPHS",
+   "stage": "Performances",
+   "start": 1785477600000,
+   "end": 1785480000000,
+   "description": "Performance"
+  },
+  {
+   "id": "juicy-bar-shot-by-stanley",
+   "artist": "Shot by Stanley",
+   "stage": "Juicy Bar",
+   "start": 1785479400000,
+   "end": 1785484800000
+  },
+  {
+   "id": "lichtung-amphitheater-yoga-beats-jivamukti-flow-by-dana-sertel",
+   "artist": "Yoga & Beats - Jivamukti Flow by Dana Sertel",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785484800000,
+   "end": 1785492000000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-dome-meditation",
+   "artist": "Meditation",
+   "stage": "Lichtung Dome",
+   "start": 1785484800000,
+   "end": 1785488400000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-the-sober-space-mindful-metamorphosis-movement-breathwork-meditation",
+   "artist": "Mindful Metamorphosis: Movement + Breathwork, Meditation",
+   "stage": "Lichtung The Sober Space",
+   "start": 1785484800000,
+   "end": 1785488400000,
+   "description": "Workshop"
+  },
+  {
+   "id": "buk-corner-victoria-s-sequence",
+   "artist": "Victoria's Sequence",
+   "stage": "Buk Corner",
+   "start": 1785488400000,
+   "end": 1785499200000
   },
   {
    "id": "loco-paraiso-lulu-malina",
    "artist": "Lulu Malina",
    "stage": "Loco Paraiso",
-   "start": 1784883600000,
-   "end": 1784890800000
+   "start": 1785488400000,
+   "end": 1785495600000
   },
   {
    "id": "pleasure-island-common-ground",
    "artist": "Common Ground",
    "stage": "Pleasure Island",
-   "start": 1784883600000,
-   "end": 1784887200000,
-   "description": "Workshop."
+   "start": 1785488400000,
+   "end": 1785492000000,
+   "description": "Workshop"
   },
   {
-   "id": "buk-corner-victoria-sequence",
-   "artist": "Victoria Sequence",
-   "stage": "Buk Corner",
-   "start": 1784883600000,
-   "end": 1784894400000,
-   "description": "BUK Cocktailbar"
+   "id": "lichtung-moontent-the-friction-department",
+   "artist": "The Friction Department",
+   "stage": "Lichtung Moontent",
+   "start": 1785488400000,
+   "end": 1785495600000,
+   "description": "Talk"
+  },
+  {
+   "id": "lichtung-dome-zen-thai-shiatsu-by-lauren-cuthberth",
+   "artist": "Zen Thai Shiatsu by Lauren Cuthberth",
+   "stage": "Lichtung Dome",
+   "start": 1785488400000,
+   "end": 1785495600000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-the-sober-space-self-regulation-station-chill-out-zone",
+   "artist": "Self-Regulation Station: Chill Out Zone",
+   "stage": "Lichtung The Sober Space",
+   "start": 1785488400000,
+   "end": 1785495600000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-playground-a-journey-through-breath-sound-by-spirit-of-breath",
+   "artist": "A journey through Breath & Sound by Spirit of Breath",
+   "stage": "Lichtung Playground",
+   "start": 1785488400000,
+   "end": 1785495600000,
+   "description": "Workshop"
   },
   {
    "id": "pleasure-island-prano",
    "artist": "Prano",
    "stage": "Pleasure Island",
-   "start": 1784887200000,
-   "end": 1784894400000
+   "start": 1785492000000,
+   "end": 1785499200000
+  },
+  {
+   "id": "juicy-bar-nilo",
+   "artist": "Nilo",
+   "stage": "Juicy Bar",
+   "start": 1785492000000,
+   "end": 1785499200000
+  },
+  {
+   "id": "lichtung-amphitheater-the-neuroscience-of-raving-dance-as-medicine-by-rave-therapy-girl",
+   "artist": "The Neuroscience of Raving - Dance as Medicine by Rave Therapy Girl",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785492000000,
+   "end": 1785499200000,
+   "description": "Talk"
   },
   {
    "id": "loco-paraiso-kozlow",
    "artist": "Kozlow",
    "stage": "Loco Paraiso",
-   "start": 1784890800000,
-   "end": 1784898000000
+   "start": 1785495600000,
+   "end": 1785502800000
   },
   {
    "id": "weinbar-neobeo",
    "artist": "Neobeo",
    "stage": "Weinbar",
-   "start": 1784890800000,
-   "end": 1784901600000
+   "start": 1785495600000,
+   "end": 1785506400000
   },
   {
-   "id": "pleasure-island-riff-orange",
-   "artist": "RIFF ORANGE",
-   "stage": "Pleasure Island",
-   "start": 1784894400000,
-   "end": 1784901600000
+   "id": "lichtung-moontent-fasten-101",
+   "artist": "Fasten 101",
+   "stage": "Lichtung Moontent",
+   "start": 1785495600000,
+   "end": 1785502800000,
+   "description": "Talk"
   },
   {
-   "id": "see-pappenheimer-cooking-cooqueen",
-   "artist": "Pappenheimer «Cooking & Cooqueen»",
-   "stage": "See",
-   "start": 1784894400000,
-   "end": 1784912400000,
-   "description": "Performance."
+   "id": "lichtung-dome-zen-tea-ceremony",
+   "artist": "Zen Tea Ceremony",
+   "stage": "Lichtung Dome",
+   "start": 1785495600000,
+   "end": 1785502800000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-the-sober-space-navigating-festivals-sober-and-finding-your-crew",
+   "artist": "Navigating Festivals Sober and Finding Your Crew",
+   "stage": "Lichtung The Sober Space",
+   "start": 1785495600000,
+   "end": 1785502800000,
+   "description": "Talk"
+  },
+  {
+   "id": "lichtung-playground-cold-exposure-by-andi-sascha-meetingpoint-sauna",
+   "artist": "Cold Exposure by Andi & Sascha (Meetingpoint Sauna)",
+   "stage": "Lichtung Playground",
+   "start": 1785495600000,
+   "end": 1785499200000,
+   "description": "Workshop"
   },
   {
    "id": "buk-corner-lemonella",
    "artist": "Lemonella",
    "stage": "Buk Corner",
-   "start": 1784894400000,
-   "end": 1784901600000
+   "start": 1785499200000,
+   "end": 1785506400000
+  },
+  {
+   "id": "see-pappenheimer-cooking-cooqueen-feat-demi-tomato-rico-loop",
+   "artist": "Pappenheimer \"Cooking & Cooqueen\" feat. Demi Tomato & Rico Loop",
+   "stage": "See",
+   "start": 1785499200000,
+   "end": 1785517200000,
+   "description": "Performance"
+  },
+  {
+   "id": "pleasure-island-riff-orange",
+   "artist": "RIFF ORANGE",
+   "stage": "Pleasure Island",
+   "start": 1785499200000,
+   "end": 1785506400000
+  },
+  {
+   "id": "juicy-bar-emo-rugene",
+   "artist": "Emo Rugene",
+   "stage": "Juicy Bar",
+   "start": 1785499200000,
+   "end": 1785506400000
   },
   {
    "id": "ambient-myrgon-x-lila-collective",
    "artist": "Myrgon x Lila Collective",
    "stage": "Ambient",
-   "start": 1784894400000,
-   "end": 1784898000000,
-   "description": "Performance."
+   "start": 1785499200000,
+   "end": 1785502800000,
+   "description": "Performance"
+  },
+  {
+   "id": "lichtung-amphitheater-neuroflexibility-poliphasic-co2-training-by-rodho-dr-xico",
+   "artist": "Neuroflexibility & poliphasic CO2 training by Rodho & Dr. Xico",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785499200000,
+   "end": 1785506400000,
+   "description": "Talk"
+  },
+  {
+   "id": "junkyard-amphitheater-fr-ht-cks-tv",
+   "artist": "Frühtücks TV",
+   "stage": "Junkyard Amphitheater",
+   "start": 1785499200000,
+   "end": 1785506400000,
+   "description": "Game"
   },
   {
    "id": "loco-paraiso-lulah-francs",
    "artist": "Lulah Francs",
    "stage": "Loco Paraiso",
-   "start": 1784898000000,
-   "end": 1784905200000
+   "start": 1785502800000,
+   "end": 1785510000000
   },
   {
-   "id": "ambient-unders-presents-above",
-   "artist": "Unders presents Above",
+   "id": "ambient-unders-presents-above-live",
+   "artist": "unders presents Above live",
    "stage": "Ambient",
-   "start": 1784898000000,
-   "end": 1784919600000,
-   "description": "Live set."
+   "start": 1785502800000,
+   "end": 1785524400000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-moontent-resonance-flow-lab-by-colibri-intiche",
+   "artist": "Resonance Flow Lab by Colibri & Intiche",
+   "stage": "Lichtung Moontent",
+   "start": 1785502800000,
+   "end": 1785510000000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-dome-sacred-business-by-nikki-trott",
+   "artist": "Sacred Business by Nikki Trott",
+   "stage": "Lichtung Dome",
+   "start": 1785502800000,
+   "end": 1785510000000,
+   "description": "Talk"
+  },
+  {
+   "id": "lichtung-the-sober-space-sober-speed-dating",
+   "artist": "Sober Speed-Dating",
+   "stage": "Lichtung The Sober Space",
+   "start": 1785502800000,
+   "end": 1785510000000,
+   "description": "Workshop"
+  },
+  {
+   "id": "buk-corner-ilja-franz-b2b-aii-ps",
+   "artist": "Ilja Franz b2b Aii PS",
+   "stage": "Buk Corner",
+   "start": 1785506400000,
+   "end": 1785513600000
   },
   {
    "id": "pleasure-island-charkie",
    "artist": "Charkie",
    "stage": "Pleasure Island",
-   "start": 1784901600000,
-   "end": 1784905200000,
-   "description": "Live set."
+   "start": 1785506400000,
+   "end": 1785510000000,
+   "description": "Live Act"
+  },
+  {
+   "id": "juicy-bar-amina",
+   "artist": "Amina",
+   "stage": "Juicy Bar",
+   "start": 1785506400000,
+   "end": 1785513600000
   },
   {
    "id": "weinbar-lotte-ahoi",
    "artist": "Lotte Ahoi",
    "stage": "Weinbar",
-   "start": 1784901600000,
-   "end": 1784908800000
+   "start": 1785506400000,
+   "end": 1785513600000
   },
   {
-   "id": "buk-corner-ilja-franz-b2b-aiips",
-   "artist": "Ilja Franz b2b AiiPS",
-   "stage": "Buk Corner",
-   "start": 1784901600000,
-   "end": 1784908800000
+   "id": "lichtung-amphitheater-thimon-von-berlepsch-hypnosis-mentalism",
+   "artist": "Thimon von Berlepsch: Hypnosis & Mentalism",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785506400000,
+   "end": 1785513600000,
+   "description": "Workshop"
+  },
+  {
+   "id": "junkyard-amphitheater-strip-it-right-how-do-led-strips-work",
+   "artist": "Strip It Right: How do LED Strips work?",
+   "stage": "Junkyard Amphitheater",
+   "start": 1785506400000,
+   "end": 1785513600000,
+   "description": "Workshop"
   },
   {
    "id": "loco-paraiso-paula-tape",
    "artist": "Paula Tape",
    "stage": "Loco Paraiso",
-   "start": 1784905200000,
-   "end": 1784912400000
+   "start": 1785510000000,
+   "end": 1785517200000
   },
   {
    "id": "pleasure-island-sachsentrance",
    "artist": "Sachsentrance",
    "stage": "Pleasure Island",
-   "start": 1784905200000,
-   "end": 1784919600000
+   "start": 1785510000000,
+   "end": 1785524400000
+  },
+  {
+   "id": "lichtung-moontent-hilo-sound-vibroaccoustic-experience",
+   "artist": "Hilo Sound Vibroaccoustic Experience",
+   "stage": "Lichtung Moontent",
+   "start": 1785510000000,
+   "end": 1785517200000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-dome-initiated-to-indigenous-lineages-by-rani-messias",
+   "artist": "Initiated to Indigenous Lineages by Rani Messias",
+   "stage": "Lichtung Dome",
+   "start": 1785510000000,
+   "end": 1785517200000,
+   "description": "Workshop"
   },
   {
    "id": "wald-spectribe",
    "artist": "Spectribe",
    "stage": "Wald",
-   "start": 1784908800000,
-   "end": 1784917800000
-  },
-  {
-   "id": "lichtung-lia-ensemble",
-   "artist": "LIA Ensemble",
-   "stage": "Lichtung",
-   "start": 1784908800000,
-   "end": 1784916000000,
-   "description": "Live set."
-  },
-  {
-   "id": "weinbar-nigel-nagel",
-   "artist": "Nigel Nagel",
-   "stage": "Weinbar",
-   "start": 1784908800000,
-   "end": 1784916000000
+   "start": 1785513600000,
+   "end": 1785522600000
   },
   {
    "id": "buk-corner-kotelett",
    "artist": "Kotelett",
    "stage": "Buk Corner",
-   "start": 1784908800000,
-   "end": 1784916000000
+   "start": 1785513600000,
+   "end": 1785520800000
   },
   {
-   "id": "loco-paraiso-demi-riquisimo",
-   "artist": "Demi Riquisimo",
-   "stage": "Loco Paraiso",
-   "start": 1784912400000,
-   "end": 1784919600000
+   "id": "juicy-bar-luqqi",
+   "artist": "Luqqi",
+   "stage": "Juicy Bar",
+   "start": 1785513600000,
+   "end": 1785520800000
+  },
+  {
+   "id": "weinbar-nigel-nagel",
+   "artist": "Nigel Nagel",
+   "stage": "Weinbar",
+   "start": 1785513600000,
+   "end": 1785520800000
+  },
+  {
+   "id": "performances-nose-spa",
+   "artist": "Nose Spa",
+   "stage": "Performances",
+   "start": 1785513600000,
+   "end": 1785520800000,
+   "description": "Performance"
+  },
+  {
+   "id": "lichtung-teebar-lia-ensemble",
+   "artist": "LIA Ensemble",
+   "stage": "Lichtung Teebar",
+   "start": 1785513600000,
+   "end": 1785520800000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-amphitheater-theater-of-co-creation-by-rico-loop",
+   "artist": "Theater of Co- Creation by Rico Loop",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785513600000,
+   "end": 1785520800000,
+   "description": "Live Act"
+  },
+  {
+   "id": "junkyard-kneipe-lars-vegas",
+   "artist": "Lars Vegas",
+   "stage": "Junkyard Kneipe",
+   "start": 1785513600000,
+   "end": 1785524400000
+  },
+  {
+   "id": "junkyard-amphitheater-lil-junkyard-chapel",
+   "artist": "Lil Junkyard Chapel",
+   "stage": "Junkyard Amphitheater",
+   "start": 1785513600000,
+   "end": 1785520800000,
+   "description": "Workshop"
   },
   {
    "id": "see-loui-beton",
    "artist": "Loui Beton",
    "stage": "See",
-   "start": 1784912400000,
-   "end": 1784919600000
+   "start": 1785517200000,
+   "end": 1785524400000
+  },
+  {
+   "id": "loco-paraiso-demi-riquisimo",
+   "artist": "Demi Riquisimo",
+   "stage": "Loco Paraiso",
+   "start": 1785517200000,
+   "end": 1785524400000
+  },
+  {
+   "id": "lichtung-moontent-liquid-touch-by-be-skin",
+   "artist": "Liquid Touch by Be.Skin",
+   "stage": "Lichtung Moontent",
+   "start": 1785517200000,
+   "end": 1785524400000,
+   "description": "Workshop"
   },
   {
    "id": "wiese-katia-curie",
    "artist": "Katia Curie",
    "stage": "Wiese",
-   "start": 1784916000000,
-   "end": 1784923200000
-  },
-  {
-   "id": "lichtung-spirit-theatre-by-chen-ting-lihla",
-   "artist": "Spirit Theatre by Chen Ting & Lihla",
-   "stage": "Lichtung",
-   "start": 1784916000000,
-   "end": 1784919600000,
-   "description": "Live set."
-  },
-  {
-   "id": "weinbar-sound-safari",
-   "artist": "SOUND SAFARI",
-   "stage": "Weinbar",
-   "start": 1784916000000,
-   "end": 1784921400000
+   "start": 1785520800000,
+   "end": 1785528000000
   },
   {
    "id": "buk-corner-anna-wall",
    "artist": "Anna Wall",
    "stage": "Buk Corner",
-   "start": 1784916000000,
-   "end": 1784923200000
+   "start": 1785520800000,
+   "end": 1785528000000
+  },
+  {
+   "id": "juicy-bar-tuga",
+   "artist": "Tuga",
+   "stage": "Juicy Bar",
+   "start": 1785520800000,
+   "end": 1785529800000
+  },
+  {
+   "id": "weinbar-sound-safari",
+   "artist": "SOUND SAFARI",
+   "stage": "Weinbar",
+   "start": 1785520800000,
+   "end": 1785526200000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-teebar-spirit-theatre-by-chen-ting-lihla",
+   "artist": "Spirit Theatre by Chen Ting & Lihla",
+   "stage": "Lichtung Teebar",
+   "start": 1785520800000,
+   "end": 1785524400000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-playground-dinner-experience-x2",
+   "artist": "Dinner Experience",
+   "stage": "Lichtung Playground",
+   "start": 1785520800000,
+   "end": 1785531600000
+  },
+  {
+   "id": "junkyard-amphitheater-larissa-v-ptisma",
+   "artist": "Larissa Váptisma",
+   "stage": "Junkyard Amphitheater",
+   "start": 1785520800000,
+   "end": 1785528000000,
+   "description": "Live Act"
+  },
+  {
+   "id": "performances-dreamweavers-x2",
+   "artist": "Dreamweavers",
+   "stage": "Performances",
+   "start": 1785521700000,
+   "end": 1785530700000,
+   "description": "Performance"
   },
   {
    "id": "wald-sandrien",
    "artist": "Sandrien",
    "stage": "Wald",
-   "start": 1784917800000,
-   "end": 1784925000000
-  },
-  {
-   "id": "loco-paraiso-mandrake",
-   "artist": "Mandrake",
-   "stage": "Loco Paraiso",
-   "start": 1784919600000,
-   "end": 1784926800000
-  },
-  {
-   "id": "pleasure-island-atzenpunk",
-   "artist": "Atzenpunk",
-   "stage": "Pleasure Island",
-   "start": 1784919600000,
-   "end": 1784923200000,
-   "description": "Live set."
+   "start": 1785522600000,
+   "end": 1785529800000
   },
   {
    "id": "see-flower-powder",
    "artist": "FLOWER POWDER",
    "stage": "See",
-   "start": 1784919600000,
-   "end": 1784923200000,
-   "description": "Performance."
+   "start": 1785524400000,
+   "end": 1785528000000,
+   "description": "Performance"
   },
   {
-   "id": "lichtung-raz-ohara-ensemble",
-   "artist": "Raz Ohara & Ensemble",
-   "stage": "Lichtung",
-   "start": 1784919600000,
-   "end": 1784926800000,
-   "description": "Live set."
+   "id": "loco-paraiso-mandrake",
+   "artist": "Mandrake",
+   "stage": "Loco Paraiso",
+   "start": 1785524400000,
+   "end": 1785531600000
+  },
+  {
+   "id": "pleasure-island-atzenpunk",
+   "artist": "Atzenpunk",
+   "stage": "Pleasure Island",
+   "start": 1785524400000,
+   "end": 1785528000000,
+   "description": "Live Act"
   },
   {
    "id": "ambient-gaamer",
    "artist": "Gaamer",
    "stage": "Ambient",
-   "start": 1784919600000,
-   "end": 1784930400000
+   "start": 1785524400000,
+   "end": 1785535200000
+  },
+  {
+   "id": "lichtung-teebar-raz-ohara-ensemble",
+   "artist": "Raz Ohara & Ensemble",
+   "stage": "Lichtung Teebar",
+   "start": 1785524400000,
+   "end": 1785531600000,
+   "description": "Live Act"
   },
   {
    "id": "weinbar-isabeau-fort-fromm-now",
    "artist": "Isabeau Fort & FROMM | NOW",
    "stage": "Weinbar",
-   "start": 1784921400000,
-   "end": 1784930400000
+   "start": 1785526200000,
+   "end": 1785535200000
   },
   {
    "id": "wiese-lola-haro",
    "artist": "Lola Haro",
    "stage": "Wiese",
-   "start": 1784923200000,
-   "end": 1784930400000
-  },
-  {
-   "id": "pleasure-island-lotte-der-boss",
-   "artist": "Lotte der Boss",
-   "stage": "Pleasure Island",
-   "start": 1784923200000,
-   "end": 1784930400000
-  },
-  {
-   "id": "see-bandulera",
-   "artist": "Bandulera",
-   "stage": "See",
-   "start": 1784923200000,
-   "end": 1784930400000
+   "start": 1785528000000,
+   "end": 1785535200000
   },
   {
    "id": "buk-corner-plastik",
    "artist": "Plastik",
    "stage": "Buk Corner",
-   "start": 1784923200000,
-   "end": 1784930400000
+   "start": 1785528000000,
+   "end": 1785535200000
+  },
+  {
+   "id": "see-bandulera",
+   "artist": "Bandulera",
+   "stage": "See",
+   "start": 1785528000000,
+   "end": 1785535200000
+  },
+  {
+   "id": "pleasure-island-lotte-der-boss",
+   "artist": "Lotte der Boss",
+   "stage": "Pleasure Island",
+   "start": 1785528000000,
+   "end": 1785535200000
+  },
+  {
+   "id": "junkyard-amphitheater-neuk-llner-speeddating-club",
+   "artist": "Neuköllner Speeddating Club",
+   "stage": "Junkyard Amphitheater",
+   "start": 1785528000000,
+   "end": 1785535200000,
+   "description": "Live Act"
   },
   {
    "id": "wald-tobias",
-   "artist": "Tobias",
+   "artist": "Tobias.",
    "stage": "Wald",
-   "start": 1784925000000,
-   "end": 1784930400000
+   "start": 1785529800000,
+   "end": 1785535200000,
+   "description": "Live Act"
+  },
+  {
+   "id": "juicy-bar-carl-berge",
+   "artist": "Carl Berge",
+   "stage": "Juicy Bar",
+   "start": 1785529800000,
+   "end": 1785538800000
   },
   {
    "id": "loco-paraiso-jamiie",
    "artist": "Jamiie",
    "stage": "Loco Paraiso",
-   "start": 1784926800000,
-   "end": 1784934000000
+   "start": 1785531600000,
+   "end": 1785538800000
   },
   {
-   "id": "lichtung-philipp-johann-thimm",
+   "id": "lichtung-teebar-philipp-johann-thimm",
    "artist": "Philipp Johann Thimm",
-   "stage": "Lichtung",
-   "start": 1784926800000,
-   "end": 1784934000000,
-   "description": "Live set."
+   "stage": "Lichtung Teebar",
+   "start": 1785531600000,
+   "end": 1785538800000,
+   "description": "Live Act"
+  },
+  {
+   "id": "performances-corps-et-cris-by-ylva-falk",
+   "artist": "Corps et à cris by Ylva Falk",
+   "stage": "Performances",
+   "start": 1785533400000,
+   "end": 1785537000000,
+   "description": "Performance"
   },
   {
    "id": "wald-r-dh-d",
    "artist": "Rødhåd",
    "stage": "Wald",
-   "start": 1784930400000,
-   "end": 1784939400000
+   "start": 1785535200000,
+   "end": 1785544200000
   },
   {
    "id": "wiese-palms-trax",
    "artist": "Palms Trax",
    "stage": "Wiese",
-   "start": 1784930400000,
-   "end": 1784937600000
-  },
-  {
-   "id": "pleasure-island-shoki287",
-   "artist": "Shoki287",
-   "stage": "Pleasure Island",
-   "start": 1784930400000,
-   "end": 1784935800000,
-   "description": "Live set."
-  },
-  {
-   "id": "see-lander-adriaan",
-   "artist": "Lander & Adriaan",
-   "stage": "See",
-   "start": 1784930400000,
-   "end": 1784934000000,
-   "description": "Live set."
-  },
-  {
-   "id": "weinbar-astalafiesta",
-   "artist": "Astalafiesta",
-   "stage": "Weinbar",
-   "start": 1784930400000,
-   "end": 1784937600000
+   "start": 1785535200000,
+   "end": 1785542400000
   },
   {
    "id": "buk-corner-michelle",
    "artist": "Michelle",
    "stage": "Buk Corner",
-   "start": 1784930400000,
-   "end": 1784934000000,
-   "description": "Live set."
+   "start": 1785535200000,
+   "end": 1785538800000,
+   "description": "Live Act"
+  },
+  {
+   "id": "see-lander-adriaan",
+   "artist": "Lander & Adriaan",
+   "stage": "See",
+   "start": 1785535200000,
+   "end": 1785538800000,
+   "description": "Live Act"
+  },
+  {
+   "id": "pleasure-island-shoki287",
+   "artist": "Shoki287",
+   "stage": "Pleasure Island",
+   "start": 1785535200000,
+   "end": 1785540600000,
+   "description": "Live Act"
   },
   {
    "id": "ambient-m-morellion-thunderklaus",
    "artist": "m.morellion & thunderklaus",
    "stage": "Ambient",
-   "start": 1784930400000,
-   "end": 1784944800000
+   "start": 1785535200000,
+   "end": 1785549600000
   },
   {
-   "id": "loco-paraiso-radio-rapha",
-   "artist": "Radio Rapha",
-   "stage": "Loco Paraiso",
-   "start": 1784934000000,
-   "end": 1784941200000
+   "id": "weinbar-astalafiesta",
+   "artist": "Astalafiesta",
+   "stage": "Weinbar",
+   "start": 1785535200000,
+   "end": 1785542400000
   },
   {
-   "id": "see-newinfluenzer",
-   "artist": "Newinfluenzer",
-   "stage": "See",
-   "start": 1784934000000,
-   "end": 1784941200000
+   "id": "junkyard-kneipe-ovuladies",
+   "artist": "Ovuladies",
+   "stage": "Junkyard Kneipe",
+   "start": 1785535200000,
+   "end": 1785538800000
   },
   {
-   "id": "lichtung-leifur-james",
-   "artist": "Leifur James",
-   "stage": "Lichtung",
-   "start": 1784934000000,
-   "end": 1784937600000,
-   "description": "Live set."
+   "id": "junkyard-schuppen-hoppenstedt-schlois-gain",
+   "artist": "Hoppenstedt & Schlois Gain",
+   "stage": "Junkyard Schuppen",
+   "start": 1785535200000,
+   "end": 1785542400000
+  },
+  {
+   "id": "performances-lucina-s-dream-a-spectral-symphony",
+   "artist": "LUCINA'S DREAM - A SPECTRAL SYMPHONY",
+   "stage": "Performances",
+   "start": 1785537000000,
+   "end": 1785538800000,
+   "description": "Performance"
   },
   {
    "id": "buk-corner-bruno-schmidt",
    "artist": "Bruno Schmidt",
    "stage": "Buk Corner",
-   "start": 1784934000000,
-   "end": 1784944800000
+   "start": 1785538800000,
+   "end": 1785549600000
   },
   {
-   "id": "pleasure-island-blu-m-aka-pippa-bloom",
-   "artist": "[Blu:m] aka Pippa Bloom",
-   "stage": "Pleasure Island",
-   "start": 1784935800000,
-   "end": 1784943000000
-  },
-  {
-   "id": "wiese-leon-vynehall",
-   "artist": "Leon Vynehall",
-   "stage": "Wiese",
-   "start": 1784937600000,
-   "end": 1784944800000
-  },
-  {
-   "id": "lichtung-paoline-magnus",
-   "artist": "Paoline Magnus",
-   "stage": "Lichtung",
-   "start": 1784937600000,
-   "end": 1784941200000,
-   "description": "Live set."
-  },
-  {
-   "id": "weinbar-ben-levine",
-   "artist": "Ben Levine",
-   "stage": "Weinbar",
-   "start": 1784937600000,
-   "end": 1784944800000
-  },
-  {
-   "id": "wald-toru-ikemoto",
-   "artist": "Toru Ikemoto",
-   "stage": "Wald",
-   "start": 1784939400000,
-   "end": 1784943000000
+   "id": "see-newinfluenzer",
+   "artist": "Newinfluenzer",
+   "stage": "See",
+   "start": 1785538800000,
+   "end": 1785546000000
   },
   {
    "id": "loco-paraiso-hardt-antoine",
    "artist": "Hardt Antoine",
    "stage": "Loco Paraiso",
-   "start": 1784941200000,
-   "end": 1784948400000
+   "start": 1785538800000,
+   "end": 1785546000000
+  },
+  {
+   "id": "juicy-bar-bambi-s",
+   "artist": "Bambi S",
+   "stage": "Juicy Bar",
+   "start": 1785538800000,
+   "end": 1785549600000
+  },
+  {
+   "id": "lichtung-teebar-leifur-james",
+   "artist": "Leifur James",
+   "stage": "Lichtung Teebar",
+   "start": 1785538800000,
+   "end": 1785542400000,
+   "description": "Live Act"
+  },
+  {
+   "id": "junkyard-kneipe-love-vocoders",
+   "artist": "Love & Vocoders",
+   "stage": "Junkyard Kneipe",
+   "start": 1785538800000,
+   "end": 1785546000000
+  },
+  {
+   "id": "pleasure-island-blu-m-aka-pippa-bloom",
+   "artist": "[Blu:m] aka Pippa Bloom",
+   "stage": "Pleasure Island",
+   "start": 1785540600000,
+   "end": 1785547800000
+  },
+  {
+   "id": "performances-fungi-we-gather",
+   "artist": "FUNGI, WE GATHER",
+   "stage": "Performances",
+   "start": 1785540600000,
+   "end": 1785542400000,
+   "description": "Performance"
+  },
+  {
+   "id": "wiese-leon-vynehall",
+   "artist": "Leon Vynehall",
+   "stage": "Wiese",
+   "start": 1785542400000,
+   "end": 1785549600000
+  },
+  {
+   "id": "weinbar-ben-levine",
+   "artist": "Ben Levine",
+   "stage": "Weinbar",
+   "start": 1785542400000,
+   "end": 1785549600000
+  },
+  {
+   "id": "lichtung-teebar-paoline-magnus",
+   "artist": "Paoline Magnus",
+   "stage": "Lichtung Teebar",
+   "start": 1785542400000,
+   "end": 1785546000000,
+   "description": "Live Act"
+  },
+  {
+   "id": "junkyard-schuppen-dille-baby-fran",
+   "artist": "Dille & Baby Fran",
+   "stage": "Junkyard Schuppen",
+   "start": 1785542400000,
+   "end": 1785549600000
+  },
+  {
+   "id": "wald-toru-ikemoto",
+   "artist": "Toru Ikemoto",
+   "stage": "Wald",
+   "start": 1785544200000,
+   "end": 1785547800000,
+   "description": "Live Act"
   },
   {
    "id": "see-wd40",
    "artist": "WD40",
    "stage": "See",
-   "start": 1784941200000,
-   "end": 1784948400000
+   "start": 1785546000000,
+   "end": 1785553200000
   },
   {
-   "id": "lichtung-szymon-weiss",
+   "id": "loco-paraiso-radio-rapha",
+   "artist": "Radio Rapha",
+   "stage": "Loco Paraiso",
+   "start": 1785546000000,
+   "end": 1785553200000
+  },
+  {
+   "id": "lichtung-teebar-szymon-weiss",
    "artist": "Szymon Weiss",
-   "stage": "Lichtung",
-   "start": 1784941200000,
-   "end": 1784944800000,
-   "description": "Live set."
+   "stage": "Lichtung Teebar",
+   "start": 1785546000000,
+   "end": 1785551400000,
+   "description": "Live Act"
+  },
+  {
+   "id": "junkyard-kneipe-schrotti-allstars-x2",
+   "artist": "Schrotti Allstars",
+   "stage": "Junkyard Kneipe",
+   "start": 1785546000000,
+   "end": 1785556800000
   },
   {
    "id": "wald-olivia-mendez",
    "artist": "Olivia Mendez",
    "stage": "Wald",
-   "start": 1784943000000,
-   "end": 1784953800000
+   "start": 1785547800000,
+   "end": 1785558600000
   },
   {
    "id": "wiese-rroxymore",
    "artist": "rRoxymore",
    "stage": "Wiese",
-   "start": 1784944800000,
-   "end": 1784952000000
-  },
-  {
-   "id": "lichtung-elder-star",
-   "artist": "Elder Star",
-   "stage": "Lichtung",
-   "start": 1784944800000,
-   "end": 1784948400000,
-   "description": "Live set."
+   "start": 1785549600000,
+   "end": 1785556800000
   },
   {
    "id": "buk-corner-enrica-falqui",
    "artist": "Enrica Falqui",
    "stage": "Buk Corner",
-   "start": 1784944800000,
-   "end": 1784952000000
+   "start": 1785549600000,
+   "end": 1785556800000
+  },
+  {
+   "id": "juicy-bar-loretta",
+   "artist": "Loretta",
+   "stage": "Juicy Bar",
+   "start": 1785549600000,
+   "end": 1785558600000
   },
   {
    "id": "ambient-mamma-tehrani-protodub",
    "artist": "Mamma Tehrani + Protodub",
    "stage": "Ambient",
-   "start": 1784944800000,
-   "end": 1784959200000
+   "start": 1785549600000,
+   "end": 1785564000000
   },
   {
-   "id": "loco-paraiso-maddix",
-   "artist": "Maddix",
-   "stage": "Loco Paraiso",
-   "start": 1784948400000,
-   "end": 1784955600000
+   "id": "junkyard-schuppen-gala-gar-on-kiwi",
+   "artist": "Gala & Garçon Kiwi",
+   "stage": "Junkyard Schuppen",
+   "start": 1785549600000,
+   "end": 1785556800000
+  },
+  {
+   "id": "lichtung-teebar-elder-star-psychedelic-piano",
+   "artist": "Elder Star - Psychedelic Piano",
+   "stage": "Lichtung Teebar",
+   "start": 1785551400000,
+   "end": 1785556800000,
+   "description": "Live Act"
   },
   {
    "id": "see-lisbird",
    "artist": "Lisbird",
    "stage": "See",
-   "start": 1784948400000,
-   "end": 1784955600000
+   "start": 1785553200000,
+   "end": 1785560400000
+  },
+  {
+   "id": "loco-paraiso-maddix",
+   "artist": "Maddix",
+   "stage": "Loco Paraiso",
+   "start": 1785553200000,
+   "end": 1785560400000
   },
   {
    "id": "buk-corner-werkstatt-257",
    "artist": "Werkstatt 257",
    "stage": "Buk Corner",
-   "start": 1784952000000,
-   "end": 1784984400000,
-   "description": "BUK Cocktailbar"
+   "start": 1785556800000,
+   "end": 1785589200000
+  },
+  {
+   "id": "juicy-bar-zebra-centauri",
+   "artist": "Zebra Centauri",
+   "stage": "Juicy Bar",
+   "start": 1785558600000,
+   "end": 1785562200000,
+   "description": "Live Act"
   },
   {
    "id": "see-dr-gonzo",
    "artist": "Dr. Gonzo",
    "stage": "See",
-   "start": 1784955600000,
-   "end": 1784962800000
+   "start": 1785560400000,
+   "end": 1785567600000
+  },
+  {
+   "id": "juicy-bar-ukai-ndame",
+   "artist": "Ukai Ndame",
+   "stage": "Juicy Bar",
+   "start": 1785562200000,
+   "end": 1785571200000
+  },
+  {
+   "id": "performances-dawn-s-nymphs-x2",
+   "artist": "DAWN'S NYMPHS",
+   "stage": "Performances",
+   "start": 1785564000000,
+   "end": 1785567600000,
+   "description": "Performance"
   },
   {
    "id": "ambient-lemonella",
    "artist": "Lemonella",
    "stage": "Ambient",
-   "start": 1784966400000,
-   "end": 1784973600000
+   "start": 1785571200000,
+   "end": 1785578400000
   },
   {
-   "id": "wiese-brava",
-   "artist": "Brava",
-   "stage": "Wiese",
-   "start": 1784973600000,
-   "end": 1784980800000
+   "id": "lichtung-moontent-meditation",
+   "artist": "Meditation",
+   "stage": "Lichtung Moontent",
+   "start": 1785571200000,
+   "end": 1785574800000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-dome-conscious-parenting-by-dave-dinger",
+   "artist": "Conscious Parenting by Dave Dinger",
+   "stage": "Lichtung Dome",
+   "start": 1785571200000,
+   "end": 1785574800000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-the-sober-space-slow-soulful-sober-mornings",
+   "artist": "Slow, Soulful & Sober Mornings",
+   "stage": "Lichtung The Sober Space",
+   "start": 1785571200000,
+   "end": 1785574800000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-amphitheater-psychedelic-breath-purpose-by-eva-kaczor",
+   "artist": "Psychedelic Breath & Purpose by Eva Kaczor",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785574800000,
+   "end": 1785582000000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-moontent-dmt-decompression-in-the-water-free-diving-static-training",
+   "artist": "DMT Decompression in the water- free diving static training",
+   "stage": "Lichtung Moontent",
+   "start": 1785574800000,
+   "end": 1785578400000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-dome-laughter-yoga-by-brahmarella",
+   "artist": "Laughter Yoga by Brahmarella",
+   "stage": "Lichtung Dome",
+   "start": 1785574800000,
+   "end": 1785578400000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-the-sober-space-self-regulation-station-chill-out-zone-x2",
+   "artist": "Self - Regulation Station - Chill out zone",
+   "stage": "Lichtung The Sober Space",
+   "start": 1785574800000,
+   "end": 1785578400000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-playground-brunch",
+   "artist": "Brunch",
+   "stage": "Lichtung Playground",
+   "start": 1785574800000,
+   "end": 1785585600000
   },
   {
    "id": "pleasure-island-hengstenberg",
    "artist": "Hengstenberg",
    "stage": "Pleasure Island",
-   "start": 1784973600000,
-   "end": 1784980800000
+   "start": 1785578400000,
+   "end": 1785585600000
+  },
+  {
+   "id": "juicy-bar-cosmic-clementine",
+   "artist": "Cosmic Clementine",
+   "stage": "Juicy Bar",
+   "start": 1785578400000,
+   "end": 1785585600000
   },
   {
    "id": "ambient-giegling",
    "artist": "giegling",
    "stage": "Ambient",
-   "start": 1784973600000,
-   "end": 1785002400000,
-   "description": "Workshop."
+   "start": 1785578400000,
+   "end": 1785607200000
   },
   {
-   "id": "weinbar-mia-twin",
-   "artist": "Mia Twin",
-   "stage": "Weinbar",
-   "start": 1784977200000,
-   "end": 1784988000000
+   "id": "lichtung-moontent-becoming-best-friends-with-our-genitals-by-maxinne-bjork",
+   "artist": "Becoming BEST friends with our Genitals by Maxinne Bjork",
+   "stage": "Lichtung Moontent",
+   "start": 1785578400000,
+   "end": 1785585600000,
+   "description": "Workshop"
   },
   {
-   "id": "pleasure-island-vouging-workshop",
-   "artist": "Vouging workshop",
-   "stage": "Pleasure Island",
-   "start": 1784980800000,
-   "end": 1784984400000,
-   "description": "Workshop."
+   "id": "lichtung-dome-high-on-story-by-vishal-jodhani",
+   "artist": "High on Story by Vishal Jodhani",
+   "stage": "Lichtung Dome",
+   "start": 1785578400000,
+   "end": 1785585600000,
+   "description": "Workshop"
   },
   {
-   "id": "lichtung-isis-lutz",
-   "artist": "Isis Lutz",
-   "stage": "Lichtung",
-   "start": 1784980800000,
-   "end": 1784988000000
+   "id": "lichtung-the-sober-space-temazcal-ceremony-guided-by-zohar-meeting-point-sauna",
+   "artist": "Temazcal Ceremony guided by Zohar (Meeting Point Sauna)",
+   "stage": "Lichtung The Sober Space",
+   "start": 1785578400000,
+   "end": 1785585600000,
+   "description": "Workshop"
   },
   {
-   "id": "pleasure-island-concentio",
-   "artist": "Concentio",
-   "stage": "Pleasure Island",
-   "start": 1784984400000,
-   "end": 1784991600000
-  },
-  {
-   "id": "see-faul-spaeth",
-   "artist": "Faul & Spaeth",
+   "id": "see-brava",
+   "artist": "Brava",
    "stage": "See",
-   "start": 1784984400000,
-   "end": 1784989800000,
-   "description": "Live set."
-  },
-  {
-   "id": "buk-corner-achilles-moss",
-   "artist": "Achilles Moss",
-   "stage": "Buk Corner",
-   "start": 1784984400000,
-   "end": 1784991600000
-  },
-  {
-   "id": "lichtung-nerual",
-   "artist": "Nerual",
-   "stage": "Lichtung",
-   "start": 1784988000000,
-   "end": 1784995200000
+   "start": 1785582000000,
+   "end": 1785589200000
   },
   {
    "id": "weinbar-aftersunday",
    "artist": "Aftersunday",
    "stage": "Weinbar",
-   "start": 1784988000000,
-   "end": 1784995200000
+   "start": 1785582000000,
+   "end": 1785589200000
+  },
+  {
+   "id": "lichtung-amphitheater-alchemy-rewire-journey-by-rodho",
+   "artist": "Alchemy:Rewire Journey by Rodho",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785582000000,
+   "end": 1785589200000,
+   "description": "Workshop"
+  },
+  {
+   "id": "pleasure-island-vouging-workshop",
+   "artist": "Vouging workshop",
+   "stage": "Pleasure Island",
+   "start": 1785585600000,
+   "end": 1785589200000,
+   "description": "Workshop"
+  },
+  {
+   "id": "juicy-bar-lourdes-lourdes",
+   "artist": "Lourdes Lourdes",
+   "stage": "Juicy Bar",
+   "start": 1785585600000,
+   "end": 1785592800000
+  },
+  {
+   "id": "lichtung-teebar-isis-lutz",
+   "artist": "Isis Lutz",
+   "stage": "Lichtung Teebar",
+   "start": 1785585600000,
+   "end": 1785592800000
+  },
+  {
+   "id": "lichtung-moontent-slow-sex-by-danielle-fisser",
+   "artist": "Slow Sex by Danielle Fisser",
+   "stage": "Lichtung Moontent",
+   "start": 1785585600000,
+   "end": 1785589200000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-dome-longevity-tradition-modernity-or-capitalism-by-dainius-guzauskas",
+   "artist": "Longevity - Tradition, Modernity or Capitalism by Dainius Guzauskas",
+   "stage": "Lichtung Dome",
+   "start": 1785585600000,
+   "end": 1785592800000,
+   "description": "Workshop"
+  },
+  {
+   "id": "junkyard-kneipe-brunchtime",
+   "artist": "Brunchtime",
+   "stage": "Junkyard Kneipe",
+   "start": 1785585600000,
+   "end": 1785596400000
+  },
+  {
+   "id": "junkyard-amphitheater-collagen-workshop",
+   "artist": "Collagen Workshop",
+   "stage": "Junkyard Amphitheater",
+   "start": 1785585600000,
+   "end": 1785596400000,
+   "description": "Workshop"
+  },
+  {
+   "id": "buk-corner-achilles-moss",
+   "artist": "Achilles Moss",
+   "stage": "Buk Corner",
+   "start": 1785589200000,
+   "end": 1785596400000
+  },
+  {
+   "id": "see-faul-spaeth",
+   "artist": "Faul & Spaeth",
+   "stage": "See",
+   "start": 1785589200000,
+   "end": 1785594600000,
+   "description": "Live Act"
+  },
+  {
+   "id": "pleasure-island-concentio",
+   "artist": "Concentio",
+   "stage": "Pleasure Island",
+   "start": 1785589200000,
+   "end": 1785596400000
+  },
+  {
+   "id": "weinbar-mia-twin",
+   "artist": "Mia Twin",
+   "stage": "Weinbar",
+   "start": 1785589200000,
+   "end": 1785596400000
+  },
+  {
+   "id": "lichtung-amphitheater-talk-on-psychedelics-by-dr-florian-lanzer",
+   "artist": "Talk on Psychedelics by Dr. Florian Lanzer",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785589200000,
+   "end": 1785596400000,
+   "description": "Talk"
+  },
+  {
+   "id": "juicy-bar-princess-room-live",
+   "artist": "Princess Room Live",
+   "stage": "Juicy Bar",
+   "start": 1785592800000,
+   "end": 1785598200000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-teebar-nerual",
+   "artist": "Nerual",
+   "stage": "Lichtung Teebar",
+   "start": 1785592800000,
+   "end": 1785600000000
+  },
+  {
+   "id": "lichtung-moontent-cuddle-cultivation-by-tal-siano",
+   "artist": "Cuddle Cultivation by Tal Siano",
+   "stage": "Lichtung Moontent",
+   "start": 1785592800000,
+   "end": 1785600000000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-dome-viazalka-ritual-of-connection",
+   "artist": "VIAZALKA – Ritual of Connection",
+   "stage": "Lichtung Dome",
+   "start": 1785592800000,
+   "end": 1785600000000,
+   "description": "Talk"
   },
   {
    "id": "see-nixe",
    "artist": "Nixe",
    "stage": "See",
-   "start": 1784989800000,
-   "end": 1784997000000
-  },
-  {
-   "id": "loco-paraiso-disco-tabu",
-   "artist": "Disco Tabu",
-   "stage": "Loco Paraiso",
-   "start": 1784991600000,
-   "end": 1784998800000
-  },
-  {
-   "id": "pleasure-island-tuesday-heartbreak",
-   "artist": "Tuesday Heartbreak",
-   "stage": "Pleasure Island",
-   "start": 1784991600000,
-   "end": 1784998800000
+   "start": 1785594600000,
+   "end": 1785601800000
   },
   {
    "id": "buk-corner-mira",
    "artist": "Mira",
    "stage": "Buk Corner",
-   "start": 1784991600000,
-   "end": 1784998800000
+   "start": 1785596400000,
+   "end": 1785603600000
+  },
+  {
+   "id": "loco-paraiso-disco-tabu",
+   "artist": "Disco Tabu",
+   "stage": "Loco Paraiso",
+   "start": 1785596400000,
+   "end": 1785603600000
+  },
+  {
+   "id": "pleasure-island-tuesday-heartbreak",
+   "artist": "Tuesday Heartbreak",
+   "stage": "Pleasure Island",
+   "start": 1785596400000,
+   "end": 1785603600000
+  },
+  {
+   "id": "weinbar-nucasa",
+   "artist": "NuCasa",
+   "stage": "Weinbar",
+   "start": 1785596400000,
+   "end": 1785607200000
+  },
+  {
+   "id": "lichtung-amphitheater-asian-pilates-by-nikola-mlynczak",
+   "artist": "Asian Pilates by Nikola Mlynczak",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785596400000,
+   "end": 1785600000000,
+   "description": "Workshop"
+  },
+  {
+   "id": "junkyard-kneipe-iiifuh-koliii",
+   "artist": "iiifuH & Koliii",
+   "stage": "Junkyard Kneipe",
+   "start": 1785596400000,
+   "end": 1785603600000
+  },
+  {
+   "id": "junkyard-amphitheater-ones-schrott-is-another-ones-treasure",
+   "artist": "Ones Schrott Is Another Ones Treasure",
+   "stage": "Junkyard Amphitheater",
+   "start": 1785596400000,
+   "end": 1785603600000,
+   "description": "Workshop"
+  },
+  {
+   "id": "juicy-bar-pony",
+   "artist": "Pony",
+   "stage": "Juicy Bar",
+   "start": 1785598200000,
+   "end": 1785605400000
   },
   {
    "id": "wald-mko",
    "artist": "MKO",
    "stage": "Wald",
-   "start": 1784995200000,
-   "end": 1785004200000
+   "start": 1785600000000,
+   "end": 1785609000000
   },
   {
    "id": "wiese-dave-dinger",
    "artist": "Dave Dinger",
    "stage": "Wiese",
-   "start": 1784995200000,
-   "end": 1785002400000
+   "start": 1785600000000,
+   "end": 1785607200000
   },
   {
-   "id": "lichtung-alma-linda-b2b-earthtones",
+   "id": "performances-corps-et-cris-by-ylva-falk-x2",
+   "artist": "Corps et à cris by Ylva Falk",
+   "stage": "Performances",
+   "start": 1785600000000,
+   "end": 1785603600000,
+   "description": "Performance"
+  },
+  {
+   "id": "lichtung-teebar-alma-linda-b2b-earthtones",
    "artist": "Alma Linda b2b Earthtones",
-   "stage": "Lichtung",
-   "start": 1784995200000,
-   "end": 1785006000000
+   "stage": "Lichtung Teebar",
+   "start": 1785600000000,
+   "end": 1785610800000
   },
   {
-   "id": "weinbar-alex-b",
-   "artist": "Alex B",
-   "stage": "Weinbar",
-   "start": 1784995200000,
-   "end": 1785002400000
+   "id": "lichtung-amphitheater-mandala-calligraphy-live-painting",
+   "artist": "Mandala Calligraphy Live-Painting",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785600000000,
+   "end": 1785610800000,
+   "description": "Workshop"
   },
   {
    "id": "see-sutsche",
    "artist": "Sutsche",
    "stage": "See",
-   "start": 1784997000000,
-   "end": 1785006000000
-  },
-  {
-   "id": "loco-paraiso-maxime-db",
-   "artist": "Maxime DB",
-   "stage": "Loco Paraiso",
-   "start": 1784998800000,
-   "end": 1785006000000
-  },
-  {
-   "id": "pleasure-island-sarah-wild",
-   "artist": "Sarah Wild",
-   "stage": "Pleasure Island",
-   "start": 1784998800000,
-   "end": 1785006000000
+   "start": 1785601800000,
+   "end": 1785610800000
   },
   {
    "id": "buk-corner-sven-dohse",
    "artist": "Sven Dohse",
    "stage": "Buk Corner",
-   "start": 1784998800000,
-   "end": 1785006000000
+   "start": 1785603600000,
+   "end": 1785610800000
+  },
+  {
+   "id": "loco-paraiso-maxime-db",
+   "artist": "Maxime DB",
+   "stage": "Loco Paraiso",
+   "start": 1785603600000,
+   "end": 1785610800000
+  },
+  {
+   "id": "pleasure-island-sarah-wild",
+   "artist": "Sarah Wild",
+   "stage": "Pleasure Island",
+   "start": 1785603600000,
+   "end": 1785610800000
+  },
+  {
+   "id": "junkyard-amphitheater-constructive-destruction",
+   "artist": "Constructive Destruction",
+   "stage": "Junkyard Amphitheater",
+   "start": 1785603600000,
+   "end": 1785607200000,
+   "description": "Performance"
+  },
+  {
+   "id": "juicy-bar-like-lava-b2b-karl",
+   "artist": "Like lava b2b KARLï",
+   "stage": "Juicy Bar",
+   "start": 1785605400000,
+   "end": 1785612600000
   },
   {
    "id": "wiese-cinthie-b2b-meat",
    "artist": "Cinthie b2b Meat",
    "stage": "Wiese",
-   "start": 1785002400000,
-   "end": 1785009600000
-  },
-  {
-   "id": "weinbar-sunny-s-karaoke",
-   "artist": "Sunny's Karaoke",
-   "stage": "Weinbar",
-   "start": 1785002400000,
-   "end": 1785009600000
+   "start": 1785607200000,
+   "end": 1785614400000
   },
   {
    "id": "ambient-boston-dynamics",
    "artist": "Boston Dynamics",
    "stage": "Ambient",
-   "start": 1785002400000,
-   "end": 1785009600000,
-   "description": "Live set."
+   "start": 1785607200000,
+   "end": 1785614400000,
+   "description": "Live Act"
+  },
+  {
+   "id": "weinbar-sunny-s-karaoke",
+   "artist": "Sunny's Karaoke",
+   "stage": "Weinbar",
+   "start": 1785607200000,
+   "end": 1785614400000,
+   "description": "Live Act"
+  },
+  {
+   "id": "junkyard-kneipe-trotz",
+   "artist": "Trotz",
+   "stage": "Junkyard Kneipe",
+   "start": 1785607200000,
+   "end": 1785614400000,
+   "description": "Live Act"
+  },
+  {
+   "id": "performances-dreamweavers-x3",
+   "artist": "Dreamweavers",
+   "stage": "Performances",
+   "start": 1785608100000,
+   "end": 1785614400000,
+   "description": "Performance"
   },
   {
    "id": "wald-peryl",
    "artist": "Peryl",
    "stage": "Wald",
-   "start": 1785004200000,
-   "end": 1785007800000
-  },
-  {
-   "id": "loco-paraiso-rakim-under-david-triana",
-   "artist": "Rakim Under & David Triana",
-   "stage": "Loco Paraiso",
-   "start": 1785006000000,
-   "end": 1785013200000
-  },
-  {
-   "id": "pleasure-island-bekka",
-   "artist": "Bekka",
-   "stage": "Pleasure Island",
-   "start": 1785006000000,
-   "end": 1785013200000
-  },
-  {
-   "id": "see-leifur-james",
-   "artist": "LEIFUR JAMES",
-   "stage": "See",
-   "start": 1785006000000,
-   "end": 1785009600000,
-   "description": "Live set."
-  },
-  {
-   "id": "lichtung-kaleema",
-   "artist": "Kaleema",
-   "stage": "Lichtung",
-   "start": 1785006000000,
-   "end": 1785013200000
+   "start": 1785609000000,
+   "end": 1785612600000,
+   "description": "Live Act"
   },
   {
    "id": "buk-corner-marie-montexier",
    "artist": "Marie Montexier",
    "stage": "Buk Corner",
-   "start": 1785006000000,
-   "end": 1785013200000
+   "start": 1785610800000,
+   "end": 1785618000000
+  },
+  {
+   "id": "see-leifur-james",
+   "artist": "LEIFUR JAMES",
+   "stage": "See",
+   "start": 1785610800000,
+   "end": 1785614400000,
+   "description": "Live Act"
+  },
+  {
+   "id": "loco-paraiso-rakim-under-david-triana",
+   "artist": "Rakim Under & David Triana",
+   "stage": "Loco Paraiso",
+   "start": 1785610800000,
+   "end": 1785618000000
+  },
+  {
+   "id": "pleasure-island-bekka",
+   "artist": "Bekka",
+   "stage": "Pleasure Island",
+   "start": 1785610800000,
+   "end": 1785618000000
+  },
+  {
+   "id": "lichtung-teebar-jo-ke-b2b-antaares",
+   "artist": "Jo.ke b2b Antaares",
+   "stage": "Lichtung Teebar",
+   "start": 1785610800000,
+   "end": 1785618000000
+  },
+  {
+   "id": "lichtung-amphitheater-flux-circle",
+   "artist": "Flux Circle",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785610800000,
+   "end": 1785618000000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-moontent-the-love-bubble",
+   "artist": "The Love Bubble",
+   "stage": "Lichtung Moontent",
+   "start": 1785610800000,
+   "end": 1785625200000,
+   "description": "Workshop"
   },
   {
    "id": "wald-abstract-division",
    "artist": "Abstract Division",
    "stage": "Wald",
-   "start": 1785007800000,
-   "end": 1785015000000
+   "start": 1785612600000,
+   "end": 1785619800000
+  },
+  {
+   "id": "juicy-bar-tiago-oudman",
+   "artist": "Tiago Oudman",
+   "stage": "Juicy Bar",
+   "start": 1785612600000,
+   "end": 1785623400000
   },
   {
    "id": "wiese-ash-lauryn",
    "artist": "Ash Lauryn",
    "stage": "Wiese",
-   "start": 1785009600000,
-   "end": 1785016800000
+   "start": 1785614400000,
+   "end": 1785621600000
   },
   {
    "id": "see-all-clowns-are-beautiful",
    "artist": "ALL CLOWNS ARE BEAUTIFUL",
    "stage": "See",
-   "start": 1785009600000,
-   "end": 1785013200000,
-   "description": "Performance."
-  },
-  {
-   "id": "weinbar-mellowflex",
-   "artist": "Mellowflex",
-   "stage": "Weinbar",
-   "start": 1785009600000,
-   "end": 1785020400000
+   "start": 1785614400000,
+   "end": 1785618000000,
+   "description": "Performance"
   },
   {
    "id": "ambient-ektoplast",
    "artist": "Ektoplast",
    "stage": "Ambient",
-   "start": 1785009600000,
-   "end": 1785027600000
+   "start": 1785614400000,
+   "end": 1785621600000
   },
   {
-   "id": "loco-paraiso-harry-mcanna",
-   "artist": "Harry Mcanna",
-   "stage": "Loco Paraiso",
-   "start": 1785013200000,
-   "end": 1785020400000
+   "id": "weinbar-mellowflex",
+   "artist": "Mellowflex",
+   "stage": "Weinbar",
+   "start": 1785614400000,
+   "end": 1785625200000
   },
   {
-   "id": "pleasure-island-baige",
-   "artist": "baige",
-   "stage": "Pleasure Island",
-   "start": 1785013200000,
-   "end": 1785024000000
+   "id": "junkyard-kneipe-jeanne-d-arsch",
+   "artist": "Jeanne D'Arsch",
+   "stage": "Junkyard Kneipe",
+   "start": 1785614400000,
+   "end": 1785621600000,
+   "description": "Live Act"
   },
   {
-   "id": "see-jorkes",
-   "artist": "Jorkes",
-   "stage": "See",
-   "start": 1785013200000,
-   "end": 1785020400000,
-   "description": "20 years Permanent Vacation"
-  },
-  {
-   "id": "lichtung-captures-huaira",
-   "artist": "Captures & Huaira",
-   "stage": "Lichtung",
-   "start": 1785013200000,
-   "end": 1785020400000
+   "id": "junkyard-schuppen-shoee",
+   "artist": "Shoee",
+   "stage": "Junkyard Schuppen",
+   "start": 1785614400000,
+   "end": 1785618000000,
+   "description": "Live Act"
   },
   {
    "id": "buk-corner-gene-on-earth",
    "artist": "Gene on Earth",
    "stage": "Buk Corner",
-   "start": 1785013200000,
-   "end": 1785020400000
+   "start": 1785618000000,
+   "end": 1785625200000
+  },
+  {
+   "id": "see-jorkes",
+   "artist": "Jorkes",
+   "stage": "See",
+   "start": 1785618000000,
+   "end": 1785625200000
+  },
+  {
+   "id": "loco-paraiso-harry-mcanna",
+   "artist": "Harry Mcanna",
+   "stage": "Loco Paraiso",
+   "start": 1785618000000,
+   "end": 1785625200000
+  },
+  {
+   "id": "pleasure-island-baige",
+   "artist": "baige",
+   "stage": "Pleasure Island",
+   "start": 1785618000000,
+   "end": 1785628800000
+  },
+  {
+   "id": "lichtung-teebar-wezienwel-ensemble",
+   "artist": "WeZienWel Ensemble",
+   "stage": "Lichtung Teebar",
+   "start": 1785618000000,
+   "end": 1785625200000
+  },
+  {
+   "id": "junkyard-schuppen-emi",
+   "artist": "Emi",
+   "stage": "Junkyard Schuppen",
+   "start": 1785618000000,
+   "end": 1785625200000
   },
   {
    "id": "wald-the-lady-machine",
    "artist": "The Lady Machine",
    "stage": "Wald",
-   "start": 1785015000000,
-   "end": 1785024000000
+   "start": 1785619800000,
+   "end": 1785628800000
   },
   {
    "id": "wiese-cassy",
    "artist": "Cassy",
    "stage": "Wiese",
-   "start": 1785016800000,
-   "end": 1785024000000
+   "start": 1785621600000,
+   "end": 1785628800000
   },
   {
-   "id": "loco-paraiso-make-a-dance",
-   "artist": "Make A Dance",
-   "stage": "Loco Paraiso",
-   "start": 1785020400000,
-   "end": 1785027600000
+   "id": "ambient-modestie-sub-therapy",
+   "artist": "Modestie & Sub Therapy",
+   "stage": "Ambient",
+   "start": 1785621600000,
+   "end": 1785632400000
   },
   {
-   "id": "see-benjamin-fr-hlich",
-   "artist": "Benjamin Fröhlich",
-   "stage": "See",
-   "start": 1785020400000,
-   "end": 1785027600000,
-   "description": "20 years Permanent Vacation"
+   "id": "junkyard-kneipe-handstand-besoffen",
+   "artist": "Handstand Besoffen",
+   "stage": "Junkyard Kneipe",
+   "start": 1785621600000,
+   "end": 1785627000000,
+   "description": "Live Act"
   },
   {
-   "id": "lichtung-temple-haze",
-   "artist": "Temple Haze",
-   "stage": "Lichtung",
-   "start": 1785020400000,
-   "end": 1785027600000,
-   "description": "Live set."
-  },
-  {
-   "id": "weinbar-moritz-butschek",
-   "artist": "Moritz Butschek",
-   "stage": "Weinbar",
-   "start": 1785020400000,
-   "end": 1785031200000
+   "id": "juicy-bar-esveae",
+   "artist": "ESVEAE",
+   "stage": "Juicy Bar",
+   "start": 1785623400000,
+   "end": 1785630600000
   },
   {
    "id": "buk-corner-dr-banana",
    "artist": "Dr Banana",
    "stage": "Buk Corner",
-   "start": 1785020400000,
-   "end": 1785027600000
+   "start": 1785625200000,
+   "end": 1785632400000
+  },
+  {
+   "id": "see-benjamin-fr-hlich",
+   "artist": "Benjamin Fröhlich",
+   "stage": "See",
+   "start": 1785625200000,
+   "end": 1785632400000
+  },
+  {
+   "id": "loco-paraiso-make-a-dance",
+   "artist": "Make A Dance",
+   "stage": "Loco Paraiso",
+   "start": 1785625200000,
+   "end": 1785632400000
+  },
+  {
+   "id": "weinbar-moritz-butschek",
+   "artist": "Moritz Butschek",
+   "stage": "Weinbar",
+   "start": 1785625200000,
+   "end": 1785636000000
+  },
+  {
+   "id": "lichtung-teebar-temple-haze",
+   "artist": "Temple Haze",
+   "stage": "Lichtung Teebar",
+   "start": 1785625200000,
+   "end": 1785632400000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-moontent-hilo-sound-vibroaccoustic-chillout",
+   "artist": "Hilo Sound Vibroaccoustic Chillout",
+   "stage": "Lichtung Moontent",
+   "start": 1785625200000,
+   "end": 1785632400000,
+   "description": "Live Act"
+  },
+  {
+   "id": "junkyard-schuppen-dj-hippiecrack",
+   "artist": "DJ Hippiecrack",
+   "stage": "Junkyard Schuppen",
+   "start": 1785625200000,
+   "end": 1785632400000
+  },
+  {
+   "id": "performances-fungi-we-gather-x2",
+   "artist": "FUNGI, WE GATHER",
+   "stage": "Performances",
+   "start": 1785627000000,
+   "end": 1785628800000,
+   "description": "Performance"
+  },
+  {
+   "id": "junkyard-kneipe-karaoke-wheel-of-fortune",
+   "artist": "Karaoke Wheel Of Fortune",
+   "stage": "Junkyard Kneipe",
+   "start": 1785627000000,
+   "end": 1785632400000,
+   "description": "Game"
   },
   {
    "id": "wald-orbe",
    "artist": "Orbe",
    "stage": "Wald",
-   "start": 1785024000000,
-   "end": 1785033000000
+   "start": 1785628800000,
+   "end": 1785637800000
   },
   {
    "id": "wiese-blasha-allatt",
    "artist": "Blasha & Allatt",
    "stage": "Wiese",
-   "start": 1785024000000,
-   "end": 1785031200000
+   "start": 1785628800000,
+   "end": 1785636000000
   },
   {
    "id": "pleasure-island-limbica",
    "artist": "Limbica",
    "stage": "Pleasure Island",
-   "start": 1785024000000,
-   "end": 1785031200000
+   "start": 1785628800000,
+   "end": 1785636000000
   },
   {
-   "id": "loco-paraiso-aline-umber",
-   "artist": "Aline Umber",
-   "stage": "Loco Paraiso",
-   "start": 1785027600000,
-   "end": 1785034800000
-  },
-  {
-   "id": "see-sam-goku",
-   "artist": "Sam Goku",
-   "stage": "See",
-   "start": 1785027600000,
-   "end": 1785034800000
-  },
-  {
-   "id": "lichtung-jo-ke-b2b-antaares",
-   "artist": "Jo.ke b2b Antaares",
-   "stage": "Lichtung",
-   "start": 1785027600000,
-   "end": 1785034800000
+   "id": "juicy-bar-nat-wendell",
+   "artist": "Nat Wendell",
+   "stage": "Juicy Bar",
+   "start": 1785630600000,
+   "end": 1785637800000
   },
   {
    "id": "buk-corner-eduardo-de-la-calle",
    "artist": "Eduardo de la Calle",
    "stage": "Buk Corner",
-   "start": 1785027600000,
-   "end": 1785034800000
+   "start": 1785632400000,
+   "end": 1785639600000
+  },
+  {
+   "id": "see-sam-goku",
+   "artist": "Sam Goku",
+   "stage": "See",
+   "start": 1785632400000,
+   "end": 1785639600000
+  },
+  {
+   "id": "loco-paraiso-aline-umber",
+   "artist": "Aline Umber",
+   "stage": "Loco Paraiso",
+   "start": 1785632400000,
+   "end": 1785639600000
   },
   {
    "id": "ambient-blanche-kheira-toplet",
    "artist": "Blanche Kheira Toplet",
    "stage": "Ambient",
-   "start": 1785027600000,
-   "end": 1785038400000
+   "start": 1785632400000,
+   "end": 1785643200000
+  },
+  {
+   "id": "lichtung-teebar-uli-viola",
+   "artist": "Uli Viola",
+   "stage": "Lichtung Teebar",
+   "start": 1785632400000,
+   "end": 1785639600000
+  },
+  {
+   "id": "junkyard-kneipe-ronny-rosenberg",
+   "artist": "Ronny Rosenberg",
+   "stage": "Junkyard Kneipe",
+   "start": 1785632400000,
+   "end": 1785639600000
+  },
+  {
+   "id": "junkyard-schuppen-blut-sehen",
+   "artist": "Blut Sehen",
+   "stage": "Junkyard Schuppen",
+   "start": 1785632400000,
+   "end": 1785639600000
   },
   {
    "id": "wiese-franca",
    "artist": "Franca",
    "stage": "Wiese",
-   "start": 1785031200000,
-   "end": 1785038400000
+   "start": 1785636000000,
+   "end": 1785643200000
   },
   {
    "id": "pleasure-island-prieste5s",
    "artist": "Prieste5s",
    "stage": "Pleasure Island",
-   "start": 1785031200000,
-   "end": 1785038400000
+   "start": 1785636000000,
+   "end": 1785643200000
   },
   {
    "id": "wald-mary-yuzovskaya",
    "artist": "Mary Yuzovskaya",
    "stage": "Wald",
-   "start": 1785033000000,
-   "end": 1785040200000
+   "start": 1785637800000,
+   "end": 1785645000000
   },
   {
-   "id": "loco-paraiso-jonny-rock",
-   "artist": "Jonny Rock",
-   "stage": "Loco Paraiso",
-   "start": 1785034800000,
-   "end": 1785042000000
-  },
-  {
-   "id": "see-rosa-red",
-   "artist": "Rosa Red",
-   "stage": "See",
-   "start": 1785034800000,
-   "end": 1785042000000
-  },
-  {
-   "id": "lichtung-stefanie-egedy",
-   "artist": "Stefanie Egedy",
-   "stage": "Lichtung",
-   "start": 1785034800000,
-   "end": 1785038400000
+   "id": "juicy-bar-jiyun-kim",
+   "artist": "Jiyun Kim",
+   "stage": "Juicy Bar",
+   "start": 1785637800000,
+   "end": 1785645000000
   },
   {
    "id": "buk-corner-mayell",
    "artist": "Mayell",
    "stage": "Buk Corner",
-   "start": 1785034800000,
-   "end": 1785042000000
+   "start": 1785639600000,
+   "end": 1785646800000
   },
   {
-   "id": "pleasure-island-jet-mila",
-   "artist": "Jet Mila",
+   "id": "see-rosa-red",
+   "artist": "Rosa Red",
+   "stage": "See",
+   "start": 1785639600000,
+   "end": 1785646800000
+  },
+  {
+   "id": "loco-paraiso-jonny-rock",
+   "artist": "Jonny Rock",
+   "stage": "Loco Paraiso",
+   "start": 1785639600000,
+   "end": 1785646800000
+  },
+  {
+   "id": "lichtung-teebar-stefanie-egedy-sonic-energetics",
+   "artist": "Stefanie Egedy: Sonic Energetics",
+   "stage": "Lichtung Teebar",
+   "start": 1785639600000,
+   "end": 1785643200000
+  },
+  {
+   "id": "junkyard-kneipe-dj-ebbe",
+   "artist": "DJ Ebbe",
+   "stage": "Junkyard Kneipe",
+   "start": 1785639600000,
+   "end": 1785643200000
+  },
+  {
+   "id": "junkyard-schuppen-nidard",
+   "artist": "Nidardø",
+   "stage": "Junkyard Schuppen",
+   "start": 1785639600000,
+   "end": 1785646800000
+  },
+  {
+   "id": "pleasure-island-secret-act",
+   "artist": "Secret Act",
    "stage": "Pleasure Island",
-   "start": 1785038400000,
-   "end": 1785043800000
+   "start": 1785643200000,
+   "end": 1785648600000
   },
   {
    "id": "ambient-dave-dinger",
    "artist": "Dave Dinger",
    "stage": "Ambient",
-   "start": 1785038400000,
-   "end": 1785045600000
+   "start": 1785643200000,
+   "end": 1785650400000
   },
   {
-   "id": "loco-paraiso-freestyle-selectors",
-   "artist": "Freestyle Selectors",
-   "stage": "Loco Paraiso",
-   "start": 1785042000000,
-   "end": 1785049200000
-  },
-  {
-   "id": "see-filipa-lazary",
-   "artist": "Filipa Lazary",
-   "stage": "See",
-   "start": 1785042000000,
-   "end": 1785049200000
+   "id": "juicy-bar-adriana-ruas-alfonsvs",
+   "artist": "Adriana Ruas & Alfonsvs",
+   "stage": "Juicy Bar",
+   "start": 1785645000000,
+   "end": 1785655800000
   },
   {
    "id": "buk-corner-bonjour-ben",
    "artist": "Bonjour Ben",
    "stage": "Buk Corner",
-   "start": 1785042000000,
-   "end": 1785052800000
+   "start": 1785646800000,
+   "end": 1785657600000
+  },
+  {
+   "id": "see-filipa-lazary",
+   "artist": "Filipa Lazary",
+   "stage": "See",
+   "start": 1785646800000,
+   "end": 1785654000000
+  },
+  {
+   "id": "loco-paraiso-freestyle-selectors",
+   "artist": "Freestyle Selectors",
+   "stage": "Loco Paraiso",
+   "start": 1785646800000,
+   "end": 1785654000000
   },
   {
    "id": "pleasure-island-nanti",
    "artist": "Nanti",
    "stage": "Pleasure Island",
-   "start": 1785043800000,
-   "end": 1785045600000,
-   "description": "Live set."
+   "start": 1785648600000,
+   "end": 1785650400000,
+   "description": "Live Act"
   },
   {
    "id": "pleasure-island-daisy-cutter",
    "artist": "Daisy Cutter",
    "stage": "Pleasure Island",
-   "start": 1785045600000,
-   "end": 1785052800000
+   "start": 1785650400000,
+   "end": 1785657600000
   },
   {
    "id": "loco-paraiso-heimlich-kn-ller",
    "artist": "Heimlich Knüller",
    "stage": "Loco Paraiso",
-   "start": 1785049200000,
-   "end": 1785060000000
+   "start": 1785654000000,
+   "end": 1785664800000
   },
   {
-   "id": "pleasure-island-buona-sara",
-   "artist": "Buona Sara",
-   "stage": "Pleasure Island",
-   "start": 1785052800000,
-   "end": 1785060000000
+   "id": "juicy-bar-qzen",
+   "artist": "Qzen",
+   "stage": "Juicy Bar",
+   "start": 1785655800000,
+   "end": 1785663000000
   },
   {
    "id": "buk-corner-mimi",
    "artist": "Mimi",
    "stage": "Buk Corner",
-   "start": 1785052800000,
-   "end": 1785063600000
+   "start": 1785657600000,
+   "end": 1785668400000
+  },
+  {
+   "id": "pleasure-island-buona-sara",
+   "artist": "Buona Sara",
+   "stage": "Pleasure Island",
+   "start": 1785657600000,
+   "end": 1785664800000
   },
   {
    "id": "ambient-quality-time",
    "artist": "Quality Time",
    "stage": "Ambient",
-   "start": 1785052800000,
-   "end": 1785085200000
+   "start": 1785657600000,
+   "end": 1785690000000
+  },
+  {
+   "id": "lichtung-moontent-zen-tea-ceremony",
+   "artist": "Zen Tea Ceremony",
+   "stage": "Lichtung Moontent",
+   "start": 1785657600000,
+   "end": 1785664800000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-the-sober-space-slow-soulful-sober-mornings-yoga-breathwork-sound-meditation",
+   "artist": "Slow, Soulful & Sober Mornings - Yoga, Breathwork, Sound & Meditation",
+   "stage": "Lichtung The Sober Space",
+   "start": 1785657600000,
+   "end": 1785661200000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-amphitheater-qi-gong-faultiersport-by-dave-dinger",
+   "artist": "Qi Gong Faultiersport by Dave Dinger",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785661200000,
+   "end": 1785664800000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-the-sober-space-self-regulation-station-chill-out-zone-x3",
+   "artist": "Self-Regulation Station - Chill Out Zone",
+   "stage": "Lichtung The Sober Space",
+   "start": 1785661200000,
+   "end": 1785668400000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-playground-brunch-x2",
+   "artist": "Brunch",
+   "stage": "Lichtung Playground",
+   "start": 1785661200000,
+   "end": 1785672000000
+  },
+  {
+   "id": "juicy-bar-jess",
+   "artist": "Jess",
+   "stage": "Juicy Bar",
+   "start": 1785663000000,
+   "end": 1785670200000
   },
   {
    "id": "loco-paraiso-kalabrese",
    "artist": "Kalabrese",
    "stage": "Loco Paraiso",
-   "start": 1785060000000,
-   "end": 1785070800000
+   "start": 1785664800000,
+   "end": 1785675600000
   },
   {
    "id": "pleasure-island-bad-tourist",
    "artist": "Bad Tourist",
    "stage": "Pleasure Island",
-   "start": 1785060000000,
-   "end": 1785067200000
+   "start": 1785664800000,
+   "end": 1785672000000
   },
   {
-   "id": "see-captain-of-none",
-   "artist": "Captain Of None",
-   "stage": "See",
-   "start": 1785063600000,
-   "end": 1785074400000
+   "id": "lichtung-amphitheater-ku-sobie-home-to-body",
+   "artist": "Ku Sobie: Home to Body",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785664800000,
+   "end": 1785672000000,
+   "description": "Workshop"
   },
   {
-   "id": "weinbar-malaga-boys",
-   "artist": "Malaga Boys",
-   "stage": "Weinbar",
-   "start": 1785063600000,
-   "end": 1785099600000,
-   "description": "Live set."
+   "id": "lichtung-moontent-cacao-ceremony-x2",
+   "artist": "Cacao Ceremony",
+   "stage": "Lichtung Moontent",
+   "start": 1785664800000,
+   "end": 1785672000000,
+   "description": "Workshop"
   },
   {
    "id": "buk-corner-elli",
    "artist": "Elli",
    "stage": "Buk Corner",
-   "start": 1785063600000,
-   "end": 1785070800000
+   "start": 1785668400000,
+   "end": 1785675600000
+  },
+  {
+   "id": "see-captain-of-none",
+   "artist": "Captain Of None",
+   "stage": "See",
+   "start": 1785668400000,
+   "end": 1785679200000
+  },
+  {
+   "id": "weinbar-malaga-boys",
+   "artist": "Malaga Boys",
+   "stage": "Weinbar",
+   "start": 1785668400000,
+   "end": 1785704400000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-the-sober-space-get-ready-for-some-sober-partying",
+   "artist": "Get Ready for some Sober Partying",
+   "stage": "Lichtung The Sober Space",
+   "start": 1785668400000,
+   "end": 1785675600000,
+   "description": "Workshop"
   },
   {
    "id": "wiese-queeratorio",
    "artist": "Queeratorio",
    "stage": "Wiese",
-   "start": 1785065400000,
-   "end": 1785070800000,
-   "description": "Performance."
+   "start": 1785670200000,
+   "end": 1785675600000,
+   "description": "Performance"
+  },
+  {
+   "id": "juicy-bar-alko-melissa",
+   "artist": "Alko & Melissa",
+   "stage": "Juicy Bar",
+   "start": 1785670200000,
+   "end": 1785679200000
   },
   {
    "id": "pleasure-island-k-the",
    "artist": "Käthe",
    "stage": "Pleasure Island",
-   "start": 1785067200000,
-   "end": 1785074400000
+   "start": 1785672000000,
+   "end": 1785679200000
+  },
+  {
+   "id": "lichtung-amphitheater-twerkflow-by-julia-von-montfort",
+   "artist": "Twerkflow by Julia von Montfort",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785672000000,
+   "end": 1785679200000,
+   "description": "Workshop"
+  },
+  {
+   "id": "lichtung-moontent-einfach-talky",
+   "artist": "Einfach Talky",
+   "stage": "Lichtung Moontent",
+   "start": 1785672000000,
+   "end": 1785675600000,
+   "description": "Workshop"
+  },
+  {
+   "id": "junkyard-amphitheater-fr-hst-cks-tv",
+   "artist": "Frühstücks TV",
+   "stage": "Junkyard Amphitheater",
+   "start": 1785672000000,
+   "end": 1785679200000,
+   "description": "Game"
   },
   {
    "id": "wald-cliff",
    "artist": "Cliff",
    "stage": "Wald",
-   "start": 1785070800000,
-   "end": 1785081600000
+   "start": 1785675600000,
+   "end": 1785686400000
   },
   {
    "id": "wiese-vitaly",
    "artist": "Vitaly",
    "stage": "Wiese",
-   "start": 1785070800000,
-   "end": 1785078000000
-  },
-  {
-   "id": "loco-paraiso-fort-romeau",
-   "artist": "Fort Romeau",
-   "stage": "Loco Paraiso",
-   "start": 1785070800000,
-   "end": 1785078000000
+   "start": 1785675600000,
+   "end": 1785682800000
   },
   {
    "id": "buk-corner-sevensol",
    "artist": "Sevensol",
    "stage": "Buk Corner",
-   "start": 1785070800000,
-   "end": 1785078000000
+   "start": 1785675600000,
+   "end": 1785682800000
   },
   {
-   "id": "pleasure-island-kitagawa",
-   "artist": "Kitagawa",
-   "stage": "Pleasure Island",
-   "start": 1785074400000,
-   "end": 1785081600000
+   "id": "loco-paraiso-fort-romeau",
+   "artist": "Fort Romeau",
+   "stage": "Loco Paraiso",
+   "start": 1785675600000,
+   "end": 1785682800000
   },
   {
    "id": "see-the-zenmenn-live-band-karaoke",
    "artist": "The Zenmenn Live Band Karaoke",
    "stage": "See",
-   "start": 1785074400000,
-   "end": 1785081600000,
-   "description": "Live set."
+   "start": 1785679200000,
+   "end": 1785686400000,
+   "description": "Live Act"
   },
   {
-   "id": "lichtung-jiwu-echoes-of-stillness",
-   "artist": "JIWU // Echoes of Stillness",
-   "stage": "Lichtung",
-   "start": 1785074400000,
-   "end": 1785081600000,
-   "description": "A Musical Spa Experience"
+   "id": "pleasure-island-kitagawa",
+   "artist": "Kitagawa",
+   "stage": "Pleasure Island",
+   "start": 1785679200000,
+   "end": 1785686400000
+  },
+  {
+   "id": "juicy-bar-michel-de-hey-kasper",
+   "artist": "Michel de Hey & Kasper",
+   "stage": "Juicy Bar",
+   "start": 1785679200000,
+   "end": 1785690000000
+  },
+  {
+   "id": "lichtung-teebar-jiwu-echoes-of-stillness-a-musical-spa-experience",
+   "artist": "JIWU // Echoes of Stillness - A Musical Spa Experience",
+   "stage": "Lichtung Teebar",
+   "start": 1785679200000,
+   "end": 1785686400000
+  },
+  {
+   "id": "lichtung-amphitheater-dancers-reset-flow-release-tension",
+   "artist": "Dancers Reset Flow  - Release Tension",
+   "stage": "Lichtung Amphitheater",
+   "start": 1785679200000,
+   "end": 1785682800000,
+   "description": "Workshop"
+  },
+  {
+   "id": "junkyard-kneipe-das-gro-e-musikquiz",
+   "artist": "Das Große Musikquiz",
+   "stage": "Junkyard Kneipe",
+   "start": 1785679200000,
+   "end": 1785686400000,
+   "description": "Game"
   },
   {
    "id": "wiese-esther-silex",
    "artist": "Esther Silex",
    "stage": "Wiese",
-   "start": 1785078000000,
-   "end": 1785085200000
-  },
-  {
-   "id": "loco-paraiso-inland-knights",
-   "artist": "Inland Knights",
-   "stage": "Loco Paraiso",
-   "start": 1785078000000,
-   "end": 1785085200000
+   "start": 1785682800000,
+   "end": 1785690000000
   },
   {
    "id": "buk-corner-dana-ruh",
    "artist": "Dana Ruh",
    "stage": "Buk Corner",
-   "start": 1785078000000,
-   "end": 1785085200000
+   "start": 1785682800000,
+   "end": 1785690000000
+  },
+  {
+   "id": "loco-paraiso-inland-knights",
+   "artist": "Inland Knights",
+   "stage": "Loco Paraiso",
+   "start": 1785682800000,
+   "end": 1785690000000
+  },
+  {
+   "id": "lichtung-moontent-hilo-sound-vibroaccoustic-experience-x2",
+   "artist": "Hilo Sound Vibroaccoustic Experience",
+   "stage": "Lichtung Moontent",
+   "start": 1785682800000,
+   "end": 1785686400000,
+   "description": "Live Act"
   },
   {
    "id": "wald-sheila-b2b-pauli-pocket",
    "artist": "Sheila b2b Pauli Pocket",
    "stage": "Wald",
-   "start": 1785081600000,
-   "end": 1785088800000
-  },
-  {
-   "id": "pleasure-island-hanaby",
-   "artist": "Hanaby",
-   "stage": "Pleasure Island",
-   "start": 1785081600000,
-   "end": 1785088800000
+   "start": 1785686400000,
+   "end": 1785693600000
   },
   {
    "id": "see-sexy-lazer-sunday-school",
    "artist": "Sexy Lazer (Sunday School)",
    "stage": "See",
-   "start": 1785081600000,
-   "end": 1785088800000
+   "start": 1785686400000,
+   "end": 1785693600000
   },
   {
-   "id": "lichtung-inc-terry-riley-interpreted-by-5string-theory-philipp-johann-thimm-1781-collective-friends",
-   "artist": "InC (Terry Riley) interpreted by 5string Theory, Philipp Johann Thimm, 1781 Collective & friends",
-   "stage": "Lichtung",
-   "start": 1785081600000,
-   "end": 1785088800000,
-   "description": "Live set."
+   "id": "pleasure-island-hanaby",
+   "artist": "Hanaby",
+   "stage": "Pleasure Island",
+   "start": 1785686400000,
+   "end": 1785693600000
+  },
+  {
+   "id": "lichtung-teebar-in-c-terry-riley-interpreted-by-5string-theory-philipp-johann-thimm-1781-collective-friends",
+   "artist": "In C (Terry Riley) - interpreted by 5string Theory, Philipp Johann Thimm, 1781 Collective & friends",
+   "stage": "Lichtung Teebar",
+   "start": 1785686400000,
+   "end": 1785693600000,
+   "description": "Live Act"
+  },
+  {
+   "id": "junkyard-kneipe-bingo",
+   "artist": "Bingo",
+   "stage": "Junkyard Kneipe",
+   "start": 1785686400000,
+   "end": 1785693600000,
+   "description": "Game"
   },
   {
    "id": "wiese-virginia",
    "artist": "Virginia",
    "stage": "Wiese",
-   "start": 1785085200000,
-   "end": 1785092400000
-  },
-  {
-   "id": "loco-paraiso-massimiliano-pagliara",
-   "artist": "Massimiliano Pagliara",
-   "stage": "Loco Paraiso",
-   "start": 1785085200000,
-   "end": 1785092400000
+   "start": 1785690000000,
+   "end": 1785697200000
   },
   {
    "id": "buk-corner-flo-mass",
    "artist": "Flo Massé",
    "stage": "Buk Corner",
-   "start": 1785085200000,
-   "end": 1785092400000
+   "start": 1785690000000,
+   "end": 1785697200000
+  },
+  {
+   "id": "loco-paraiso-massimiliano-pagliara",
+   "artist": "Massimiliano Pagliara",
+   "stage": "Loco Paraiso",
+   "start": 1785690000000,
+   "end": 1785697200000
+  },
+  {
+   "id": "juicy-bar-sweely",
+   "artist": "Sweely",
+   "stage": "Juicy Bar",
+   "start": 1785690000000,
+   "end": 1785693600000,
+   "description": "Live Act"
   },
   {
    "id": "ambient-lila-collective-x-sonarium",
    "artist": "Lila Collective x Sonarium",
    "stage": "Ambient",
-   "start": 1785085200000,
-   "end": 1785092400000,
-   "description": "Live set."
+   "start": 1785690000000,
+   "end": 1785697200000,
+   "description": "Live Act"
   },
   {
    "id": "wald-v371x",
    "artist": "V371X",
    "stage": "Wald",
-   "start": 1785088800000,
-   "end": 1785096000000
-  },
-  {
-   "id": "pleasure-island-ze-na-b2b-pj-bridger",
-   "artist": "ZE:NA b2b PJ Bridger",
-   "stage": "Pleasure Island",
-   "start": 1785088800000,
-   "end": 1785096000000
+   "start": 1785693600000,
+   "end": 1785700800000
   },
   {
    "id": "see-the-zawose-queens",
    "artist": "The Zawose Queens",
    "stage": "See",
-   "start": 1785088800000,
-   "end": 1785092400000,
-   "description": "Live set."
+   "start": 1785693600000,
+   "end": 1785697200000,
+   "description": "Live Act"
   },
   {
-   "id": "lichtung-soneiro-collective",
+   "id": "pleasure-island-ze-na-b2b-pj-bridger",
+   "artist": "ZE:NA b2b PJ Bridger",
+   "stage": "Pleasure Island",
+   "start": 1785693600000,
+   "end": 1785700800000
+  },
+  {
+   "id": "juicy-bar-inbal",
+   "artist": "INBAL",
+   "stage": "Juicy Bar",
+   "start": 1785693600000,
+   "end": 1785702600000
+  },
+  {
+   "id": "lichtung-teebar-soneiro-collective",
    "artist": "Soneiro Collective",
-   "stage": "Lichtung",
-   "start": 1785088800000,
-   "end": 1785096000000,
-   "description": "Live set."
+   "stage": "Lichtung Teebar",
+   "start": 1785693600000,
+   "end": 1785700800000,
+   "description": "Live Act"
+  },
+  {
+   "id": "junkyard-kneipe-die-beh-rde",
+   "artist": "Die Behörde",
+   "stage": "Junkyard Kneipe",
+   "start": 1785693600000,
+   "end": 1785700800000,
+   "description": "Live Act"
   },
   {
    "id": "wiese-kevin-saunderson",
    "artist": "Kevin Saunderson",
    "stage": "Wiese",
-   "start": 1785092400000,
-   "end": 1785099600000
-  },
-  {
-   "id": "loco-paraiso-loco-paraiso-soundsystem",
-   "artist": "Loco Paraiso Soundsystem",
-   "stage": "Loco Paraiso",
-   "start": 1785092400000,
-   "end": 1785103200000
-  },
-  {
-   "id": "see-mimi-love",
-   "artist": "Mimi Love",
-   "stage": "See",
-   "start": 1785092400000,
-   "end": 1785103200000
+   "start": 1785697200000,
+   "end": 1785704400000
   },
   {
    "id": "buk-corner-map-ache",
    "artist": "map.ache",
    "stage": "Buk Corner",
-   "start": 1785092400000,
-   "end": 1785096000000,
-   "description": "Live set."
+   "start": 1785697200000,
+   "end": 1785700800000,
+   "description": "Live Act"
+  },
+  {
+   "id": "see-mimi-love",
+   "artist": "Mimi Love",
+   "stage": "See",
+   "start": 1785697200000,
+   "end": 1785708000000
+  },
+  {
+   "id": "loco-paraiso-loco-paraiso-soundsystem",
+   "artist": "Loco Paraiso Soundsystem",
+   "stage": "Loco Paraiso",
+   "start": 1785697200000,
+   "end": 1785708000000
   },
   {
    "id": "ambient-laura-fiore",
    "artist": "Laura Fiore",
    "stage": "Ambient",
-   "start": 1785092400000,
-   "end": 1785103200000
+   "start": 1785697200000,
+   "end": 1785708000000
   },
   {
    "id": "wald-function",
    "artist": "Function",
    "stage": "Wald",
-   "start": 1785096000000,
-   "end": 1785103200000
-  },
-  {
-   "id": "pleasure-island-zimmermann",
-   "artist": "Zimmermann",
-   "stage": "Pleasure Island",
-   "start": 1785096000000,
-   "end": 1785103200000
-  },
-  {
-   "id": "lichtung-lolavilla",
-   "artist": "LOLAVILLA",
-   "stage": "Lichtung",
-   "start": 1785096000000,
-   "end": 1785103200000
+   "start": 1785700800000,
+   "end": 1785708000000
   },
   {
    "id": "buk-corner-francesco-del-garda",
    "artist": "Francesco del Garda",
    "stage": "Buk Corner",
-   "start": 1785096000000,
-   "end": 1785103200000
+   "start": 1785700800000,
+   "end": 1785708000000
+  },
+  {
+   "id": "pleasure-island-zimmermann",
+   "artist": "Zimmermann",
+   "stage": "Pleasure Island",
+   "start": 1785700800000,
+   "end": 1785708000000
+  },
+  {
+   "id": "lichtung-teebar-lolavilla",
+   "artist": "LOLAVILLA",
+   "stage": "Lichtung Teebar",
+   "start": 1785700800000,
+   "end": 1785708000000
+  },
+  {
+   "id": "junkyard-kneipe-tinted-house",
+   "artist": "Tinted House",
+   "stage": "Junkyard Kneipe",
+   "start": 1785700800000,
+   "end": 1785708000000,
+   "description": "Live Act"
+  },
+  {
+   "id": "juicy-bar-special-guest",
+   "artist": "Special Guest",
+   "stage": "Juicy Bar",
+   "start": 1785702600000,
+   "end": 1785709800000
   },
   {
    "id": "wiese-me-dj",
    "artist": "Âme DJ",
    "stage": "Wiese",
-   "start": 1785099600000,
-   "end": 1785106800000
+   "start": 1785704400000,
+   "end": 1785711600000
   },
   {
    "id": "weinbar-welloo",
    "artist": "welloo",
    "stage": "Weinbar",
-   "start": 1785099600000,
-   "end": 1785110400000
+   "start": 1785704400000,
+   "end": 1785715200000
   },
   {
    "id": "wald-roman-fl-gel",
    "artist": "Roman Flügel",
    "stage": "Wald",
-   "start": 1785103200000,
-   "end": 1785110400000
-  },
-  {
-   "id": "loco-paraiso-heart-choir",
-   "artist": "Heart Choir",
-   "stage": "Loco Paraiso",
-   "start": 1785103200000,
-   "end": 1785106800000,
-   "description": "Live performance."
-  },
-  {
-   "id": "see-matildoutz",
-   "artist": "matildoutz",
-   "stage": "See",
-   "start": 1785103200000,
-   "end": 1785114000000
-  },
-  {
-   "id": "lichtung-hovr",
-   "artist": "HOVR",
-   "stage": "Lichtung",
-   "start": 1785103200000,
-   "end": 1785110400000
+   "start": 1785708000000,
+   "end": 1785715200000
   },
   {
    "id": "buk-corner-karine-shakolin",
    "artist": "Karine & Shakolin",
    "stage": "Buk Corner",
-   "start": 1785103200000,
-   "end": 1785114000000
+   "start": 1785708000000,
+   "end": 1785718800000
+  },
+  {
+   "id": "see-matildoutz",
+   "artist": "matildoutz",
+   "stage": "See",
+   "start": 1785708000000,
+   "end": 1785718800000
+  },
+  {
+   "id": "loco-paraiso-heart-chor",
+   "artist": "Heart Chor",
+   "stage": "Loco Paraiso",
+   "start": 1785708000000,
+   "end": 1785711600000,
+   "description": "Performance"
   },
   {
    "id": "ambient-avi-schneider-friends",
    "artist": "Avi Schneider & Friends",
    "stage": "Ambient",
-   "start": 1785103200000,
-   "end": 1785110400000,
-   "description": "Live set."
+   "start": 1785708000000,
+   "end": 1785715200000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-teebar-hovr",
+   "artist": "HOVR",
+   "stage": "Lichtung Teebar",
+   "start": 1785708000000,
+   "end": 1785715200000
+  },
+  {
+   "id": "junkyard-kneipe-kr-mmels-fluffy-hour",
+   "artist": "Krümmels Fluffy Hour",
+   "stage": "Junkyard Kneipe",
+   "start": 1785708000000,
+   "end": 1785715200000,
+   "description": "Game"
+  },
+  {
+   "id": "junkyard-schuppen-schrotti-allstars",
+   "artist": "Schrotti Allstars",
+   "stage": "Junkyard Schuppen",
+   "start": 1785708000000,
+   "end": 1785715200000
+  },
+  {
+   "id": "juicy-bar-tom-trago",
+   "artist": "Tom Trago",
+   "stage": "Juicy Bar",
+   "start": 1785709800000,
+   "end": 1785717000000
   },
   {
    "id": "wald-britta-arnold",
    "artist": "Britta Arnold",
    "stage": "Wald",
-   "start": 1785110400000,
-   "end": 1785117600000
-  },
-  {
-   "id": "lichtung-omashu",
-   "artist": "OMASHU",
-   "stage": "Lichtung",
-   "start": 1785110400000,
-   "end": 1785117600000,
-   "description": "Live set."
-  },
-  {
-   "id": "weinbar-inflamme",
-   "artist": "Inflamme",
-   "stage": "Weinbar",
-   "start": 1785110400000,
-   "end": 1785117600000
+   "start": 1785715200000,
+   "end": 1785722400000
   },
   {
    "id": "ambient-astral-plans",
    "artist": "Astral Plans",
    "stage": "Ambient",
-   "start": 1785110400000,
-   "end": 1785124800000
+   "start": 1785715200000,
+   "end": 1785729600000
   },
   {
-   "id": "see-o-y",
-   "artist": "O/Y",
-   "stage": "See",
-   "start": 1785114000000,
-   "end": 1785121200000,
-   "description": "Live set."
+   "id": "weinbar-inflamme",
+   "artist": "Inflamme",
+   "stage": "Weinbar",
+   "start": 1785715200000,
+   "end": 1785722400000
+  },
+  {
+   "id": "lichtung-teebar-omashu",
+   "artist": "OMASHU",
+   "stage": "Lichtung Teebar",
+   "start": 1785715200000,
+   "end": 1785722400000,
+   "description": "Live Act"
+  },
+  {
+   "id": "juicy-bar-kotoe",
+   "artist": "Kotoe",
+   "stage": "Juicy Bar",
+   "start": 1785717000000,
+   "end": 1785726000000
   },
   {
    "id": "buk-corner-josh-caff",
    "artist": "Josh Caffé",
    "stage": "Buk Corner",
-   "start": 1785114000000,
-   "end": 1785121200000
+   "start": 1785718800000,
+   "end": 1785726000000
   },
   {
-   "id": "lichtung-uli-viola",
-   "artist": "Uli Viola",
-   "stage": "Lichtung",
-   "start": 1785117600000,
-   "end": 1785124800000
-  },
-  {
-   "id": "see-playlove",
-   "artist": "Playlove",
+   "id": "see-o-y",
+   "artist": "O/Y",
    "stage": "See",
-   "start": 1785121200000,
-   "end": 1785132000000
+   "start": 1785718800000,
+   "end": 1785726000000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-teebar-piano-piano",
+   "artist": "Piano Piano",
+   "stage": "Lichtung Teebar",
+   "start": 1785722400000,
+   "end": 1785729600000
   },
   {
    "id": "buk-corner-cici",
    "artist": "Cici",
    "stage": "Buk Corner",
-   "start": 1785121200000,
-   "end": 1785128400000
+   "start": 1785726000000,
+   "end": 1785733200000
+  },
+  {
+   "id": "see-playlove",
+   "artist": "Playlove",
+   "stage": "See",
+   "start": 1785726000000,
+   "end": 1785736800000
+  },
+  {
+   "id": "juicy-bar-madmotormiquel-nacho-isa",
+   "artist": "Madmotormiquel & Nacho Isa",
+   "stage": "Juicy Bar",
+   "start": 1785726000000,
+   "end": 1785736800000
   },
   {
    "id": "ambient-dharma",
    "artist": "Dharma",
    "stage": "Ambient",
-   "start": 1785124800000,
-   "end": 1785132000000
+   "start": 1785729600000,
+   "end": 1785736800000
   },
   {
    "id": "see-mimizan",
    "artist": "Mimizan",
    "stage": "See",
-   "start": 1785132000000,
-   "end": 1785142800000
+   "start": 1785736800000,
+   "end": 1785747600000
   },
   {
-   "id": "ambient-ishu",
-   "artist": "ishu",
+   "id": "ambient-ishu-ft-philip-johann-thimm",
+   "artist": "ISHU ft. Philip Johann Thimm",
    "stage": "Ambient",
-   "start": 1785132000000,
-   "end": 1785142800000
-  },
-  {
-   "id": "see-kgln",
-   "artist": "KGLN",
-   "stage": "See",
-   "start": 1785142800000,
-   "end": 1785153600000
+   "start": 1785736800000,
+   "end": 1785747600000,
+   "description": "Live Act"
   },
   {
    "id": "buk-corner-konstantin",
    "artist": "Konstantin",
    "stage": "Buk Corner",
-   "start": 1785142800000,
-   "end": 1785153600000
+   "start": 1785747600000,
+   "end": 1785758400000
   },
   {
-   "id": "ambient-dj-ripple",
-   "artist": "Dj Ripple",
+   "id": "see-kgln",
+   "artist": "KGLN",
+   "stage": "See",
+   "start": 1785747600000,
+   "end": 1785758400000
+  },
+  {
+   "id": "ambient-rippel-without-feathers",
+   "artist": "Rippel Without Feathers",
    "stage": "Ambient",
-   "start": 1785142800000,
-   "end": 1785150000000
+   "start": 1785747600000,
+   "end": 1785754800000
   },
   {
-   "id": "lichtung-chele",
+   "id": "lichtung-teebar-chele",
    "artist": "Chele",
-   "stage": "Lichtung",
-   "start": 1785146400000,
-   "end": 1785153600000
+   "stage": "Lichtung Teebar",
+   "start": 1785751200000,
+   "end": 1785758400000
+  },
+  {
+   "id": "ambient-star-works",
+   "artist": "Star Works",
+   "stage": "Ambient",
+   "start": 1785754800000,
+   "end": 1785762000000
   },
   {
    "id": "weinbar-lucas-vazz",
    "artist": "Lucas Vazz",
    "stage": "Weinbar",
-   "start": 1785150000000,
-   "end": 1785157200000
+   "start": 1785754800000,
+   "end": 1785762000000
   },
   {
-   "id": "ambient-doron-eisenberg",
-   "artist": "Doron Eisenberg",
-   "stage": "Ambient",
-   "start": 1785150000000,
-   "end": 1785157200000
-  },
-  {
-   "id": "see-caleesi-kreis",
-   "artist": "Caleesi & Kreis",
-   "stage": "See",
-   "start": 1785153600000,
-   "end": 1785164400000
-  },
-  {
-   "id": "lichtung-isa-feat-billy-mendrix",
-   "artist": "Isa feat. Billy Mendrix",
-   "stage": "Lichtung",
-   "start": 1785153600000,
-   "end": 1785160800000,
-   "description": "Live set."
+   "id": "lichtung-moontent-hilo-sound-immersive-ambient-journey",
+   "artist": "Hilo Sound Immersive Ambient Journey",
+   "stage": "Lichtung Moontent",
+   "start": 1785754800000,
+   "end": 1785783600000,
+   "description": "Live Act"
   },
   {
    "id": "buk-corner-dj-so",
    "artist": "DJ SO",
    "stage": "Buk Corner",
-   "start": 1785153600000,
-   "end": 1785160800000
+   "start": 1785758400000,
+   "end": 1785765600000
   },
   {
-   "id": "weinbar-mona-pirzad",
-   "artist": "Mona Pirzad",
-   "stage": "Weinbar",
-   "start": 1785157200000,
-   "end": 1785164400000
+   "id": "see-caleesi-kreis",
+   "artist": "Caleesi & Kreis",
+   "stage": "See",
+   "start": 1785758400000,
+   "end": 1785769200000
+  },
+  {
+   "id": "lichtung-teebar-isa-feat-billy-mendrix",
+   "artist": "Isa feat. Billy Mendrix",
+   "stage": "Lichtung Teebar",
+   "start": 1785758400000,
+   "end": 1785765600000,
+   "description": "Live Act"
   },
   {
    "id": "ambient-baige-b2b-bad-tourist",
    "artist": "Baige b2b Bad Tourist",
    "stage": "Ambient",
-   "start": 1785157200000,
-   "end": 1785168000000
+   "start": 1785762000000,
+   "end": 1785772800000
   },
   {
-   "id": "lichtung-san-sander-feat-mina-farid-azouri",
-   "artist": "San Sander feat. Mina & Farid Azouri",
-   "stage": "Lichtung",
-   "start": 1785160800000,
-   "end": 1785168000000,
-   "description": "Live set."
+   "id": "weinbar-mona-pirzad",
+   "artist": "Mona Pirzad",
+   "stage": "Weinbar",
+   "start": 1785762000000,
+   "end": 1785769200000
   },
   {
    "id": "buk-corner-d-tiffany",
    "artist": "D.Tiffany",
    "stage": "Buk Corner",
-   "start": 1785160800000,
-   "end": 1785168000000
+   "start": 1785765600000,
+   "end": 1785772800000
+  },
+  {
+   "id": "lichtung-teebar-san-sander-feat-mina-farid-azouri",
+   "artist": "San Sander feat. Mina & Farid Azouri",
+   "stage": "Lichtung Teebar",
+   "start": 1785765600000,
+   "end": 1785772800000,
+   "description": "Live Act"
   },
   {
    "id": "see-rss-disco",
    "artist": "RSS Disco",
    "stage": "See",
-   "start": 1785164400000,
-   "end": 1785175200000
+   "start": 1785769200000,
+   "end": 1785780000000
   },
   {
    "id": "weinbar-stella-stellar",
    "artist": "Stella Stellar",
    "stage": "Weinbar",
-   "start": 1785164400000,
-   "end": 1785171600000
-  },
-  {
-   "id": "lichtung-andie-sounds",
-   "artist": "Andie Sounds",
-   "stage": "Lichtung",
-   "start": 1785168000000,
-   "end": 1785175200000
+   "start": 1785769200000,
+   "end": 1785776400000
   },
   {
    "id": "buk-corner-eli-verveine",
    "artist": "Eli Verveine",
    "stage": "Buk Corner",
-   "start": 1785168000000,
-   "end": 1785175200000
+   "start": 1785772800000,
+   "end": 1785780000000
   },
   {
    "id": "ambient-tobias-feltes-presents-echo",
    "artist": "Tobias Feltes presents Echo",
    "stage": "Ambient",
-   "start": 1785168000000,
-   "end": 1785175200000,
-   "description": "Live set."
+   "start": 1785772800000,
+   "end": 1785780000000,
+   "description": "Live Act"
+  },
+  {
+   "id": "lichtung-teebar-andie-sounds",
+   "artist": "Andie Sounds",
+   "stage": "Lichtung Teebar",
+   "start": 1785772800000,
+   "end": 1785780000000,
+   "description": "Live Act"
   },
   {
    "id": "weinbar-luca-garcia",
    "artist": "Luca Garcia",
    "stage": "Weinbar",
-   "start": 1785171600000,
-   "end": 1785178800000
+   "start": 1785776400000,
+   "end": 1785783600000
   },
   {
-   "id": "lichtung-justin-schaffner",
-   "artist": "Justin Schaffner",
-   "stage": "Lichtung",
-   "start": 1785175200000,
-   "end": 1785178800000
-  },
-  {
-   "id": "lichtung-the-love-bruise",
-   "artist": "The Love Bruise",
-   "stage": "Lichtung",
-   "start": 1785178800000,
-   "end": 1785180600000,
-   "description": "Live set."
+   "id": "lichtung-teebar-justin-shaffer",
+   "artist": "Justin Shaffer",
+   "stage": "Lichtung Teebar",
+   "start": 1785780000000,
+   "end": 1785783600000
   },
   {
    "id": "weinbar-marco-costanza",
    "artist": "Marco Costanza",
    "stage": "Weinbar",
-   "start": 1785178800000,
-   "end": 1785186000000
+   "start": 1785783600000,
+   "end": 1785790800000
   },
   {
-   "id": "lichtung-surprise",
-   "artist": "Surprise",
-   "stage": "Lichtung",
-   "start": 1785180600000,
-   "end": 1785184200000
+   "id": "lichtung-teebar-the-love-bruise",
+   "artist": "The Love Bruise",
+   "stage": "Lichtung Teebar",
+   "start": 1785783600000,
+   "end": 1785785400000,
+   "description": "Live Act"
   },
   {
-   "id": "lichtung-closing-gong-bath-bodies-of-resonance",
-   "artist": "Closing Gong Bath: Bodies of Resonance",
-   "stage": "Lichtung",
-   "start": 1785184200000,
-   "end": 1785189600000,
-   "description": "A Collective Ritual"
+   "id": "lichtung-teebar-huni-kuin-medicine",
+   "artist": "Huni Kuin Medicine",
+   "stage": "Lichtung Teebar",
+   "start": 1785785400000,
+   "end": 1785790800000
+  },
+  {
+   "id": "lichtung-teebar-closing-gong-bath-bodies-of-resonance-a-collective-ritual",
+   "artist": "Closing Gong Bath: Bodies of Resonance - A Collective Ritual",
+   "stage": "Lichtung Teebar",
+   "start": 1785790800000,
+   "end": 1785794400000
   }
  ]
 }
