@@ -1,6 +1,6 @@
 {
-  "version": 10,
-  "updatedAt": "2026-07-27T12:00:00Z",
+  "version": 11,
+  "updatedAt": "2026-07-27T13:00:00Z",
   "announcements": [
     {
       "id": "welcome-2026",
@@ -32,8 +32,8 @@
     }
   ],
   "community": {
-    "label": "Meet other festival-goers on WhatsApp.",
-    "linkText": "Join the group",
+    "label": "",
+    "linkText": "Join others on WhatsApp",
     "url": "https://chat.whatsapp.com/IqD6FTd5r5aFw9M5VtksFX?mode=gi_t"
   },
   "contact": {
