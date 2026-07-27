@@ -1,6 +1,6 @@
 {
- "version": 7,
- "updatedAt": "2026-07-27T13:14:34.700Z",
+ "version": 8,
+ "updatedAt": "2026-07-27T14:16:43.476Z",
  "stages": [
   {
    "name": "Wald",
@@ -93,7 +93,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785337200000,
    "end": 1785340800000,
-   "type": "W"
+   "type": "W",
+   "description": "Cacao Ceremony\n\nA warm cup, an open heart.\nIn this ceremony, we gather around traditional South American ceremonial cacao, shared as a gentle plant ally for connection and inner listening.\n\nGuided meditation, embodied movement, and live or curated music weave the space into a soft ritual of presence. You are invited to feel, to breathe, to move as you are — letting the cacao open subtle pathways of clarity, tenderness, and joy."
   },
   {
    "id": "lichtung-amphitheater-ashtanga-yoga",
@@ -162,7 +163,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785402000000,
    "end": 1785409200000,
-   "type": "W"
+   "type": "W",
+   "description": "TwerkFlow is a somatic embodiment movement ritual blending intuitive dance, hip-focused mobility, and emotional release, guided by Brazilian & Latino rhythms. Expect grounding practices, playful sensual expression, and deep embodiment—no dance experience needed, just come as you are and let the music move your hips."
   },
   {
    "id": "lichtung-dome-einfach-talky",
@@ -170,7 +172,8 @@
    "stage": "Lichtung Dome",
    "start": 1785402000000,
    "end": 1785405600000,
-   "type": "W"
+   "type": "W",
+   "description": "Whether you’re looking for a festival buddy, friends for life, or something romantic—we invite you to get to know each other through honest, surprising conversations, supported by our question game “Talky, Talky” and the principles of “Einfach Knutschen e.V.” In our open meeting space, we’ll guide the conversation with questions that go deeper than “Where are you from?” and talk about listening, connection, and consensus. Everything is optional—nothing is required."
   },
   {
    "id": "lichtung-amphitheater-yivamukti-flow",
@@ -178,7 +181,8 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785405600000,
    "end": 1785412800000,
-   "type": "W"
+   "type": "W",
+   "description": "A well rounded  yoga classto arrive and settle into ease & the magic of Garbicz. With Dana Sertel."
   },
   {
    "id": "lichtung-the-sober-space-totem-co-creation-by-olga-viktoriya",
@@ -186,7 +190,8 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785405600000,
    "end": 1785416400000,
-   "type": "W"
+   "type": "W",
+   "description": "TOTEM is a collective ritual-land-art experience where we co-create a living festival totem — a symbol of respect, power and belonging. Guided through a nature-based expressive arts process, you connect with your inner force and shape it into a collective sculpture built by many hands. Come to connect with the land, with your creative force and the power of community, and build the totem of Lichtung."
   },
   {
    "id": "weinbar-thorleif",
@@ -209,7 +214,8 @@
    "stage": "Lichtung Dome",
    "start": 1785409200000,
    "end": 1785416400000,
-   "type": "W"
+   "type": "W",
+   "description": "This workshop is a grounding and connection ritual where we soften FOMO and remember that support is where you call it. Through heart meditation, playful connection exercises, and a constellation-inspired group ritual, we experience what it means to feel resourced, seen, and exactly where we need to be."
   },
   {
    "id": "loco-paraiso-opening-ceremony",
@@ -217,7 +223,8 @@
    "stage": "Loco Paraiso",
    "start": 1785412800000,
    "end": 1785420000000,
-   "type": "P"
+   "type": "P",
+   "description": "Xōchiquetzal, the Mexican goddess of beauty, pleasure and joy, forces her way into Garbicz with her colourful cumbia parade to marry her beloved Baba Yaga. But first, she must win the approval of Baldur, the Germanic god of Light and Ordnung, who sets off in pursuit with his own musical platform. Their playful chase leads to the Loco Paraiso Stage, where more than 20 artists weave together Aztec, Slavic and Germanic traditions in a joyful wedding ritual, opening a weekend of reconnection through nature, music, and many wonders."
   },
   {
    "id": "juicy-bar-sander-markey",
@@ -232,14 +239,16 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785412800000,
    "end": 1785420000000,
-   "type": "W"
+   "type": "W",
+   "description": "A high-energy, feel-good movement session that channels retro fitness vibes, driving house music, and the power of positive intention. Step into a playful workout space where movement becomes celebration — uplifting the body, clearing the mind, and setting energy in motion.\n\nWith bold rhythm, collective momentum, and a touch of nostalgic glamour, this workshop invites you to sweat, smile, and manifest from a place of embodied joy. No perfection needed — just your body, your breath, and the willingness to move."
   },
   {
    "id": "buk-corner-immy-b2b-triqi",
    "artist": "Immy b2b Triqi",
    "stage": "Buk Corner",
    "start": 1785416400000,
-   "end": 1785427200000
+   "end": 1785427200000,
+   "showcase": "Garage Girls Showcase"
   },
   {
    "id": "see-cassette-heads-takeover",
@@ -255,7 +264,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785416400000,
    "end": 1785423600000,
-   "type": "W"
+   "type": "W",
+   "description": "Inside you lives a council of four: King/Queen, Warrior, Magician, Lover — mature inner resources that support clarity, truth, and presence.\n\nWe enter through Conscious Connected Breathwork, a circular breathing practice that opens access to expanded awareness and the body. Each archetype is anchored in your own way through sound, touch, and breath, while you remain in full control of your process.\n\nThe journey closes with a Rapé ceremony in a sharing circle. Rapé is a sacred tobacco-based medicine used for grounding and integration after the breathwork.\n\nThis session is trauma-sensitive. If unsure, please consult a medical professional beforehand.\n\n**Please do not participate if you have:**\n- Heart or cardiovascular conditions, high blood pressure\n- Epilepsy or recent seizures\n- Pregnancy\n- Recent surgery or serious injury\n- Severe asthma or respiratory infection\n- Glaucoma or recent eye surgery\n- Active suicidal ideation or recent psychosis\n- Manic episodes (bipolar disorder)\n- Acute PTSD crisis or uncontrolled panic\n- Current substance intoxication or withdrawal"
   },
   {
    "id": "lichtung-dome-release-realign-receive-by-julia-labonte-stoy",
@@ -263,7 +273,8 @@
    "stage": "Lichtung Dome",
    "start": 1785416400000,
    "end": 1785423600000,
-   "type": "W"
+   "type": "W",
+   "description": "Release, Realign, Receive\n\nLeave your heavy baggage behind and awaken your body's wisdom through shaking, conscious movement, and soulful coaching elements.\n\nTogether, we will explore the art of letting go what holds you back, embrace the unknown and celebrate the space we create for fresh energy.\n\nCome exactly as you are and leave lighter, freer, and inspired."
   },
   {
    "id": "loco-paraiso-ab-di",
@@ -285,7 +296,8 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785420000000,
    "end": 1785427200000,
-   "type": "W"
+   "type": "W",
+   "description": "RECODE Workout is a breath-led movement class designed to reveal how you respond under pressure. Through movement, controlled breathing and guided attention, you train the ability to remain calm, conscious and yourself when challenge arises."
   },
   {
    "id": "junkyard-kneipe-radio-schrott",
@@ -322,7 +334,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785423600000,
    "end": 1785430800000,
-   "type": "W"
+   "type": "W",
+   "description": "A grounded, practical session on how to support vitality, resilience, and long-term well-being through small everyday choices. Drawing on breath, movement, recovery, and simple lifestyle shifts, this workshop invites you to reconnect with your body’s intelligence and explore what truly helps you feel strong, clear, and energized over time.\n\nLess hustle, more alignment. Less optimization, more embodied sustainability. A space to gather tools for healthy longevity in a way that feels realistic, human, and good to live with."
   },
   {
    "id": "wiese-soukie-windish",
@@ -336,7 +349,8 @@
    "artist": "Jana Falcon",
    "stage": "Buk Corner",
    "start": 1785427200000,
-   "end": 1785434400000
+   "end": 1785434400000,
+   "showcase": "Garage Girls Showcase"
   },
   {
    "id": "loco-paraiso-okraa",
@@ -389,7 +403,8 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785430800000,
    "end": 1785434400000,
-   "type": "P"
+   "type": "P",
+   "description": "KABARET LILIUM is an immersive Berlin-based event series curated by artist Lilly Mortis. Inspired by the glamour of the 1920s, it blends burlesque, boylesque, live music, and eccentric performances within an intimate, accessible lounge setting.\n\nWithout a traditional stage, the space becomes a sensual oasis where audience and performers meet on eye level. International acts, interactive moments, playful encounters, and a shared dance floor merge into an experience of glamour, freedom, and radical joy."
   },
   {
    "id": "wald-mathew-jonson-vril",
@@ -426,7 +441,8 @@
    "artist": "KENZA / DJ NORTHERN",
    "stage": "Buk Corner",
    "start": 1785434400000,
-   "end": 1785441600000
+   "end": 1785441600000,
+   "showcase": "Garage Girls Showcase"
   },
   {
    "id": "pleasure-island-bipolar-soundsystem",
@@ -479,7 +495,9 @@
    "stage": "Performances",
    "start": 1785435300000,
    "end": 1785444300000,
-   "type": "P"
+   "type": "P",
+   "description": "At twilight, a ship glides across the lake.\nDreamWeavers arrive from beyond time, drifting between worlds.\nLight dances with shadow as the unseen becomes visible.\nA new gateway opens.",
+   "location": "PIER"
   },
   {
    "id": "loco-paraiso-kapten",
@@ -528,7 +546,8 @@
    "artist": "Garage Girls",
    "stage": "Buk Corner",
    "start": 1785441600000,
-   "end": 1785448800000
+   "end": 1785448800000,
+   "showcase": "Garage Girls Showcase"
   },
   {
    "id": "weinbar-qualia-trax",
@@ -788,7 +807,8 @@
    "artist": "Rasmus Bell",
    "stage": "Buk Corner",
    "start": 1785466800000,
-   "end": 1785477600000
+   "end": 1785477600000,
+   "type": "CB"
   },
   {
    "id": "juicy-bar-rasmus-lutzen",
@@ -802,7 +822,8 @@
    "artist": "Jeanette Trésbien",
    "stage": "Buk Corner",
    "start": 1785477600000,
-   "end": 1785488400000
+   "end": 1785488400000,
+   "type": "CB"
   },
   {
    "id": "performances-dawn-s-nymphs",
@@ -810,7 +831,9 @@
    "stage": "Performances",
    "start": 1785477600000,
    "end": 1785480000000,
-   "type": "P"
+   "type": "P",
+   "description": "*At dawn, the reeds glitch open. Antennas tune the lake, sunlight liquefies, and shimmering bodies draw the curious beyond the threshold. Untouchable. Irresistible. Between myth and reality, every refuge is the beginning of another metamorphosis.*\n\n@nagigianninnaigigan",
+   "location": "PIER"
   },
   {
    "id": "juicy-bar-shot-by-stanley",
@@ -825,7 +848,8 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785484800000,
    "end": 1785492000000,
-   "type": "W"
+   "type": "W",
+   "description": "Energizing and playful yoga practice to recalibrate the mind-body.\nOpen to all levels of experience. A well rounded  yoga class that brings you back into ease and ready to tune into the magic of Garbicz. With Dana Sertel."
   },
   {
    "id": "lichtung-dome-meditation",
@@ -841,14 +865,16 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785484800000,
    "end": 1785488400000,
-   "type": "W"
+   "type": "W",
+   "description": "Our slow and sober mornings begin with acknowledging the mind-body connection and\nelevating this visceral journey through the expansion of breath, movement, and auditory\nexploration. This workshop blends elements of meditation, yoga, and dance, for a fusion that\ncultivates liberation, confrontation, expression, and fun."
   },
   {
    "id": "buk-corner-victoria-s-sequence",
    "artist": "Victoria's Sequence",
    "stage": "Buk Corner",
    "start": 1785488400000,
-   "end": 1785499200000
+   "end": 1785499200000,
+   "type": "CB"
   },
   {
    "id": "loco-paraiso-lulu-malina",
@@ -871,7 +897,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785488400000,
    "end": 1785495600000,
-   "type": "T"
+   "type": "T",
+   "description": "Communication under pressure\nWhy do we keep misunderstanding each other, even with the best intentions?\nA practical workshop about how different people communicate, process information and respond to stress.\nLess friction, more understanding, better teamwork."
   },
   {
    "id": "lichtung-dome-zen-thai-shiatsu-by-lauren-cuthberth",
@@ -879,7 +906,8 @@
    "stage": "Lichtung Dome",
    "start": 1785488400000,
    "end": 1785495600000,
-   "type": "W"
+   "type": "W",
+   "description": "Feel rhythm move through you.\nLearn about, experience & give this beautiful movement based therapeutic bodywork modality that merges Thai massage, zen shiatsu and osteopathic techniques under the guidance of Lauren Elizabeth."
   },
   {
    "id": "lichtung-the-sober-space-self-regulation-station-chill-out-zone",
@@ -887,7 +915,8 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785488400000,
    "end": 1785495600000,
-   "type": "W"
+   "type": "W",
+   "description": "No facilitation, just an invitation to unwind, ground, and relax in this calming and chill space.\nWhether self-regulating or co-regulating with fellow sober-folks, take all the time you need to\nrest, journal, breathe, drink tea, listen to ambient sounds, and simply be."
   },
   {
    "id": "lichtung-playground-a-journey-through-breath-sound-by-spirit-of-breath",
@@ -895,7 +924,8 @@
    "stage": "Lichtung Playground",
    "start": 1785488400000,
    "end": 1785495600000,
-   "type": "W"
+   "type": "W",
+   "description": "A Breath & Sound Journey\n\nAn immersive journey where breath and sound become one. Presented by Spirit of Breath and friends, this experience weaves gentle movement, conscious breathing, and resonant sound to help you soften, release, awaken presence, and reconnect with your inner rhythm."
   },
   {
    "id": "pleasure-island-prano",
@@ -917,7 +947,8 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785492000000,
    "end": 1785499200000,
-   "type": "T"
+   "type": "T",
+   "description": "Finally, a therapist who gets why Raving heals. Madison Liddle encourages patients to rave  as a way to heal trauma and connect with the rythm, in community. The dancefloor is one of the most powerful places to remember who we are."
   },
   {
    "id": "loco-paraiso-kozlow",
@@ -939,7 +970,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785495600000,
    "end": 1785502800000,
-   "type": "T"
+   "type": "T",
+   "description": "Science & spirit of FASTING\n– Biohacking the Body ~ Expanding awareness\nWe'll explore how fasting is psychoactive,  triggers cellular renewal, sharpen the mind, elevate awareness, and reconnect you with yourself. An ancient spiritual practice meets cutting-edge longevity research in a journey that is as much about consciousness as it is about biology.\nDiscover why fasting deserves a place in your life—especially if you're a raver!\n25 years of fasting and raving in one fun and interactive talk. With Q&A"
   },
   {
    "id": "lichtung-dome-zen-tea-ceremony",
@@ -947,7 +979,8 @@
    "stage": "Lichtung Dome",
    "start": 1785495600000,
    "end": 1785502800000,
-   "type": "W"
+   "type": "W",
+   "description": "Tea Ceremony\n\nSit down. Slow down. Breathe in.\nFor one hour, we gather around hot water and leaves — sharing a quiet ritual of presence.\n\nIn a Chinese-inspired tea ceremony, high quality tea becomes our guide: rich taste, rising steam, the simple beauty of pouring and receiving. We drink in silence or soft whispers, letting attention settle into the now, one cup at a time.\n\nNothing to do, nowhere to get to. Just you, the moment, and the medicine of mindful drinking."
   },
   {
    "id": "lichtung-the-sober-space-navigating-festivals-sober-and-finding-your-crew",
@@ -955,7 +988,8 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785495600000,
    "end": 1785502800000,
-   "type": "T"
+   "type": "T",
+   "description": "In this collaborative and interactive workshop we explore what it means to navigate festivals and\nparty spaces sober – creating meaningful connections and cultivating a festival experience that\nfeels authentic, empowering, and fun, without relying on substances.\nThrough open discussion, personal stories, connection games, and practical tools, we’ll share\ninsights on managing triggers, handling social pressure, embracing the power of saying “no,”\nfinding your people, and discovering natural highs that support well-being."
   },
   {
    "id": "lichtung-playground-cold-exposure-by-andi-sascha-meetingpoint-sauna",
@@ -963,7 +997,8 @@
    "stage": "Lichtung Playground",
    "start": 1785495600000,
    "end": 1785499200000,
-   "type": "W"
+   "type": "W",
+   "description": "Cold immersion & pranayama experience: Cold and breath are the simplest tools to show the body it can adapt. That adaptability is the core of longevity – more vital, healthy years, not just more years."
   },
   {
    "id": "buk-corner-lemonella",
@@ -1000,7 +1035,8 @@
    "stage": "Ambient",
    "start": 1785499200000,
    "end": 1785502800000,
-   "type": "P"
+   "type": "P",
+   "description": "The Offering — *An immersive ceremony.\nA body becomes an altar.\nAn elemental metamorphosis.*\nLayer by layer, the human form dissolves.\nSomething ancient emerges.\n\n\nThroughout the event, @myrgon_ offers his body and spirit to the collective rite.\nBring an offering.\nBecome the ritual."
   },
   {
    "id": "lichtung-amphitheater-neuroflexibility-poliphasic-co2-training-by-rodho-dr-xico",
@@ -1008,7 +1044,8 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785499200000,
    "end": 1785506400000,
-   "type": "T"
+   "type": "T",
+   "description": "Under-pressure breathing and CO₂ self-regulation help us understand why psychedelic states can feel so profound and how to regulate ourselves in a festival environment—allowing us to have the best experience with zero emotional or neurological crashes afterward."
   },
   {
    "id": "junkyard-amphitheater-fr-ht-cks-tv",
@@ -1039,7 +1076,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785502800000,
    "end": 1785510000000,
-   "type": "W"
+   "type": "W",
+   "description": "Recalibrate and balance body, mind, spirit, and the energetic system. Drawing from over 30 years of experience in organic music creation, Intiche integrates meditation, breathwork, movement, chanting, and flow practices to open creative channels and intuitive awareness.\nAn immersive journey into creative flow, presence, and inspired expression—beyond logic and mental control."
   },
   {
    "id": "lichtung-dome-sacred-business-by-nikki-trott",
@@ -1047,7 +1085,8 @@
    "stage": "Lichtung Dome",
    "start": 1785502800000,
    "end": 1785510000000,
-   "type": "T"
+   "type": "T",
+   "description": "Join Nikki Trott - renowned author, international speaker, entrepreneur and strategist at the intersection of consciousness, regeneration and business. Her Business Book Awards Finalist book, Sacred Business (Bloomsbury), is a manifesto for the transformation of ourselves to create businesses that thrive in harmony with life. Together we will explore key principles of Sacred Business, how we can reconnect business with the Earth, our hearts and our greater missions - for the good of all.\nConnect with Nikki on IG and LinkedIn @nikkitrott and find out more at nikkitrott.com."
   },
   {
    "id": "lichtung-the-sober-space-sober-speed-dating",
@@ -1055,7 +1094,8 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785502800000,
    "end": 1785510000000,
-   "type": "W"
+   "type": "W",
+   "description": "Join us for some juicy, flirty dating fun, inviting chemistry to spark with fascinating fellow sober\n(+curious) individuals! Guided through a series of conversational prompts and connection\ngames, who knows what heart-fluttering, playful, authentic, and meaningful connections and\npotential romances may unfold? We'll also have an optional glam station where you can\ndecorate one another with glitter, gems, and festival sparkle, to get dressed up and ready for the\nnight ahead."
   },
   {
    "id": "buk-corner-ilja-franz-b2b-aii-ps",
@@ -1092,7 +1132,8 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785506400000,
    "end": 1785513600000,
-   "type": "W"
+   "type": "W",
+   "description": "An immersive talk exploring the workings of the mind. Practical tools for self-hypnosis, mental imagery, and self-regulation to support personal transformation."
   },
   {
    "id": "junkyard-amphitheater-strip-it-right-how-do-led-strips-work",
@@ -1122,7 +1163,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785510000000,
    "end": 1785517200000,
-   "type": "L"
+   "type": "L",
+   "description": "Enter a space where sound is no longer only heard, but felt. Through Hilo’s vibroacoustic sound system, deep frequencies ripple through the body, inviting stillness, curiosity, and a different way of listening. Lie down, close your eyes, and surrender to an intimate journey where music dissolves the boundary between hearing and feeling."
   },
   {
    "id": "lichtung-dome-initiated-to-indigenous-lineages-by-rani-messias",
@@ -1130,7 +1172,8 @@
    "stage": "Lichtung Dome",
    "start": 1785510000000,
    "end": 1785517200000,
-   "type": "W"
+   "type": "W",
+   "description": "Explore the core teachings from indigenous lineages around the world, and insights on how to be a good ally for those guarding sacred territories worldwide. Whether you have been initiated, studied or worked with indigenous peoples, this session will shed light on Appreciation vs Appropriation, and on the universal thread that connects us all."
   },
   {
    "id": "wald-spectribe",
@@ -1166,7 +1209,9 @@
    "stage": "Performances",
    "start": 1785513600000,
    "end": 1785520800000,
-   "type": "P"
+   "type": "P",
+   "description": "It is a petite luxury spa experience focused on The Nose. \nWe help promote nasal wellness and offer relief from common annoyances such as sinus congestion and nose bleeds by offering a variety of holistic treatments and nasal conditioning. Please note this is a substance free experience. The nose knows.",
+   "location": "SEE"
   },
   {
    "id": "lichtung-teebar-lia-ensemble",
@@ -1182,7 +1227,8 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785513600000,
    "end": 1785520800000,
-   "type": "L"
+   "type": "L",
+   "description": "The Genius Is You!\n\nIn the heart of Garbicz Festival, on the clearing of the amphitheatre – the place where the Theatre of Co-Creation was born – we open a space where music is not only created, but discovered.\n\nWith voice, rhythm, silence, and spontaneous improvisation, we weave our impulses into a living field of sound. From many individuals, an organism emerges. Listening becomes resonance. Resonance becomes music.\n\nThere is nothing to be able to do and nothing to achieve. Only the courage to trust your first impulse. Because genius is not something you own. It appears in the very moment we connect.\n\nCome as you are. Leave as more of yourself."
   },
   {
    "id": "junkyard-kneipe-lars-vegas",
@@ -1219,7 +1265,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785517200000,
    "end": 1785524400000,
-   "type": "W"
+   "type": "W",
+   "description": "A sensual dialogue of skin, movement, and surrender. An invitation to explore touch as a living conversation. Through guided play and warm oil, contact becomes fluid, continuous, and curious, transforming massage into a shared blindfolded dance. Personal identities melt, Bodies meet, slide, lean, and move, discovering new pathways of sensation and support. We explore how the whole body can give and receive through the skin — beyond the hands. It’s a fully body-positive space,  Best experienced with underwear or with no layers, allowing the skin to fully participate."
   },
   {
    "id": "wiese-katia-curie",
@@ -1279,7 +1326,9 @@
    "stage": "Performances",
    "start": 1785521700000,
    "end": 1785530700000,
-   "type": "P"
+   "type": "P",
+   "description": "At twilight, a ship glides across the lake.\nDreamWeavers arrive from beyond time, drifting between worlds.\nLight dances with shadow as the unseen becomes visible.\nA new gateway opens.",
+   "location": "PIER"
   },
   {
    "id": "wald-sandrien",
@@ -1294,7 +1343,8 @@
    "stage": "See",
    "start": 1785524400000,
    "end": 1785528000000,
-   "type": "P"
+   "type": "P",
+   "description": "We're in full bloom, our sweet nectars are flowing and we need *you* to make love, not war! This drag cabaret is as wild as the summer of 69, and as groovy as a field of sunflowers. Whether you’re a demure daisy or a bold petal, let the flower powder sprinkle you with peace and love, delusion and delirium!\n\n@thelawunda @carroshark @sophie_brain_ @coco_klein @ivankatrampoline @max.for.masc"
   },
   {
    "id": "loco-paraiso-mandrake",
@@ -1405,7 +1455,9 @@
    "stage": "Performances",
    "start": 1785533400000,
    "end": 1785537000000,
-   "type": "P"
+   "type": "P",
+   "description": "\"Corps et à cris” is a performance by Ylva Falk together with the Berlin-based textile artist Diane Esnault. They are creating an immersive performance where movement, textile and the forests of Garbicz merge into a natural rebellion. Flag dance that unfold the urgency to reclaim the raw power of human and nature.",
+   "location": "NERDWALD"
   },
   {
    "id": "wald-r-dh-d",
@@ -1479,7 +1531,9 @@
    "stage": "Performances",
    "start": 1785537000000,
    "end": 1785538800000,
-   "type": "P"
+   "type": "P",
+   "description": "This 30 minute performance is pure visual magic: A poetic, surreal symphony to the childlike wonder living within us. A living dreamscape woven from light, movement, and sound. A \"what the fuck did I just see\" in the best way possible.",
+   "location": "NERDWALD"
   },
   {
    "id": "buk-corner-bruno-schmidt",
@@ -1537,7 +1591,9 @@
    "stage": "Performances",
    "start": 1785540600000,
    "end": 1785542400000,
-   "type": "P"
+   "type": "P",
+   "description": "The mushrooms have been listening to humans for a long time, and they've reached some conclusions. Come hum a creature awake, shake one finished thought loose into the soil, hold a stranger's hand, get gently flirted with by a fungus. Leave quieter than you came, wool in your pocket, soil on your knees.\n\n@uschijagger\n@stefiliciouslux",
+   "location": "NERDWALD"
   },
   {
    "id": "wiese-leon-vynehall",
@@ -1674,7 +1730,8 @@
    "artist": "Werkstatt 257",
    "stage": "Buk Corner",
    "start": 1785556800000,
-   "end": 1785589200000
+   "end": 1785589200000,
+   "type": "CB"
   },
   {
    "id": "juicy-bar-zebra-centauri",
@@ -1704,7 +1761,9 @@
    "stage": "Performances",
    "start": 1785564000000,
    "end": 1785567600000,
-   "type": "P"
+   "type": "P",
+   "description": "*At dawn, the reeds glitch open. Antennas tune the lake, sunlight liquefies, and shimmering bodies draw the curious beyond the threshold. Untouchable. Irresistible. Between myth and reality, every refuge is the beginning of another metamorphosis.*\n\n@nagigianninnaigigan",
+   "location": "PIER"
   },
   {
    "id": "ambient-lemonella",
@@ -1727,7 +1786,8 @@
    "stage": "Lichtung Dome",
    "start": 1785571200000,
    "end": 1785574800000,
-   "type": "W"
+   "type": "W",
+   "description": "Facing our limits.\nWe all want to give our children the best. So what gets in the way? A body-oriented exploration into family patterns, emotional honesty, and how we can change the stories we pass on."
   },
   {
    "id": "lichtung-the-sober-space-slow-soulful-sober-mornings",
@@ -1735,7 +1795,8 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785571200000,
    "end": 1785574800000,
-   "type": "W"
+   "type": "W",
+   "description": "This gentle and nourishing practice invites you to start the day with self-care and intention,\nthrough grounding yoga and movement, calming breathwork, and mindful meditation. Together,\nwe'll come back to our ‘why’ and lean into the clarity that sobriety brings. Soothing our spirit, and\nstrengthening our resolve, so we may be more present and connect more deeply with\nourselves, others and this transformative festival experience."
   },
   {
    "id": "lichtung-amphitheater-psychedelic-breath-purpose-by-eva-kaczor",
@@ -1743,7 +1804,8 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785574800000,
    "end": 1785582000000,
-   "type": "W"
+   "type": "W",
+   "description": "PSYCHEDELIC BREATH® - Who are we becoming?\n\nEva Kaczor, the founder of PSYCHEDELIC BREATH®, guides you in an altered state that enables a higher perspective on your future.\nWith neuroscience, state-altering breathwork, electronic music and inspirational guidance you explore who you are becoming - and what you are here to contribute for the next generation to come."
   },
   {
    "id": "lichtung-moontent-dmt-decompression-in-the-water-free-diving-static-training",
@@ -1751,7 +1813,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785574800000,
    "end": 1785578400000,
-   "type": "W"
+   "type": "W",
+   "description": "Free‑diving inspired static breath training in the water with former deep diver Rodhø will teach us how to relax underwater to helps us decompress, release and calibrate for a new day at Garbicz.\n\nIn this session, the water becomes your teacher. Through free‑diving–inspired static breath practices, Rodho guides you into deep states of calm where your nervous system can soften, reset, and rewire. Held gently by the element of water, you explore longer exhales, breath holds, and conscious relaxation, inviting the body to unlock its own inner pharmacy of DMT-like states of clarity and spaciousness."
   },
   {
    "id": "lichtung-dome-laughter-yoga-by-brahmarella",
@@ -1759,7 +1822,8 @@
    "stage": "Lichtung Dome",
    "start": 1785574800000,
    "end": 1785578400000,
-   "type": "W"
+   "type": "W",
+   "description": "Enjoy a high energy workshop imbued with mindfulness, deep connection with our selves and others, and a whole lotta laughs! Not sure? Fake it till you make it! Your body can't tell the difference ;-) Come as you are - no mat, special clothes or experience needed. Bring water!"
   },
   {
    "id": "lichtung-the-sober-space-self-regulation-station-chill-out-zone-x2",
@@ -1767,7 +1831,8 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785574800000,
    "end": 1785578400000,
-   "type": "W"
+   "type": "W",
+   "description": "No facilitation, just an invitation to unwind, ground, and relax in this calming and chill space.\nWhether self-regulating or co-regulating with fellow sober-folks, take all the time you need to\nrest, journal, breathe, drink tea, listen to ambient sounds, and simply be."
   },
   {
    "id": "lichtung-playground-brunch",
@@ -1803,7 +1868,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785578400000,
    "end": 1785585600000,
-   "type": "W"
+   "type": "W",
+   "description": "This world doesn’t always offer the most supportive environment for building a deep, healthy\nconnection with our genitals. From limited sexual education and societal shame to unrealistic\nrepresentations of bodies, many of us feel disconnected from, or critical of, a part of ourselves\nthat deserves so much more love, care, and acceptance.\nIn this clothed workshop, through reflection, creativity, and shared experience, we journey\ntogether into the depth of the magnitudes of carrying our deepest gifts behind our legs. Because\nthis is the foundation of experiencing the most profound pleasures of life, by truly accepting\nourselves, and discovering a genuine, substance-free sense of confidence and self-love."
   },
   {
    "id": "lichtung-dome-high-on-story-by-vishal-jodhani",
@@ -1811,7 +1877,8 @@
    "stage": "Lichtung Dome",
    "start": 1785578400000,
    "end": 1785585600000,
-   "type": "W"
+   "type": "W",
+   "description": "Dive into a playful circle where we celebrate festival moments and share the stories that shape us. Together, we’ll explore our inner narratives and dig for the “gold” in our festival experiences—rewriting tales that hold us back and discovering new ways to connect, laugh, and shine. Leave feeling lighter, brighter, and woven into the magic of Garbicz. Come as you are; leave as your own hero, ready to dance a new story!"
   },
   {
    "id": "lichtung-the-sober-space-temazcal-ceremony-guided-by-zohar-meeting-point-sauna",
@@ -1819,7 +1886,8 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785578400000,
    "end": 1785585600000,
-   "type": "W"
+   "type": "W",
+   "description": "Zohar trained with Oaxacan Curanderas and has been facilitating Temazcal (Mexican Sweat Lodge Ceremonies) For 7 years.\n\nFor the Lichtung Sauna she would be honored to offer a 30 -40 minute experience which is a contemporary version of the Mexican Tradition where she will give a cleanse (limpia) and then people will dive into a meditative state reflecting on states an processes of life. The experience symbolizes a rebirth and participants will receive different essences and the sound of her native american flute while they sweat and contemplate."
   },
   {
    "id": "see-brava",
@@ -1871,7 +1939,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785585600000,
    "end": 1785589200000,
-   "type": "W"
+   "type": "W",
+   "description": "This is a guided workshop (for female bodies only!!) to slow down, reconnect to your body through the senses, and open to deeper receiving. Through breathwork, embodiment practices, conscious touch, sensory awareness, and voice activation, you’ll learn to soften out of performance and into presence, pleasure, and self trust"
   },
   {
    "id": "lichtung-dome-longevity-tradition-modernity-or-capitalism-by-dainius-guzauskas",
@@ -1879,7 +1948,8 @@
    "stage": "Lichtung Dome",
    "start": 1785585600000,
    "end": 1785592800000,
-   "type": "W"
+   "type": "W",
+   "description": "A wholesome workshop comprising of industry knowledge, alternative views and somatic (vagal) exercises for longevity in respect to body, mind and the spirit."
   },
   {
    "id": "junkyard-kneipe-brunchtime",
@@ -1931,7 +2001,8 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785589200000,
    "end": 1785596400000,
-   "type": "T"
+   "type": "T",
+   "description": "Psychedelics and the Hidden Cost of Performance\n\nSome people never reach their life goals. Others do but arrive at a question none of their usual tools can answer. For more than a decade, Florian Lanzer has worked with founders, executives and creatives facing exactly this moment. In this talk, he shows why the path towards a good life isn't in adding more, and what's at stake if the psychedelic field gets the next few years wrong."
   },
   {
    "id": "juicy-bar-princess-room-live",
@@ -1954,7 +2025,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785592800000,
    "end": 1785600000000,
-   "type": "W"
+   "type": "W",
+   "description": "Through movement, sensory awareness, and clear communication, participants develop a deeper connection to their own bodies and to others—while safely exploring intimacy, boundaries, and pleasure."
   },
   {
    "id": "lichtung-dome-viazalka-ritual-of-connection",
@@ -1962,7 +2034,8 @@
    "stage": "Lichtung Dome",
    "start": 1785592800000,
    "end": 1785600000000,
-   "type": "T"
+   "type": "T",
+   "description": "Through the simple act of binding rescued textiles, participants transform discarded materials into unique talismans while creating unexpected connections with one another. Each knot becomes a gesture of gratitude, presence, and renewal. The process invites us to slow down, trust intuition, and experience how creativity can weave strangers into a temporary community."
   },
   {
    "id": "see-nixe",
@@ -2005,7 +2078,8 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785596400000,
    "end": 1785600000000,
-   "type": "W"
+   "type": "W",
+   "description": "A slow, attentive journey into the body — where movement becomes listening. Inspired by elements of Eastern practices and grounded in the principles of Pilates, this session weaves breath, flow, and subtle strength into a quiet, continuous sequence.\n\nWe move with awareness rather than intensity, exploring balance, alignment, and inner support. Small gestures unfold into deep presence, inviting the nervous system to soften and recalibrate.\n\nOpen to all levels. Come as you are — and leave a little more connected."
   },
   {
    "id": "junkyard-kneipe-iiifuh-koliii",
@@ -2049,7 +2123,9 @@
    "stage": "Performances",
    "start": 1785600000000,
    "end": 1785603600000,
-   "type": "P"
+   "type": "P",
+   "description": "\"Corps et à cris” is a performance by Ylva Falk together with the Berlin-based textile artist Diane Esnault. They are creating an immersive performance where movement, textile and the forests of Garbicz merge into a natural rebellion. Flag dance that unfold the urgency to reclaim the raw power of human and nature.",
+   "location": "NERDWALD"
   },
   {
    "id": "lichtung-teebar-alma-linda-b2b-earthtones",
@@ -2064,7 +2140,8 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785600000000,
    "end": 1785610800000,
-   "type": "W"
+   "type": "W",
+   "description": "Berlin-based artist Herr Calligrafinger is renowned for his signature live-painted calligraffiti mandalas - blending Arabic calligraphy, graffiti, and sacred geometry."
   },
   {
    "id": "see-sutsche",
@@ -2146,7 +2223,9 @@
    "stage": "Performances",
    "start": 1785608100000,
    "end": 1785614400000,
-   "type": "P"
+   "type": "P",
+   "description": "At twilight, a ship glides across the lake.\nDreamWeavers arrive from beyond time, drifting between worlds.\nLight dances with shadow as the unseen becomes visible.\nA new gateway opens.",
+   "location": "PIER"
   },
   {
    "id": "wald-peryl",
@@ -2198,7 +2277,8 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785610800000,
    "end": 1785618000000,
-   "type": "L"
+   "type": "L",
+   "description": "An Act of Creative Becoming...\nFLUX Circles are transcendental and transformational co-created experiences. They are a celebration of our shared aspirations through the magical rapture of spontaneous, self-generating, fluid creativity; poetry, performance, ritual, prayer, story, song and dance...\n\n⦿ In circle we conjure \"communitas\" - an exceptional state of togetherness, through which we experience profound unity, belonging and collective possibility.\n\n⦿ In circle we create an artistic sanctuary - a safe and compassionate space for individual and collective healing, therapeutic dialogue and psychomagical creative expression.\n\n⦿ In circle we cultivate \"humanitas\" - the skills, knowledge and sensitivity that allow us to co-create shared realities; deep trust, a sense of “the whole”, and collective imagination.\n\n… a Living Metaphor for Humanity in Harmony"
   },
   {
    "id": "lichtung-moontent-the-love-bubble",
@@ -2206,7 +2286,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785610800000,
    "end": 1785625200000,
-   "type": "W"
+   "type": "W",
+   "description": "A magical space to spread the love... With @grandloveexperience @letusbeskin and Ezquizita ❤️ Welcome to the love bubble."
   },
   {
    "id": "wald-abstract-division",
@@ -2235,7 +2316,8 @@
    "stage": "See",
    "start": 1785614400000,
    "end": 1785618000000,
-   "type": "P"
+   "type": "P",
+   "description": "Feared, fetishized, ridiculed. Forced to smile by the same people who just love to see them fail. In this feminist spectacle 4 Clowns try to make sense of the paradox and finally demand their piece of the cake. The all-female cast merges a variety of circus arts with physical theater and turns their own lived experience into absurdity; leaving the audience with a laughing and a crying eye.\n\n\n@All_Clowns_Are_Beautiful\n@Inga_Salome\n@Evaclumsy\n@Franxi_natra\n@_tania.g"
   },
   {
    "id": "ambient-ektoplast",
@@ -2279,7 +2361,8 @@
    "artist": "Jorkes",
    "stage": "See",
    "start": 1785618000000,
-   "end": 1785625200000
+   "end": 1785625200000,
+   "showcase": "20 years permanent vacation"
   },
   {
    "id": "loco-paraiso-harry-mcanna",
@@ -2357,7 +2440,8 @@
    "artist": "Benjamin Fröhlich",
    "stage": "See",
    "start": 1785625200000,
-   "end": 1785632400000
+   "end": 1785632400000,
+   "showcase": "20 years permanent vacation"
   },
   {
    "id": "loco-paraiso-make-a-dance",
@@ -2387,7 +2471,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785625200000,
    "end": 1785632400000,
-   "type": "L"
+   "type": "L",
+   "description": "Enter a space where sound is no longer only heard, but felt. Through Hilo’s vibroacoustic sound system, deep frequencies ripple through the body, inviting stillness, curiosity, and a different way of listening. Lie down, close your eyes, and surrender to an intimate journey where music dissolves the boundary between hearing and feeling."
   },
   {
    "id": "junkyard-schuppen-dj-hippiecrack",
@@ -2402,7 +2487,9 @@
    "stage": "Performances",
    "start": 1785627000000,
    "end": 1785628800000,
-   "type": "P"
+   "type": "P",
+   "description": "The mushrooms have been listening to humans for a long time, and they've reached some conclusions. Come hum a creature awake, shake one finished thought loose into the soil, hold a stranger's hand, get gently flirted with by a fungus. Leave quieter than you came, wool in your pocket, soil on your knees.\n\n@uschijagger\n@stefiliciouslux",
+   "location": "NERDWALD"
   },
   {
    "id": "junkyard-kneipe-karaoke-wheel-of-fortune",
@@ -2452,7 +2539,8 @@
    "artist": "Sam Goku",
    "stage": "See",
    "start": 1785632400000,
-   "end": 1785639600000
+   "end": 1785639600000,
+   "showcase": "20 years permanent vacation"
   },
   {
    "id": "loco-paraiso-aline-umber",
@@ -2529,7 +2617,8 @@
    "artist": "Rosa Red",
    "stage": "See",
    "start": 1785639600000,
-   "end": 1785646800000
+   "end": 1785646800000,
+   "showcase": "20 years permanent vacation"
   },
   {
    "id": "loco-paraiso-jonny-rock",
@@ -2585,7 +2674,8 @@
    "artist": "Bonjour Ben",
    "stage": "Buk Corner",
    "start": 1785646800000,
-   "end": 1785657600000
+   "end": 1785657600000,
+   "type": "CB"
   },
   {
    "id": "see-filipa-lazary",
@@ -2635,7 +2725,8 @@
    "artist": "Mimi",
    "stage": "Buk Corner",
    "start": 1785657600000,
-   "end": 1785668400000
+   "end": 1785668400000,
+   "type": "CB"
   },
   {
    "id": "pleasure-island-buona-sara",
@@ -2657,7 +2748,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785657600000,
    "end": 1785664800000,
-   "type": "W"
+   "type": "W",
+   "description": "Sit down, slow down, breath in and enjoy delicious high quality tea, served in a ritual setting. Chinese tea ceremony is an old tradition of brewing and drinking tea as a ritual and mindful meditation practice, often done in silence.\n\nFor around an hour, we will drink tea together, channeling our awareness into the present moment, enjoying the rich taste of high quality tea, its smell and aesthetics of the ritual."
   },
   {
    "id": "lichtung-the-sober-space-slow-soulful-sober-mornings-yoga-breathwork-sound-meditation",
@@ -2665,7 +2757,8 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785657600000,
    "end": 1785661200000,
-   "type": "W"
+   "type": "W",
+   "description": "Rise, and shine! This uplifting morning practice blends movement, music, breathwork,\nmeditation, and connection to awaken the body, clear the mind, and open the heart. Together\nwe'll explore how sobriety can deepen our experience of rhythm, sensation, presence, and play,\nand through a fusion of yoga, movement, music and mindfulness, we'll shake off the cobwebs,\nenergise the senses, and reconnect . Expect grounding, expression, joy and release."
   },
   {
    "id": "lichtung-amphitheater-qi-gong-faultiersport-by-dave-dinger",
@@ -2673,7 +2766,8 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785661200000,
    "end": 1785664800000,
-   "type": "W"
+   "type": "W",
+   "description": "The Art of Effortless Action\nRegulate your nervous system through breath and movement.\nLess Stress. More Flow."
   },
   {
    "id": "lichtung-the-sober-space-self-regulation-station-chill-out-zone-x3",
@@ -2681,7 +2775,8 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785661200000,
    "end": 1785668400000,
-   "type": "W"
+   "type": "W",
+   "description": "No facilitation, just an invitation to unwind, ground, and relax in this calming and chill space.\nWhether self-regulating or co-regulating with fellow sober-folks, take all the time you need to\nrest, journal, breathe, drink tea, listen to ambient sounds, and simply be."
   },
   {
    "id": "lichtung-playground-brunch-x2",
@@ -2717,7 +2812,8 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785664800000,
    "end": 1785672000000,
-   "type": "W"
+   "type": "W",
+   "description": "Ancestry in the lungs. Belonging beyond identity\nKU SOBIE - “toward oneself” - is a conscious connected breath ritual exploring belonging beyond identity, tribe, and inherited narratives. In a world shaped by migration, cultural tension, and belonging to others, we return to an embodied sense of home, we return to ourselves.\nGuided by Polish heritage facilitators: Damian Kalusiewicz and Cassandra Bobrow, this journey blends structured breath activation, somatic inquiry, and subtle Eastern European and Jewish sound textures to create a breakthrough breathwork experience to regulate our nervous systems, rooted in sovereignty, not dependency."
   },
   {
    "id": "lichtung-moontent-cacao-ceremony-x2",
@@ -2725,7 +2821,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785664800000,
    "end": 1785672000000,
-   "type": "W"
+   "type": "W",
+   "description": "Cacao Ceremony\n\nA warm cup, an open heart.\nIn this ceremony, we gather around traditional South American ceremonial cacao, shared as a gentle plant ally for connection and inner listening.\n\nGuided meditation, embodied movement, and live or curated music weave the space into a soft ritual of presence. You are invited to feel, to breathe, to move as you are — letting the cacao open subtle pathways of clarity, tenderness, and joy."
   },
   {
    "id": "buk-corner-elli",
@@ -2755,7 +2852,8 @@
    "stage": "Lichtung The Sober Space",
    "start": 1785668400000,
    "end": 1785675600000,
-   "type": "W"
+   "type": "W",
+   "description": "This mellow and creative pre-dancefloor get-together is an invitation to get glammed up and\nconnect with your sober crew, ready for our Closing Ritual & Sober Soul Train Parade, ahead of\nan exciting night of festival frolicking, dancing, mischief and magic! Dress to express and get\nready to join our sober glam-squad - using face paints, bio-glitter, make up and more."
   },
   {
    "id": "wiese-queeratorio",
@@ -2763,7 +2861,8 @@
    "stage": "Wiese",
    "start": 1785670200000,
    "end": 1785675600000,
-   "type": "P"
+   "type": "P",
+   "description": "Sunday service but queer. \nYou don’t have to confess your sins. \nCome as you are to sing along your all-time favorites. \nMonocolour - rainbow dress code encouraged. \n\n@queeratorio"
   },
   {
    "id": "juicy-bar-alko-melissa",
@@ -2785,7 +2884,8 @@
    "stage": "Lichtung Amphitheater",
    "start": 1785672000000,
    "end": 1785679200000,
-   "type": "W"
+   "type": "W",
+   "description": "Step into a playful, sensual space where you and your partner (lover or a friend or even someone you don't know yet) explore connection through movement, breath, and conscious touch. Expect guided exercises that spark chemistry, deepen intimacy, and help you feel each other beyond words. Light-hearted, safe, and deliciously alive — this is your invitation to move closer."
   },
   {
    "id": "lichtung-moontent-einfach-talky",
@@ -2793,7 +2893,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785672000000,
    "end": 1785675600000,
-   "type": "W"
+   "type": "W",
+   "description": "Whether you’re looking for a festival buddy, friends for life, or something romantic—we invite you to get to know each other through honest, surprising conversations, supported by our question game “Talky, Talky” and the principles of “Einfach Knutschen e.V.” In our open meeting space, we’ll guide the conversation with questions that go deeper than “Where are you from?” and talk about listening, connection, and consensus. Everything is optional—nothing is required."
   },
   {
    "id": "junkyard-amphitheater-fr-hst-cks-tv",
@@ -2903,7 +3004,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785682800000,
    "end": 1785686400000,
-   "type": "L"
+   "type": "L",
+   "description": "Enter a space where sound is no longer only heard, but felt. Through Hilo’s vibroacoustic sound system, deep frequencies ripple through the body, inviting stillness, curiosity, and a different way of listening. Lie down, close your eyes, and surrender to an intimate journey where music dissolves the boundary between hearing and feeling."
   },
   {
    "id": "wald-sheila-b2b-pauli-pocket",
@@ -3144,7 +3246,8 @@
    "stage": "Loco Paraiso",
    "start": 1785708000000,
    "end": 1785711600000,
-   "type": "P"
+   "type": "P",
+   "description": "A pancosmic performance collective of tantalizing singers that will fire you straight into the heart of their love galaxy. Heart Chor sings, moves, and performs out of joy, curiosity, and passion, radically spreading the message of LOVE. Self-love and acceptance are its core values. This is definitely not your typical choir so be ready to melt into a sexy supernova of nippelicious tunes!\n\n@heartchorlove \nDirected by @danilotimm"
   },
   {
    "id": "ambient-avi-schneider-friends",
@@ -3332,7 +3435,8 @@
    "stage": "Lichtung Moontent",
    "start": 1785754800000,
    "end": 1785783600000,
-   "type": "L"
+   "type": "L",
+   "description": "Enter a space where sound is no longer only heard, but felt. Through Hilo’s vibroacoustic sound system, deep frequencies ripple through the body, inviting stillness, curiosity, and a different way of listening. Lie down, close your eyes, and surrender to an intimate journey where music dissolves the boundary between hearing and feeling."
   },
   {
    "id": "buk-corner-dj-so",
