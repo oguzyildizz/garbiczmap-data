@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "updatedAt": "2026-07-25T12:00:00Z",
+  "version": 10,
+  "updatedAt": "2026-07-27T12:00:00Z",
   "announcements": [
     {
       "id": "welcome-2026",
@@ -31,6 +31,11 @@
       "a": "No — this is an unofficial, fan-made app. It is not affiliated with or endorsed by any event organizer."
     }
   ],
+  "community": {
+    "label": "Meet other festival-goers on WhatsApp.",
+    "linkText": "Join the group",
+    "url": "https://chat.whatsapp.com/IqD6FTd5r5aFw9M5VtksFX?mode=gi_t"
+  },
   "contact": {
     "label": "Questions or problems?",
     "linkText": "Message me",
