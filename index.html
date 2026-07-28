@@ -106,6 +106,32 @@
     padding: 26px 0 34px;
     opacity: 0.8;
   }
+
+  .badge {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+    padding: 4px 10px;
+    border-radius: 999px;
+    background: var(--ember);
+    color: var(--ink);
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: .2px;
+    white-space: nowrap;
+  }
+  .warn {
+    margin: 14px 0 18px;
+    padding: 14px 16px;
+    border: 1.5px solid var(--ember);
+    border-left-width: 6px;
+    border-radius: 12px;
+    background: rgba(242, 169, 59, 0.10);
+  }
+  .warn-title { margin: 0 0 8px; font-size: 16px; font-weight: 800; color: var(--ember); }
+  .warn-list { margin: 0; padding-left: 20px; }
+  .warn-list li { margin: 7px 0; line-height: 1.5; }
+  .warn-foot { margin: 10px 0 0; color: var(--sage); font-size: 14px; }
 </style>
 </head>
 <body>
@@ -130,11 +156,15 @@
   </div>
 
   <section class="platform">
-    <h2>📱 iPhone</h2>
-    <ol>
-      <li>Install <strong>TestFlight</strong> from the App Store</li>
-      <li>Tap the button below and choose <strong>Install</strong></li>
-    </ol>
+    <h2>📱 iPhone <span class="badge">2 apps to install</span></h2>
+    <div class="warn">
+      <p class="warn-title">⚠️ On iPhone you install <u>two</u> separate apps</p>
+      <ol class="warn-list">
+        <li><strong>TestFlight</strong> — Apple's app for testing apps. Get it from the App Store. This is <em>not</em> Garbicz.</li>
+        <li><strong>Garbicz</strong> — tap the button below, TestFlight opens, then tap <strong>Install</strong>. This is the actual map app.</li>
+      </ol>
+      <p class="warn-foot">Afterwards open <strong>Garbicz</strong> (the unicorn icon), not TestFlight.</p>
+    </div>
     <a class="btn" href="https://testflight.apple.com/join/hnzpKzqb">Get it on TestFlight</a>
   </section>
 
