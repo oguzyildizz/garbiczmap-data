@@ -18,6 +18,8 @@
     --lake: #38bdf8;
   }
   * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  #get { scroll-margin-top: 16px; }
   body {
     background: var(--ink);
     color: var(--moon);
@@ -159,15 +161,18 @@
   }
   .features { margin-top: 30px; }
   .jump {
-    display: block;
-    text-align: center;
-    margin: 26px 0 4px;
+    display: inline-block;
+    margin: 0 0 14px;
+    padding: 8px 16px;
+    border-radius: 999px;
+    border: 1.5px solid var(--ember);
+    background: rgba(242, 169, 59, 0.12);
     color: var(--ember);
     font-weight: 800;
-    font-size: 15px;
+    font-size: 14.5px;
     text-decoration: none;
   }
-  .jump:hover { text-decoration: underline; }
+  .jump:hover { background: var(--ember); color: var(--ink); }
   .features h2 { margin-bottom: 4px; }
   .feat { margin-top: 18px; }
   .feat h3 { margin: 0 0 4px; font-size: 16.5px; color: var(--moon); }
@@ -207,6 +212,7 @@
   </section>
 
   <section class="features">
+    <a class="jump" href="#get">Download links below ↓</a>
     <h2>What it does</h2>
 
     <div class="feat">
@@ -244,8 +250,6 @@
       <p>Set descriptions, workshop and talk labels, showcase runs, per-set notes, and a schedule you can pinch to zoom from the whole weekend down to a single hour.</p>
     </div>
   </section>
-
-  <a class="jump" href="#get">↓ Skip to download</a>
 
   <section class="platform" id="get">
     <h2>📱 iPhone <span class="badge">2 apps to install</span></h2>
