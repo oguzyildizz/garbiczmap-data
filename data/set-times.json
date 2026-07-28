@@ -1,6 +1,6 @@
 {
- "version": 8,
- "updatedAt": "2026-07-27T14:16:43.476Z",
+ "version": 9,
+ "updatedAt": "2026-07-28T22:01:09.233Z",
  "stages": [
   {
    "name": "Wald",
@@ -112,11 +112,12 @@
    "end": 1785355200000
   },
   {
-   "id": "lichtung-teebar-ash-radford",
-   "artist": "Ash Radford",
+   "id": "lichtung-teebar-ashley-ray-simon",
+   "artist": "Ashley Ray Simon",
    "stage": "Lichtung Teebar",
    "start": 1785348000000,
-   "end": 1785355200000
+   "end": 1785355200000,
+   "type": "L"
   },
   {
    "id": "weinbar-matteo-talbot-felix-larson",
@@ -142,8 +143,8 @@
    "type": "L"
   },
   {
-   "id": "lichtung-amphitheater-intentional-morning",
-   "artist": "Intentional Morning",
+   "id": "lichtung-amphitheater-intentional-morning-by-christina-rave-medicine",
+   "artist": "Intentional Morning by Christina (Rave Medicine)",
    "stage": "Lichtung Amphitheater",
    "start": 1785398400000,
    "end": 1785405600000,
@@ -155,7 +156,8 @@
    "stage": "Lichtung Dome",
    "start": 1785398400000,
    "end": 1785402000000,
-   "type": "W"
+   "type": "W",
+   "description": "Through the sense of that I am feeling we explore together this precious gift of being alive as human being."
   },
   {
    "id": "lichtung-moontent-twerkflow-by-bia",
@@ -201,12 +203,11 @@
    "end": 1785423600000
   },
   {
-   "id": "lichtung-moontent-men-s-circle-by-fred-day",
-   "artist": "Men's Circle by Fred Day",
+   "id": "lichtung-moontent-tea-ceremony-by-innokenty",
+   "artist": "Tea Ceremony by Innokenty",
    "stage": "Lichtung Moontent",
    "start": 1785409200000,
-   "end": 1785416400000,
-   "type": "W"
+   "end": 1785416400000
   },
   {
    "id": "lichtung-dome-presence-a-family-constellation",
@@ -437,11 +438,11 @@
    "end": 1785441600000
   },
   {
-   "id": "buk-corner-kenza-dj-northern",
-   "artist": "KENZA / DJ NORTHERN",
+   "id": "buk-corner-kenza",
+   "artist": "KENZA",
    "stage": "Buk Corner",
    "start": 1785434400000,
-   "end": 1785441600000,
+   "end": 1785438000000,
    "showcase": "Garage Girls Showcase"
   },
   {
@@ -505,6 +506,14 @@
    "stage": "Loco Paraiso",
    "start": 1785436200000,
    "end": 1785443400000
+  },
+  {
+   "id": "buk-corner-dj-northern",
+   "artist": "DJ NORTHERN",
+   "stage": "Buk Corner",
+   "start": 1785438000000,
+   "end": 1785441600000,
+   "showcase": "Garage Girls Showcase"
   },
   {
    "id": "see-adi",
@@ -640,8 +649,8 @@
    "end": 1785459600000
   },
   {
-   "id": "weinbar-la-leona",
-   "artist": "La Leona",
+   "id": "weinbar-la-leona-chris-me",
+   "artist": "La Leona & Chris.Me",
    "stage": "Weinbar",
    "start": 1785448800000,
    "end": 1785456000000
@@ -974,8 +983,8 @@
    "description": "Science & spirit of FASTING\n– Biohacking the Body ~ Expanding awareness\nWe'll explore how fasting is psychoactive,  triggers cellular renewal, sharpen the mind, elevate awareness, and reconnect you with yourself. An ancient spiritual practice meets cutting-edge longevity research in a journey that is as much about consciousness as it is about biology.\nDiscover why fasting deserves a place in your life—especially if you're a raver!\n25 years of fasting and raving in one fun and interactive talk. With Q&A"
   },
   {
-   "id": "lichtung-dome-zen-tea-ceremony",
-   "artist": "Zen Tea Ceremony",
+   "id": "lichtung-dome-tea-ceremony-by-innokenty",
+   "artist": "Tea Ceremony by Innokenty",
    "stage": "Lichtung Dome",
    "start": 1785495600000,
    "end": 1785502800000,
@@ -1039,13 +1048,13 @@
    "description": "The Offering — *An immersive ceremony.\nA body becomes an altar.\nAn elemental metamorphosis.*\nLayer by layer, the human form dissolves.\nSomething ancient emerges.\n\n\nThroughout the event, @myrgon_ offers his body and spirit to the collective rite.\nBring an offering.\nBecome the ritual."
   },
   {
-   "id": "lichtung-amphitheater-neuroflexibility-poliphasic-co2-training-by-rodho-dr-xico",
-   "artist": "Neuroflexibility & poliphasic CO2 training by Rodho & Dr. Xico",
+   "id": "lichtung-amphitheater-thimon-von-berlepsch-let-s-talk-hypnosis",
+   "artist": "Thimon von Berlepsch: Let's talk Hypnosis",
    "stage": "Lichtung Amphitheater",
    "start": 1785499200000,
    "end": 1785506400000,
-   "type": "T",
-   "description": "Under-pressure breathing and CO₂ self-regulation help us understand why psychedelic states can feel so profound and how to regulate ourselves in a festival environment—allowing us to have the best experience with zero emotional or neurological crashes afterward."
+   "type": "W",
+   "description": "An immersive talk exploring the workings of the mind. Practical tools for self-hypnosis, mental imagery, and self-regulation to support personal transformation."
   },
   {
    "id": "junkyard-amphitheater-fr-ht-cks-tv",
@@ -1127,13 +1136,13 @@
    "end": 1785513600000
   },
   {
-   "id": "lichtung-amphitheater-thimon-von-berlepsch-hypnosis-mentalism",
-   "artist": "Thimon von Berlepsch: Hypnosis & Mentalism",
+   "id": "lichtung-amphitheater-neuroflexibility-poliphasic-co2-training-by-rodho-dr-xico",
+   "artist": "Neuroflexibility & poliphasic CO2 training by Rodho & Dr. Xico",
    "stage": "Lichtung Amphitheater",
    "start": 1785506400000,
    "end": 1785513600000,
-   "type": "W",
-   "description": "An immersive talk exploring the workings of the mind. Practical tools for self-hypnosis, mental imagery, and self-regulation to support personal transformation."
+   "type": "T",
+   "description": "Under-pressure breathing and CO₂ self-regulation help us understand why psychedelic states can feel so profound and how to regulate ourselves in a festival environment—allowing us to have the best experience with zero emotional or neurological crashes afterward."
   },
   {
    "id": "junkyard-amphitheater-strip-it-right-how-do-led-strips-work",
@@ -1151,11 +1160,11 @@
    "end": 1785517200000
   },
   {
-   "id": "pleasure-island-sachsentrance",
-   "artist": "Sachsentrance",
+   "id": "pleasure-island-the-jakob-sister-sachsentrance",
+   "artist": "The Jakob Sister (Sachsentrance)",
    "stage": "Pleasure Island",
    "start": 1785510000000,
-   "end": 1785524400000
+   "end": 1785513600000
   },
   {
    "id": "lichtung-moontent-hilo-sound-vibroaccoustic-experience",
@@ -1190,6 +1199,13 @@
    "end": 1785520800000
   },
   {
+   "id": "pleasure-island-raverpik-sachsentrance",
+   "artist": "Raverpik (Sachsentrance)",
+   "stage": "Pleasure Island",
+   "start": 1785513600000,
+   "end": 1785517200000
+  },
+  {
    "id": "juicy-bar-luqqi",
    "artist": "Luqqi",
    "stage": "Juicy Bar",
@@ -1222,13 +1238,13 @@
    "type": "L"
   },
   {
-   "id": "lichtung-amphitheater-theater-of-co-creation-by-rico-loop",
-   "artist": "Theater of Co- Creation by Rico Loop",
+   "id": "lichtung-amphitheater-mandala-calligraphy-live-painting-workshop",
+   "artist": "Mandala Calligraphy Live-Painting & Workshop",
    "stage": "Lichtung Amphitheater",
    "start": 1785513600000,
-   "end": 1785520800000,
-   "type": "L",
-   "description": "The Genius Is You!\n\nIn the heart of Garbicz Festival, on the clearing of the amphitheatre – the place where the Theatre of Co-Creation was born – we open a space where music is not only created, but discovered.\n\nWith voice, rhythm, silence, and spontaneous improvisation, we weave our impulses into a living field of sound. From many individuals, an organism emerges. Listening becomes resonance. Resonance becomes music.\n\nThere is nothing to be able to do and nothing to achieve. Only the courage to trust your first impulse. Because genius is not something you own. It appears in the very moment we connect.\n\nCome as you are. Leave as more of yourself."
+   "end": 1785524400000,
+   "type": "W",
+   "description": "Berlin-based artist Herr Calligrafinger is renowned for his signature live-painted calligraffiti mandalas - blending Arabic calligraphy, graffiti, and sacred geometry."
   },
   {
    "id": "junkyard-kneipe-lars-vegas",
@@ -1256,6 +1272,13 @@
    "id": "loco-paraiso-demi-riquisimo",
    "artist": "Demi Riquisimo",
    "stage": "Loco Paraiso",
+   "start": 1785517200000,
+   "end": 1785524400000
+  },
+  {
+   "id": "pleasure-island-hitstorm-aka-raverpik-b2b-the-jakob-sister-sachsentrance",
+   "artist": "Hitstorm aka Raverpik b2b The Jakob Sister (Sachsentrance)",
+   "stage": "Pleasure Island",
    "start": 1785517200000,
    "end": 1785524400000
   },
@@ -1428,8 +1451,8 @@
    "type": "L"
   },
   {
-   "id": "juicy-bar-carl-berge",
-   "artist": "Carl Berge",
+   "id": "juicy-bar-carl-berg",
+   "artist": "Carl Bergé",
    "stage": "Juicy Bar",
    "start": 1785529800000,
    "end": 1785538800000
@@ -1808,22 +1831,22 @@
    "description": "PSYCHEDELIC BREATH® - Who are we becoming?\n\nEva Kaczor, the founder of PSYCHEDELIC BREATH®, guides you in an altered state that enables a higher perspective on your future.\nWith neuroscience, state-altering breathwork, electronic music and inspirational guidance you explore who you are becoming - and what you are here to contribute for the next generation to come."
   },
   {
-   "id": "lichtung-moontent-dmt-decompression-in-the-water-free-diving-static-training",
-   "artist": "DMT Decompression in the water- free diving static training",
+   "id": "lichtung-moontent-laughter-yoga-by-brahmarella",
+   "artist": "Laughter Yoga by Brahmarella",
    "stage": "Lichtung Moontent",
    "start": 1785574800000,
    "end": 1785578400000,
    "type": "W",
-   "description": "Free‑diving inspired static breath training in the water with former deep diver Rodhø will teach us how to relax underwater to helps us decompress, release and calibrate for a new day at Garbicz.\n\nIn this session, the water becomes your teacher. Through free‑diving–inspired static breath practices, Rodho guides you into deep states of calm where your nervous system can soften, reset, and rewire. Held gently by the element of water, you explore longer exhales, breath holds, and conscious relaxation, inviting the body to unlock its own inner pharmacy of DMT-like states of clarity and spaciousness."
+   "description": "Enjoy a high energy workshop imbued with mindfulness, deep connection with our selves and others, and a whole lotta laughs! Not sure? Fake it till you make it! Your body can't tell the difference ;-) Come as you are - no mat, special clothes or experience needed. Bring water!"
   },
   {
-   "id": "lichtung-dome-laughter-yoga-by-brahmarella",
-   "artist": "Laughter Yoga by Brahmarella",
+   "id": "lichtung-dome-dmt-decompression-in-the-water-free-diving-static-training",
+   "artist": "DMT Decompression in the water- free diving static training",
    "stage": "Lichtung Dome",
    "start": 1785574800000,
    "end": 1785578400000,
    "type": "W",
-   "description": "Enjoy a high energy workshop imbued with mindfulness, deep connection with our selves and others, and a whole lotta laughs! Not sure? Fake it till you make it! Your body can't tell the difference ;-) Come as you are - no mat, special clothes or experience needed. Bring water!"
+   "description": "Free‑diving inspired static breath training in the water with former deep diver Rodhø will teach us how to relax underwater to helps us decompress, release and calibrate for a new day at Garbicz.\n\nIn this session, the water becomes your teacher. Through free‑diving–inspired static breath practices, Rodho guides you into deep states of calm where your nervous system can soften, reset, and rewire. Held gently by the element of water, you explore longer exhales, breath holds, and conscious relaxation, inviting the body to unlock its own inner pharmacy of DMT-like states of clarity and spaciousness."
   },
   {
    "id": "lichtung-the-sober-space-self-regulation-station-chill-out-zone-x2",
@@ -2017,7 +2040,8 @@
    "artist": "Nerual",
    "stage": "Lichtung Teebar",
    "start": 1785592800000,
-   "end": 1785600000000
+   "end": 1785600000000,
+   "description": "Hybrid DJ Set"
   },
   {
    "id": "lichtung-moontent-cuddle-cultivation-by-tal-siano",
@@ -2135,13 +2159,22 @@
    "end": 1785610800000
   },
   {
-   "id": "lichtung-amphitheater-mandala-calligraphy-live-painting",
-   "artist": "Mandala Calligraphy Live-Painting",
+   "id": "lichtung-amphitheater-theater-of-co-creation-by-rico-loop-live",
+   "artist": "Theater of Co- Creation by Rico Loop (live)",
    "stage": "Lichtung Amphitheater",
    "start": 1785600000000,
    "end": 1785610800000,
+   "type": "L",
+   "description": "The Genius Is You!\n\nIn the heart of Garbicz Festival, on the clearing of the amphitheatre – the place where the Theatre of Co-Creation was born – we open a space where music is not only created, but discovered.\n\nWith voice, rhythm, silence, and spontaneous improvisation, we weave our impulses into a living field of sound. From many individuals, an organism emerges. Listening becomes resonance. Resonance becomes music.\n\nThere is nothing to be able to do and nothing to achieve. Only the courage to trust your first impulse. Because genius is not something you own. It appears in the very moment we connect.\n\nCome as you are. Leave as more of yourself."
+  },
+  {
+   "id": "lichtung-moontent-embracing-age-by-tanya-kazeminy-film-screening-i-m-bothered-unbothered-ten-women-on-age-by-franziska-brodhun",
+   "artist": "Embracing Age by Tanya Kazeminy & Film screening \"I'm Bothered/ Unbothered - Ten Women on Age\" by Franziska Brodhun",
+   "stage": "Lichtung Moontent",
+   "start": 1785600000000,
+   "end": 1785610800000,
    "type": "W",
-   "description": "Berlin-based artist Herr Calligrafinger is renowned for his signature live-painted calligraffiti mandalas - blending Arabic calligraphy, graffiti, and sacred geometry."
+   "description": "Workshop about Female Aging & wisdom shared to empower women to navigate through (Peri-) Menopause by Tanya Kazeminy.\nShort Movie Screening (30 min): Ten conversations with women from around the world about aging into an essayistic short film — between their voices and my own questions, contradictions and dreams. Followed by a Live Q&A with the filmmaker Franzika Brodhun."
   },
   {
    "id": "see-sutsche",
@@ -2202,8 +2235,8 @@
    "type": "L"
   },
   {
-   "id": "weinbar-sunny-s-karaoke",
-   "artist": "Sunny's Karaoke",
+   "id": "weinbar-sunny-s-karaoke-night",
+   "artist": "Sunny's Karaoke Night",
    "stage": "Weinbar",
    "start": 1785607200000,
    "end": 1785614400000,
@@ -2236,8 +2269,8 @@
    "type": "L"
   },
   {
-   "id": "buk-corner-marie-montexier",
-   "artist": "Marie Montexier",
+   "id": "buk-corner-dr-banana",
+   "artist": "Dr Banana",
    "stage": "Buk Corner",
    "start": 1785610800000,
    "end": 1785618000000
@@ -2429,8 +2462,8 @@
    "end": 1785630600000
   },
   {
-   "id": "buk-corner-dr-banana",
-   "artist": "Dr Banana",
+   "id": "buk-corner-marie-montexier",
+   "artist": "Marie Montexier",
    "stage": "Buk Corner",
    "start": 1785625200000,
    "end": 1785632400000
@@ -2561,7 +2594,8 @@
    "artist": "Uli Viola",
    "stage": "Lichtung Teebar",
    "start": 1785632400000,
-   "end": 1785639600000
+   "end": 1785639600000,
+   "type": "L"
   },
   {
    "id": "junkyard-kneipe-ronny-rosenberg",
@@ -2632,7 +2666,8 @@
    "artist": "Stefanie Egedy: Sonic Energetics",
    "stage": "Lichtung Teebar",
    "start": 1785639600000,
-   "end": 1785643200000
+   "end": 1785643200000,
+   "description": "LOW FREQUENCY SOUND: HOW TO LISTEN WITH YOUR BODY\nThis full-body stimulation invites us to engage with different kinds of vibrations and be physically shaken by them. The physical and perceptual effects remain an area of experimentation. The sound massage is both felt and heard on the skin and within the body, giving the sensation of being touched and embraced by sound waves, an invisible touch of sound."
   },
   {
    "id": "junkyard-kneipe-dj-ebbe",
@@ -2743,13 +2778,22 @@
    "end": 1785690000000
   },
   {
-   "id": "lichtung-moontent-zen-tea-ceremony",
-   "artist": "Zen Tea Ceremony",
+   "id": "lichtung-moontent-tea-ceremony-by-innokenty-x2",
+   "artist": "Tea Ceremony by Innokenty",
    "stage": "Lichtung Moontent",
+   "start": 1785657600000,
+   "end": 1785661200000,
+   "type": "W",
+   "description": "Sit down, slow down, breath in and enjoy delicious high quality tea, served in a ritual setting. Chinese tea ceremony is an old tradition of brewing and drinking tea as a ritual and mindful meditation practice, often done in silence.\n\nFor around an hour, we will drink tea together, channeling our awareness into the present moment, enjoying the rich taste of high quality tea, its smell and aesthetics of the ritual."
+  },
+  {
+   "id": "lichtung-dome-tantric-meditation-by-ben-deiss-simon-springmann",
+   "artist": "Tantric Meditation by Ben Deiss & Simon Springmann",
+   "stage": "Lichtung Dome",
    "start": 1785657600000,
    "end": 1785664800000,
    "type": "W",
-   "description": "Sit down, slow down, breath in and enjoy delicious high quality tea, served in a ritual setting. Chinese tea ceremony is an old tradition of brewing and drinking tea as a ritual and mindful meditation practice, often done in silence.\n\nFor around an hour, we will drink tea together, channeling our awareness into the present moment, enjoying the rich taste of high quality tea, its smell and aesthetics of the ritual."
+   "description": "A sensual journey into deep connection with yourself, others, and the wild nature around us. — Ben and Simon guide you through conscious breath, eye-gazing, movement and touch in pairs and groups – all rooted in mutual consent, presence, deep respect, and playful silliness. This is tantra without the woo-woo: grounded, open to all bodies, genders and experience levels. Expect to slow down, feel more, and leave with a deeper sense of connection to yourself, others, and the magical nature surrounding us."
   },
   {
    "id": "lichtung-the-sober-space-slow-soulful-sober-mornings-yoga-breathwork-sound-meditation",
@@ -2768,6 +2812,15 @@
    "end": 1785664800000,
    "type": "W",
    "description": "The Art of Effortless Action\nRegulate your nervous system through breath and movement.\nLess Stress. More Flow."
+  },
+  {
+   "id": "lichtung-moontent-alchemy-of-grief-by-danielle-fisser",
+   "artist": "Alchemy of Grief by Danielle Fisser",
+   "stage": "Lichtung Moontent",
+   "start": 1785661200000,
+   "end": 1785668400000,
+   "type": "W",
+   "description": "Transforming Pain/Loss into Purpose! — An intimate workshop that invites participants to meet grief, not as something to fix, but as something to feel, a sacred doorway into deeper self love and acceptance. Through Danielle sharing her story with loosing her soul mate in 2023, active listening practices for connection/ shared vulnerability, and guided breathwork, Danielle creates a safe and sacred space for participants to transform pain into compassion, release emotional weight, and reconnect to the heart’s wisdom and touch something mystical."
   },
   {
    "id": "lichtung-the-sober-space-self-regulation-station-chill-out-zone-x3",
@@ -2816,13 +2869,12 @@
    "description": "Ancestry in the lungs. Belonging beyond identity\nKU SOBIE - “toward oneself” - is a conscious connected breath ritual exploring belonging beyond identity, tribe, and inherited narratives. In a world shaped by migration, cultural tension, and belonging to others, we return to an embodied sense of home, we return to ourselves.\nGuided by Polish heritage facilitators: Damian Kalusiewicz and Cassandra Bobrow, this journey blends structured breath activation, somatic inquiry, and subtle Eastern European and Jewish sound textures to create a breakthrough breathwork experience to regulate our nervous systems, rooted in sovereignty, not dependency."
   },
   {
-   "id": "lichtung-moontent-cacao-ceremony-x2",
-   "artist": "Cacao Ceremony",
-   "stage": "Lichtung Moontent",
+   "id": "lichtung-dome-the-collective-shift-by-su-berispek",
+   "artist": "THE COLLECTIVE SHIFT by Su Berispek",
+   "stage": "Lichtung Dome",
    "start": 1785664800000,
-   "end": 1785672000000,
-   "type": "W",
-   "description": "Cacao Ceremony\n\nA warm cup, an open heart.\nIn this ceremony, we gather around traditional South American ceremonial cacao, shared as a gentle plant ally for connection and inner listening.\n\nGuided meditation, embodied movement, and live or curated music weave the space into a soft ritual of presence. You are invited to feel, to breathe, to move as you are — letting the cacao open subtle pathways of clarity, tenderness, and joy."
+   "end": 1785670200000,
+   "type": "W"
   },
   {
    "id": "buk-corner-elli",
@@ -2832,19 +2884,21 @@
    "end": 1785675600000
   },
   {
-   "id": "see-captain-of-none",
-   "artist": "Captain Of None",
-   "stage": "See",
-   "start": 1785668400000,
-   "end": 1785679200000
-  },
-  {
    "id": "weinbar-malaga-boys",
    "artist": "Malaga Boys",
    "stage": "Weinbar",
    "start": 1785668400000,
    "end": 1785704400000,
    "type": "L"
+  },
+  {
+   "id": "lichtung-moontent-cacao-ceremony-x2",
+   "artist": "Cacao Ceremony",
+   "stage": "Lichtung Moontent",
+   "start": 1785668400000,
+   "end": 1785672000000,
+   "type": "W",
+   "description": "Cacao Ceremony\n\nA warm cup, an open heart.\nIn this ceremony, we gather around traditional South American ceremonial cacao, shared as a gentle plant ally for connection and inner listening.\n\nGuided meditation, embodied movement, and live or curated music weave the space into a soft ritual of presence. You are invited to feel, to breathe, to move as you are — letting the cacao open subtle pathways of clarity, tenderness, and joy."
   },
   {
    "id": "lichtung-the-sober-space-get-ready-for-some-sober-partying",
@@ -2872,6 +2926,13 @@
    "end": 1785679200000
   },
   {
+   "id": "see-captain-of-none",
+   "artist": "Captain Of None",
+   "stage": "See",
+   "start": 1785672000000,
+   "end": 1785682800000
+  },
+  {
    "id": "pleasure-island-k-the",
    "artist": "Käthe",
    "stage": "Pleasure Island",
@@ -2894,7 +2955,7 @@
    "start": 1785672000000,
    "end": 1785675600000,
    "type": "W",
-   "description": "Whether you’re looking for a festival buddy, friends for life, or something romantic—we invite you to get to know each other through honest, surprising conversations, supported by our question game “Talky, Talky” and the principles of “Einfach Knutschen e.V.” In our open meeting space, we’ll guide the conversation with questions that go deeper than “Where are you from?” and talk about listening, connection, and consensus. Everything is optional—nothing is required."
+   "description": "Whether you’re looking for a festival buddy, friends for life, or something romantic—we invite you to get to know each other through honest, surprising conversations, supported by our question game “Talky, Talky” and the principles of “Einfach Knutschen ” In our open meeting space, we’ll guide the conversation with questions that go deeper than “Where are you from?” and talk about listening, connection, and consensus. Everything is optional—nothing is required."
   },
   {
    "id": "junkyard-amphitheater-fr-hst-cks-tv",
@@ -2933,14 +2994,6 @@
    "end": 1785682800000
   },
   {
-   "id": "see-the-zenmenn-live-band-karaoke",
-   "artist": "The Zenmenn Live Band Karaoke",
-   "stage": "See",
-   "start": 1785679200000,
-   "end": 1785686400000,
-   "type": "L"
-  },
-  {
    "id": "pleasure-island-kitagawa",
    "artist": "Kitagawa",
    "stage": "Pleasure Island",
@@ -2970,6 +3023,14 @@
    "type": "W"
   },
   {
+   "id": "lichtung-dome-closing-ritual-soul-train-parade-by-the-sober-space",
+   "artist": "Closing Ritual: Soul Train Parade by The Sober Space",
+   "stage": "Lichtung Dome",
+   "start": 1785679200000,
+   "end": 1785682800000,
+   "type": "G"
+  },
+  {
    "id": "junkyard-kneipe-das-gro-e-musikquiz",
    "artist": "Das Große Musikquiz",
    "stage": "Junkyard Kneipe",
@@ -2992,6 +3053,14 @@
    "end": 1785690000000
   },
   {
+   "id": "see-walls-birds",
+   "artist": "Walls&Birds",
+   "stage": "See",
+   "start": 1785682800000,
+   "end": 1785686400000,
+   "type": "L"
+  },
+  {
    "id": "loco-paraiso-inland-knights",
    "artist": "Inland Knights",
    "stage": "Loco Paraiso",
@@ -3003,7 +3072,7 @@
    "artist": "Hilo Sound Vibroaccoustic Experience",
    "stage": "Lichtung Moontent",
    "start": 1785682800000,
-   "end": 1785686400000,
+   "end": 1785690000000,
    "type": "L",
    "description": "Enter a space where sound is no longer only heard, but felt. Through Hilo’s vibroacoustic sound system, deep frequencies ripple through the body, inviting stillness, curiosity, and a different way of listening. Lie down, close your eyes, and surrender to an intimate journey where music dissolves the boundary between hearing and feeling."
   },
@@ -3034,7 +3103,8 @@
    "stage": "Lichtung Teebar",
    "start": 1785686400000,
    "end": 1785693600000,
-   "type": "L"
+   "type": "L",
+   "description": "In C is a composition by Terry Riley from 1964. It is one of the most successful works by an American composer and a seminal example of minimalism. At Garbicz Festival we interpret this composition in a new way with variable artists onsite - a once in a lifetime experience."
   },
   {
    "id": "junkyard-kneipe-bingo",
@@ -3184,11 +3254,12 @@
    "end": 1785708000000
   },
   {
-   "id": "lichtung-teebar-lolavilla",
-   "artist": "LOLAVILLA",
+   "id": "lichtung-teebar-unders-feat-jac-h-ja-le-president-live",
+   "artist": "unders feat. jac høja & le president  _live_",
    "stage": "Lichtung Teebar",
    "start": 1785700800000,
-   "end": 1785708000000
+   "end": 1785708000000,
+   "type": "L"
   },
   {
    "id": "junkyard-kneipe-tinted-house",
@@ -3262,7 +3333,8 @@
    "artist": "HOVR",
    "stage": "Lichtung Teebar",
    "start": 1785708000000,
-   "end": 1785715200000
+   "end": 1785715200000,
+   "description": "The B-side of HOVR..."
   },
   {
    "id": "junkyard-kneipe-kr-mmels-fluffy-hour",
@@ -3313,7 +3385,8 @@
    "stage": "Lichtung Teebar",
    "start": 1785715200000,
    "end": 1785722400000,
-   "type": "L"
+   "type": "L",
+   "description": "Trippy Psy-Jazz"
   },
   {
    "id": "juicy-bar-kotoe",
@@ -3338,11 +3411,12 @@
    "type": "L"
   },
   {
-   "id": "lichtung-teebar-piano-piano",
-   "artist": "Piano Piano",
+   "id": "lichtung-teebar-piano-piano-by-1781-collective",
+   "artist": "Piano Piano by 1781 Collective",
    "stage": "Lichtung Teebar",
    "start": 1785722400000,
-   "end": 1785729600000
+   "end": 1785729600000,
+   "type": "L"
   },
   {
    "id": "buk-corner-cici",
@@ -3560,14 +3634,16 @@
    "artist": "Huni Kuin Medicine",
    "stage": "Lichtung Teebar",
    "start": 1785785400000,
-   "end": 1785790800000
+   "end": 1785790800000,
+   "type": "L"
   },
   {
    "id": "lichtung-teebar-closing-gong-bath-bodies-of-resonance-a-collective-ritual",
    "artist": "Closing Gong Bath: Bodies of Resonance - A Collective Ritual",
    "stage": "Lichtung Teebar",
    "start": 1785790800000,
-   "end": 1785794400000
+   "end": 1785794400000,
+   "type": "L"
   }
  ]
 }
