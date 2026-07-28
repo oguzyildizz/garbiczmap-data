@@ -4,7 +4,7 @@
     "url": "https://testflight.apple.com/join/hnzpKzqb"
   },
   "android": {
-    "build": 15,
+    "build": 14,
     "url": "https://oguzyildizz.github.io/garbiczmap-data/"
   },
   "notes": "Much smaller download (~52 MB, was 70 MB). Share your favorites straight to WhatsApp or AirDrop. Multi-room stages (Lichtung, Junkyard) now show on the map with what's playing in each room. Hold any set to favorite it and set a reminder. Showcase bands on the timeline, plus the latest map and lineup."
