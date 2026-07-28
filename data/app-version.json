@@ -1,11 +1,11 @@
 {
   "ios": {
-    "build": 15,
+    "build": 16,
     "url": "https://testflight.apple.com/join/hnzpKzqb"
   },
   "android": {
-    "build": 16,
+    "build": 17,
     "url": "https://oguzyildizz.github.io/garbiczmap-data/"
   },
-  "notes": "Woodland now reads clearly on the map. Reminder buttons appear briefly and get out of the way. Multi-room stages share one time axis so rooms line up and scroll together. Share favorites to WhatsApp or AirDrop."
+  "notes": "Latest map data. Woodland reads clearly on the map, multi-room stages share one time axis, hold a set to favorite it and set a reminder, share favorites to WhatsApp or AirDrop."
 }
