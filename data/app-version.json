@@ -4,8 +4,8 @@
     "url": "https://testflight.apple.com/join/hnzpKzqb"
   },
   "android": {
-    "build": 12,
+    "build": 13,
     "url": "https://oguzyildizz.github.io/garbiczmap-data/"
   },
-  "notes": "Smaller download, map category filter (food/water/WC/top-up), announcements, swipe-to-close cards and more."
+  "notes": "Latest map & schedule, full lineup with set descriptions, act-type legend, reminders, share/import your favorites, WC/food/water filters, and more."
 }
