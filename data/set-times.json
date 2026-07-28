@@ -1,6 +1,9 @@
 {
- "version": 9,
- "updatedAt": "2026-07-28T22:01:09.233Z",
+ "version": 11,
+ "updatedAt": "2026-07-28T23:40:50.300Z",
+ "officialPoll": {
+  "enabled": true
+ },
  "stages": [
   {
    "name": "Wald",
@@ -88,9 +91,9 @@
    "end": 1785348000000
   },
   {
-   "id": "lichtung-moontent-cacao-ceremony",
+   "id": "lichtung-dome-cacao-ceremony",
    "artist": "Cacao Ceremony",
-   "stage": "Lichtung Moontent",
+   "stage": "Lichtung Dome",
    "start": 1785337200000,
    "end": 1785340800000,
    "type": "W",
@@ -207,7 +210,9 @@
    "artist": "Tea Ceremony by Innokenty",
    "stage": "Lichtung Moontent",
    "start": 1785409200000,
-   "end": 1785416400000
+   "end": 1785416400000,
+   "type": "W",
+   "description": "Tea Ceremony\n\nSit down. Slow down. Breathe in.\nFor one hour, we gather around hot water and leaves — sharing a quiet ritual of presence.\n\nIn a Chinese-inspired tea ceremony, high quality tea becomes our guide: rich taste, rising steam, the simple beauty of pouring and receiving. We drink in silence or soft whispers, letting attention settle into the now, one cup at a time.\n\nNothing to do, nowhere to get to. Just you, the moment, and the medicine of mindful drinking."
   },
   {
    "id": "lichtung-dome-presence-a-family-constellation",
@@ -974,22 +979,22 @@
    "end": 1785506400000
   },
   {
-   "id": "lichtung-moontent-fasten-101",
-   "artist": "Fasten 101",
+   "id": "lichtung-moontent-resonance-flow-lab-by-colibri-intiche",
+   "artist": "Resonance Flow Lab by Colibri & Intiche",
    "stage": "Lichtung Moontent",
+   "start": 1785495600000,
+   "end": 1785502800000,
+   "type": "W",
+   "description": "Recalibrate and balance body, mind, spirit, and the energetic system. Drawing from over 30 years of experience in organic music creation, Intiche integrates meditation, breathwork, movement, chanting, and flow practices to open creative channels and intuitive awareness.\nAn immersive journey into creative flow, presence, and inspired expression—beyond logic and mental control."
+  },
+  {
+   "id": "lichtung-dome-fasten-101",
+   "artist": "Fasten 101",
+   "stage": "Lichtung Dome",
    "start": 1785495600000,
    "end": 1785502800000,
    "type": "T",
    "description": "Science & spirit of FASTING\n– Biohacking the Body ~ Expanding awareness\nWe'll explore how fasting is psychoactive,  triggers cellular renewal, sharpen the mind, elevate awareness, and reconnect you with yourself. An ancient spiritual practice meets cutting-edge longevity research in a journey that is as much about consciousness as it is about biology.\nDiscover why fasting deserves a place in your life—especially if you're a raver!\n25 years of fasting and raving in one fun and interactive talk. With Q&A"
-  },
-  {
-   "id": "lichtung-dome-tea-ceremony-by-innokenty",
-   "artist": "Tea Ceremony by Innokenty",
-   "stage": "Lichtung Dome",
-   "start": 1785495600000,
-   "end": 1785502800000,
-   "type": "W",
-   "description": "Tea Ceremony\n\nSit down. Slow down. Breathe in.\nFor one hour, we gather around hot water and leaves — sharing a quiet ritual of presence.\n\nIn a Chinese-inspired tea ceremony, high quality tea becomes our guide: rich taste, rising steam, the simple beauty of pouring and receiving. We drink in silence or soft whispers, letting attention settle into the now, one cup at a time.\n\nNothing to do, nowhere to get to. Just you, the moment, and the medicine of mindful drinking."
   },
   {
    "id": "lichtung-the-sober-space-navigating-festivals-sober-and-finding-your-crew",
@@ -1080,22 +1085,22 @@
    "type": "L"
   },
   {
-   "id": "lichtung-moontent-resonance-flow-lab-by-colibri-intiche",
-   "artist": "Resonance Flow Lab by Colibri & Intiche",
-   "stage": "Lichtung Moontent",
-   "start": 1785502800000,
-   "end": 1785510000000,
-   "type": "W",
-   "description": "Recalibrate and balance body, mind, spirit, and the energetic system. Drawing from over 30 years of experience in organic music creation, Intiche integrates meditation, breathwork, movement, chanting, and flow practices to open creative channels and intuitive awareness.\nAn immersive journey into creative flow, presence, and inspired expression—beyond logic and mental control."
-  },
-  {
-   "id": "lichtung-dome-sacred-business-by-nikki-trott",
+   "id": "lichtung-moontent-sacred-business-by-nikki-trott",
    "artist": "Sacred Business by Nikki Trott",
-   "stage": "Lichtung Dome",
+   "stage": "Lichtung Moontent",
    "start": 1785502800000,
    "end": 1785510000000,
    "type": "T",
    "description": "Join Nikki Trott - renowned author, international speaker, entrepreneur and strategist at the intersection of consciousness, regeneration and business. Her Business Book Awards Finalist book, Sacred Business (Bloomsbury), is a manifesto for the transformation of ourselves to create businesses that thrive in harmony with life. Together we will explore key principles of Sacred Business, how we can reconnect business with the Earth, our hearts and our greater missions - for the good of all.\nConnect with Nikki on IG and LinkedIn @nikkitrott and find out more at nikkitrott.com."
+  },
+  {
+   "id": "lichtung-dome-tea-ceremony-by-innokenty",
+   "artist": "Tea Ceremony by Innokenty",
+   "stage": "Lichtung Dome",
+   "start": 1785502800000,
+   "end": 1785510000000,
+   "type": "W",
+   "description": "Tea Ceremony\n\nSit down. Slow down. Breathe in.\nFor one hour, we gather around hot water and leaves — sharing a quiet ritual of presence.\n\nIn a Chinese-inspired tea ceremony, high quality tea becomes our guide: rich taste, rising steam, the simple beauty of pouring and receiving. We drink in silence or soft whispers, letting attention settle into the now, one cup at a time.\n\nNothing to do, nowhere to get to. Just you, the moment, and the medicine of mindful drinking."
   },
   {
    "id": "lichtung-the-sober-space-sober-speed-dating",
@@ -1858,13 +1863,6 @@
    "description": "No facilitation, just an invitation to unwind, ground, and relax in this calming and chill space.\nWhether self-regulating or co-regulating with fellow sober-folks, take all the time you need to\nrest, journal, breathe, drink tea, listen to ambient sounds, and simply be."
   },
   {
-   "id": "lichtung-playground-brunch",
-   "artist": "Brunch",
-   "stage": "Lichtung Playground",
-   "start": 1785574800000,
-   "end": 1785585600000
-  },
-  {
    "id": "pleasure-island-hengstenberg",
    "artist": "Hengstenberg",
    "stage": "Pleasure Island",
@@ -1911,6 +1909,13 @@
    "end": 1785585600000,
    "type": "W",
    "description": "Zohar trained with Oaxacan Curanderas and has been facilitating Temazcal (Mexican Sweat Lodge Ceremonies) For 7 years.\n\nFor the Lichtung Sauna she would be honored to offer a 30 -40 minute experience which is a contemporary version of the Mexican Tradition where she will give a cleanse (limpia) and then people will dive into a meditative state reflecting on states an processes of life. The experience symbolizes a rebirth and participants will receive different essences and the sound of her native american flute while they sweat and contemplate."
+  },
+  {
+   "id": "lichtung-playground-brunch",
+   "artist": "Brunch",
+   "stage": "Lichtung Playground",
+   "start": 1785578400000,
+   "end": 1785589200000
   },
   {
    "id": "see-brava",
@@ -2778,15 +2783,6 @@
    "end": 1785690000000
   },
   {
-   "id": "lichtung-moontent-tea-ceremony-by-innokenty-x2",
-   "artist": "Tea Ceremony by Innokenty",
-   "stage": "Lichtung Moontent",
-   "start": 1785657600000,
-   "end": 1785661200000,
-   "type": "W",
-   "description": "Sit down, slow down, breath in and enjoy delicious high quality tea, served in a ritual setting. Chinese tea ceremony is an old tradition of brewing and drinking tea as a ritual and mindful meditation practice, often done in silence.\n\nFor around an hour, we will drink tea together, channeling our awareness into the present moment, enjoying the rich taste of high quality tea, its smell and aesthetics of the ritual."
-  },
-  {
    "id": "lichtung-dome-tantric-meditation-by-ben-deiss-simon-springmann",
    "artist": "Tantric Meditation by Ben Deiss & Simon Springmann",
    "stage": "Lichtung Dome",
@@ -2832,13 +2828,6 @@
    "description": "No facilitation, just an invitation to unwind, ground, and relax in this calming and chill space.\nWhether self-regulating or co-regulating with fellow sober-folks, take all the time you need to\nrest, journal, breathe, drink tea, listen to ambient sounds, and simply be."
   },
   {
-   "id": "lichtung-playground-brunch-x2",
-   "artist": "Brunch",
-   "stage": "Lichtung Playground",
-   "start": 1785661200000,
-   "end": 1785672000000
-  },
-  {
    "id": "juicy-bar-jess",
    "artist": "Jess",
    "stage": "Juicy Bar",
@@ -2877,6 +2866,13 @@
    "type": "W"
   },
   {
+   "id": "lichtung-playground-brunch-x2",
+   "artist": "Brunch",
+   "stage": "Lichtung Playground",
+   "start": 1785664800000,
+   "end": 1785675600000
+  },
+  {
    "id": "buk-corner-elli",
    "artist": "Elli",
    "stage": "Buk Corner",
@@ -2892,7 +2888,7 @@
    "type": "L"
   },
   {
-   "id": "lichtung-moontent-cacao-ceremony-x2",
+   "id": "lichtung-moontent-cacao-ceremony",
    "artist": "Cacao Ceremony",
    "stage": "Lichtung Moontent",
    "start": 1785668400000,
