@@ -1,6 +1,6 @@
 {
-  "version": 12,
-  "updatedAt": "2026-07-27T18:00:00Z",
+  "version": 13,
+  "updatedAt": "2026-07-28T04:00:00Z",
   "announcements": [
     {
       "id": "welcome-2026",
@@ -24,7 +24,7 @@
     },
     {
       "q": "How do favorites work?",
-      "a": "Tap any event in the schedule to open it, then tap Favorite. Favorited events glow on the timeline, and the heart button shows just your picks. Favorites stay on your phone."
+      "a": "Tap any event in the schedule to open it, then tap Favorite — or just press and hold the event for a shortcut. Either way a quick bar appears at the bottom so you can set a reminder (15m / 30m / 1h) before it starts. Favorited events glow on the timeline, and the heart button shows just your picks. Favorites stay on your phone."
     },
     {
       "q": "Is this an official app?",
