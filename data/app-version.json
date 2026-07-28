@@ -1,11 +1,11 @@
 {
   "ios": {
-    "build": 16,
+    "build": 17,
     "url": "https://testflight.apple.com/join/hnzpKzqb"
   },
   "android": {
-    "build": 17,
+    "build": 18,
     "url": "https://oguzyildizz.github.io/garbiczmap-data/"
   },
-  "notes": "Latest map data. Woodland reads clearly on the map, multi-room stages share one time axis, hold a set to favorite it and set a reminder, share favorites to WhatsApp or AirDrop."
+  "notes": "Removes a stray compass button that overlapped the 3D control. Latest map data, woodland reads clearly, multi-room stages share one time axis, hold a set to favourite it and set a reminder."
 }
