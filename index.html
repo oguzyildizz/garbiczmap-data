@@ -158,6 +158,16 @@
     line-height: 1.4;
   }
   .features { margin-top: 30px; }
+  .jump {
+    display: block;
+    text-align: center;
+    margin: 26px 0 4px;
+    color: var(--ember);
+    font-weight: 800;
+    font-size: 15px;
+    text-decoration: none;
+  }
+  .jump:hover { text-decoration: underline; }
   .features h2 { margin-bottom: 4px; }
   .feat { margin-top: 18px; }
   .feat h3 { margin: 0 0 4px; font-size: 16.5px; color: var(--moon); }
@@ -184,29 +194,6 @@
     Signal at Garbicz is close to none — but once the app is on your phone,
     the map and set times work completely offline.
   </div>
-
-  <section class="platform">
-    <h2>📱 iPhone <span class="badge">2 apps to install</span></h2>
-    <div class="warn">
-      <p class="warn-title">⚠️ On iPhone you install <u>two</u> separate apps</p>
-      <ol class="warn-list">
-        <li><strong>TestFlight</strong> — Apple's app for testing apps. Get it from the App Store. This is <em>not</em> Garbicz.</li>
-        <li><strong>Garbicz</strong> — tap the button below, TestFlight opens, then tap <strong>Install</strong>. This is the actual map app.</li>
-      </ol>
-      <p class="warn-foot">Afterwards open <strong>Garbicz</strong> (the unicorn icon), not TestFlight.</p>
-    </div>
-    <a class="btn" href="https://testflight.apple.com/join/hnzpKzqb">Get it on TestFlight</a>
-  </section>
-
-  <section class="platform">
-    <h2>🤖 Android</h2>
-    <ol>
-      <li>Download the app file below</li>
-      <li>Open it and allow <strong>installing from this source</strong> if asked</li>
-    </ol>
-    <a class="btn secondary" href="https://github.com/oguzyildizz/garbiczmap-data/releases/latest/download/garbicz.apk">Download for Android (.apk)</a>
-  </section>
-
 
   <section class="shots">
     <figure>
@@ -257,6 +244,31 @@
       <p>Set descriptions, workshop and talk labels, showcase runs, per-set notes, and a schedule you can pinch to zoom from the whole weekend down to a single hour.</p>
     </div>
   </section>
+
+  <a class="jump" href="#get">↓ Skip to download</a>
+
+  <section class="platform" id="get">
+    <h2>📱 iPhone <span class="badge">2 apps to install</span></h2>
+    <div class="warn">
+      <p class="warn-title">⚠️ On iPhone you install <u>two</u> separate apps</p>
+      <ol class="warn-list">
+        <li><strong>TestFlight</strong> — Apple's app for testing apps. Get it from the App Store. This is <em>not</em> Garbicz.</li>
+        <li><strong>Garbicz</strong> — tap the button below, TestFlight opens, then tap <strong>Install</strong>. This is the actual map app.</li>
+      </ol>
+      <p class="warn-foot">Afterwards open <strong>Garbicz</strong> (the unicorn icon), not TestFlight.</p>
+    </div>
+    <a class="btn" href="https://testflight.apple.com/join/hnzpKzqb">Get it on TestFlight</a>
+  </section>
+
+  <section class="platform">
+    <h2>🤖 Android</h2>
+    <ol>
+      <li>Download the app file below</li>
+      <li>Open it and allow <strong>installing from this source</strong> if asked</li>
+    </ol>
+    <a class="btn secondary" href="https://github.com/oguzyildizz/garbiczmap-data/releases/latest/download/garbicz.apk">Download for Android (.apk)</a>
+  </section>
+
 
   <section class="notes">
     <p><strong>Works fully offline.</strong> Map, markers and set times are on your phone from the first launch — no signal needed at the festival. With internet, it quietly picks up map updates.</p>
