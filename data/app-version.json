@@ -7,5 +7,5 @@
     "build": 18,
     "url": "https://oguzyildizz.github.io/garbiczmap-data/"
   },
-  "notes": "Removes a stray compass button that overlapped the 3D control. Latest map data, woodland reads clearly, multi-room stages share one time axis, hold a set to favourite it and set a reminder."
+  "notes": "Important update: Set time updates are significantly improved. Please update your app (ios: via test flight, android: download the apk again from the same webpage)"
 }
