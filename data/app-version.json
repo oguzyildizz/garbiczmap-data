@@ -1,11 +1,11 @@
 {
   "ios": {
-    "build": 17,
+    "build": 27,
     "url": "https://testflight.apple.com/join/hnzpKzqb"
   },
   "android": {
-    "build": 18,
+    "build": 29,
     "url": "https://oguzyildizz.github.io/garbiczmap-data/"
   },
-  "notes": "Important update: Set time updates are significantly improved. Please update your app (ios: via test flight, android: download the apk again from the same webpage)"
+  "notes": "Important update: Improvements in updating the timetable. Please update your app (ios: via test flight, android: download the apk again from the same webpage)"
 }
