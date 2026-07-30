@@ -1,6 +1,6 @@
 {
- "version": 11,
- "updatedAt": "2026-07-28T23:40:50.300Z",
+ "version": 12,
+ "updatedAt": "2026-07-30T02:49:08.846Z",
  "officialPoll": {
   "enabled": true
  },
@@ -108,8 +108,8 @@
    "type": "W"
   },
   {
-   "id": "weinbar-anni-herzer-b2b-ikarios",
-   "artist": "Anni Herzer b2b Ikarios",
+   "id": "weinbar-anni-herzer",
+   "artist": "Anni Herzer",
    "stage": "Weinbar",
    "start": 1785348000000,
    "end": 1785355200000
@@ -392,7 +392,7 @@
    "id": "junkyard-kneipe-bargain-bin",
    "artist": "Bargain Bin",
    "stage": "Junkyard Kneipe",
-   "start": 1785427200000,
+   "start": 1785429000000,
    "end": 1785434400000
   },
   {
@@ -488,29 +488,19 @@
    "end": 1785445200000
   },
   {
-   "id": "junkyard-kneipe-lovelace",
-   "artist": "Lovelace",
-   "stage": "Junkyard Kneipe",
-   "start": 1785434400000,
-   "end": 1785441600000,
-   "type": "L"
-  },
-  {
-   "id": "performances-dreamweavers",
-   "artist": "Dreamweavers",
-   "stage": "Performances",
-   "start": 1785435300000,
-   "end": 1785444300000,
-   "type": "P",
-   "description": "At twilight, a ship glides across the lake.\nDreamWeavers arrive from beyond time, drifting between worlds.\nLight dances with shadow as the unseen becomes visible.\nA new gateway opens.",
-   "location": "PIER"
-  },
-  {
    "id": "loco-paraiso-kapten",
    "artist": "Kapten",
    "stage": "Loco Paraiso",
    "start": 1785436200000,
    "end": 1785443400000
+  },
+  {
+   "id": "junkyard-kneipe-lovelace",
+   "artist": "Lovelace",
+   "stage": "Junkyard Kneipe",
+   "start": 1785436200000,
+   "end": 1785439800000,
+   "type": "L"
   },
   {
    "id": "buk-corner-dj-northern",
@@ -583,7 +573,7 @@
    "artist": "Lisa Uebel",
    "stage": "Junkyard Kneipe",
    "start": 1785441600000,
-   "end": 1785448800000,
+   "end": 1785445200000,
    "type": "L"
   },
   {
@@ -623,6 +613,13 @@
    "start": 1785447000000,
    "end": 1785452400000,
    "type": "L"
+  },
+  {
+   "id": "junkyard-kneipe-pigeon-era",
+   "artist": "Pigeon Era",
+   "stage": "Junkyard Kneipe",
+   "start": 1785447000000,
+   "end": 1785454200000
   },
   {
    "id": "wiese-paramida",
@@ -668,15 +665,8 @@
    "end": 1785456000000
   },
   {
-   "id": "junkyard-kneipe-pigeon-era",
-   "artist": "Pigeon Era",
-   "stage": "Junkyard Kneipe",
-   "start": 1785448800000,
-   "end": 1785456000000
-  },
-  {
-   "id": "junkyard-schuppen-fran-der-milde",
-   "artist": "Fran & Der Milde",
+   "id": "junkyard-schuppen-fran-kracht",
+   "artist": "Fran & Kracht",
    "stage": "Junkyard Schuppen",
    "start": 1785448800000,
    "end": 1785456000000
@@ -702,6 +692,13 @@
    "stage": "Buk Corner",
    "start": 1785452400000,
    "end": 1785459600000
+  },
+  {
+   "id": "junkyard-kneipe-jini-piju",
+   "artist": "Jini Piju",
+   "stage": "Junkyard Kneipe",
+   "start": 1785454200000,
+   "end": 1785461400000
   },
   {
    "id": "wiese-tasha",
@@ -738,13 +735,6 @@
    "start": 1785456000000,
    "end": 1785459600000,
    "type": "L"
-  },
-  {
-   "id": "junkyard-kneipe-jini-piju",
-   "artist": "Jini Piju",
-   "stage": "Junkyard Kneipe",
-   "start": 1785456000000,
-   "end": 1785463200000
   },
   {
    "id": "junkyard-schuppen-beule-plus",
@@ -1256,7 +1246,7 @@
    "artist": "Lars Vegas",
    "stage": "Junkyard Kneipe",
    "start": 1785513600000,
-   "end": 1785524400000
+   "end": 1785520800000
   },
   {
    "id": "junkyard-amphitheater-lil-junkyard-chapel",
@@ -1345,18 +1335,8 @@
    "artist": "Larissa Váptisma",
    "stage": "Junkyard Amphitheater",
    "start": 1785520800000,
-   "end": 1785528000000,
+   "end": 1785524400000,
    "type": "L"
-  },
-  {
-   "id": "performances-dreamweavers-x2",
-   "artist": "Dreamweavers",
-   "stage": "Performances",
-   "start": 1785521700000,
-   "end": 1785530700000,
-   "type": "P",
-   "description": "At twilight, a ship glides across the lake.\nDreamWeavers arrive from beyond time, drifting between worlds.\nLight dances with shadow as the unseen becomes visible.\nA new gateway opens.",
-   "location": "PIER"
   },
   {
    "id": "wald-sandrien",
@@ -1444,7 +1424,7 @@
    "artist": "Neuköllner Speeddating Club",
    "stage": "Junkyard Amphitheater",
    "start": 1785528000000,
-   "end": 1785535200000,
+   "end": 1785531600000,
    "type": "L"
   },
   {
@@ -1486,6 +1466,13 @@
    "type": "P",
    "description": "\"Corps et à cris” is a performance by Ylva Falk together with the Berlin-based textile artist Diane Esnault. They are creating an immersive performance where movement, textile and the forests of Garbicz merge into a natural rebellion. Flag dance that unfold the urgency to reclaim the raw power of human and nature.",
    "location": "NERDWALD"
+  },
+  {
+   "id": "junkyard-kneipe-ovuladies",
+   "artist": "Ovuladies",
+   "stage": "Junkyard Kneipe",
+   "start": 1785533400000,
+   "end": 1785538800000
   },
   {
    "id": "wald-r-dh-d",
@@ -1538,13 +1525,6 @@
    "stage": "Weinbar",
    "start": 1785535200000,
    "end": 1785542400000
-  },
-  {
-   "id": "junkyard-kneipe-ovuladies",
-   "artist": "Ovuladies",
-   "stage": "Junkyard Kneipe",
-   "start": 1785535200000,
-   "end": 1785538800000
   },
   {
    "id": "junkyard-schuppen-hoppenstedt-schlois-gain",
@@ -1600,8 +1580,8 @@
    "type": "L"
   },
   {
-   "id": "junkyard-kneipe-love-vocoders",
-   "artist": "Love & Vocoders",
+   "id": "junkyard-kneipe-cheeze-love-vocoders",
+   "artist": "Cheeze, Love & Vocoders",
    "stage": "Junkyard Kneipe",
    "start": 1785538800000,
    "end": 1785546000000
@@ -1754,8 +1734,8 @@
    "end": 1785560400000
   },
   {
-   "id": "buk-corner-werkstatt-257",
-   "artist": "Werkstatt 257",
+   "id": "buk-corner-werkstatt-257-w-steve-challier-christopher-lawrence-rafa-hagel-masa",
+   "artist": "Werkstatt 257 w/ Steve Challier, Christopher Lawrence, Rafa, Hagel, Masa",
    "stage": "Buk Corner",
    "start": 1785556800000,
    "end": 1785589200000,
@@ -1980,8 +1960,8 @@
    "description": "A wholesome workshop comprising of industry knowledge, alternative views and somatic (vagal) exercises for longevity in respect to body, mind and the spirit."
   },
   {
-   "id": "junkyard-kneipe-brunchtime",
-   "artist": "Brunchtime",
+   "id": "junkyard-kneipe-moafunnk-brunchtime",
+   "artist": "Moafunnk Brunchtime",
    "stage": "Junkyard Kneipe",
    "start": 1785585600000,
    "end": 1785596400000
@@ -2252,18 +2232,8 @@
    "artist": "Trotz",
    "stage": "Junkyard Kneipe",
    "start": 1785607200000,
-   "end": 1785614400000,
+   "end": 1785610800000,
    "type": "L"
-  },
-  {
-   "id": "performances-dreamweavers-x3",
-   "artist": "Dreamweavers",
-   "stage": "Performances",
-   "start": 1785608100000,
-   "end": 1785614400000,
-   "type": "P",
-   "description": "At twilight, a ship glides across the lake.\nDreamWeavers arrive from beyond time, drifting between worlds.\nLight dances with shadow as the unseen becomes visible.\nA new gateway opens.",
-   "location": "PIER"
   },
   {
    "id": "wald-peryl",
@@ -2342,6 +2312,14 @@
    "end": 1785623400000
   },
   {
+   "id": "junkyard-kneipe-jeanne-d-arsch",
+   "artist": "Jeanne D'Arsch",
+   "stage": "Junkyard Kneipe",
+   "start": 1785612600000,
+   "end": 1785616200000,
+   "type": "L"
+  },
+  {
    "id": "wiese-ash-lauryn",
    "artist": "Ash Lauryn",
    "stage": "Wiese",
@@ -2370,14 +2348,6 @@
    "stage": "Weinbar",
    "start": 1785614400000,
    "end": 1785625200000
-  },
-  {
-   "id": "junkyard-kneipe-jeanne-d-arsch",
-   "artist": "Jeanne D'Arsch",
-   "stage": "Junkyard Kneipe",
-   "start": 1785614400000,
-   "end": 1785621600000,
-   "type": "L"
   },
   {
    "id": "junkyard-schuppen-shoee",
@@ -2424,6 +2394,14 @@
    "end": 1785625200000
   },
   {
+   "id": "junkyard-kneipe-handstand-besoffen",
+   "artist": "Handstand Besoffen",
+   "stage": "Junkyard Kneipe",
+   "start": 1785618000000,
+   "end": 1785623400000,
+   "type": "L"
+  },
+  {
    "id": "junkyard-schuppen-emi",
    "artist": "Emi",
    "stage": "Junkyard Schuppen",
@@ -2452,19 +2430,19 @@
    "end": 1785632400000
   },
   {
-   "id": "junkyard-kneipe-handstand-besoffen",
-   "artist": "Handstand Besoffen",
-   "stage": "Junkyard Kneipe",
-   "start": 1785621600000,
-   "end": 1785627000000,
-   "type": "L"
-  },
-  {
    "id": "juicy-bar-esveae",
    "artist": "ESVEAE",
    "stage": "Juicy Bar",
    "start": 1785623400000,
    "end": 1785630600000
+  },
+  {
+   "id": "junkyard-kneipe-karaoke-wheel-of-fortune",
+   "artist": "Karaoke Wheel Of Fortune",
+   "stage": "Junkyard Kneipe",
+   "start": 1785623400000,
+   "end": 1785632400000,
+   "type": "G"
   },
   {
    "id": "buk-corner-marie-montexier",
@@ -2528,14 +2506,6 @@
    "type": "P",
    "description": "The mushrooms have been listening to humans for a long time, and they've reached some conclusions. Come hum a creature awake, shake one finished thought loose into the soil, hold a stranger's hand, get gently flirted with by a fungus. Leave quieter than you came, wool in your pocket, soil on your knees.\n\n@uschijagger\n@stefiliciouslux",
    "location": "NERDWALD"
-  },
-  {
-   "id": "junkyard-kneipe-karaoke-wheel-of-fortune",
-   "artist": "Karaoke Wheel Of Fortune",
-   "stage": "Junkyard Kneipe",
-   "start": 1785627000000,
-   "end": 1785632400000,
-   "type": "G"
   },
   {
    "id": "wald-orbe",
@@ -2607,7 +2577,7 @@
    "artist": "Ronny Rosenberg",
    "stage": "Junkyard Kneipe",
    "start": 1785632400000,
-   "end": 1785639600000
+   "end": 1785637800000
   },
   {
    "id": "junkyard-schuppen-blut-sehen",
@@ -2645,6 +2615,13 @@
    "end": 1785645000000
   },
   {
+   "id": "junkyard-kneipe-dj-ebbe",
+   "artist": "DJ Ebbe",
+   "stage": "Junkyard Kneipe",
+   "start": 1785637800000,
+   "end": 1785643200000
+  },
+  {
    "id": "buk-corner-mayell",
    "artist": "Mayell",
    "stage": "Buk Corner",
@@ -2673,13 +2650,6 @@
    "start": 1785639600000,
    "end": 1785643200000,
    "description": "LOW FREQUENCY SOUND: HOW TO LISTEN WITH YOUR BODY\nThis full-body stimulation invites us to engage with different kinds of vibrations and be physically shaken by them. The physical and perceptual effects remain an area of experimentation. The sound massage is both felt and heard on the skin and within the body, giving the sensation of being touched and embraced by sound waves, an invisible touch of sound."
-  },
-  {
-   "id": "junkyard-kneipe-dj-ebbe",
-   "artist": "DJ Ebbe",
-   "stage": "Junkyard Kneipe",
-   "start": 1785639600000,
-   "end": 1785643200000
   },
   {
    "id": "junkyard-schuppen-nidard",
@@ -3189,7 +3159,7 @@
    "artist": "Die Behörde",
    "stage": "Junkyard Kneipe",
    "start": 1785693600000,
-   "end": 1785700800000,
+   "end": 1785697200000,
    "type": "L"
   },
   {
@@ -3262,7 +3232,7 @@
    "artist": "Tinted House",
    "stage": "Junkyard Kneipe",
    "start": 1785700800000,
-   "end": 1785708000000,
+   "end": 1785704400000,
    "type": "L"
   },
   {
