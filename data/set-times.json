@@ -1,6 +1,6 @@
 {
- "version": 12,
- "updatedAt": "2026-07-30T02:49:08.846Z",
+ "version": 13,
+ "updatedAt": "2026-07-30T08:54:33.748Z",
  "officialPoll": {
   "enabled": true
  },
@@ -495,8 +495,8 @@
    "end": 1785443400000
   },
   {
-   "id": "junkyard-kneipe-lovelace",
-   "artist": "Lovelace",
+   "id": "junkyard-kneipe-superpositivity",
+   "artist": "Superpositivity",
    "stage": "Junkyard Kneipe",
    "start": 1785436200000,
    "end": 1785439800000,
@@ -588,7 +588,7 @@
    "artist": "DJ Real Madrid",
    "stage": "Pleasure Island",
    "start": 1785443400000,
-   "end": 1785454200000,
+   "end": 1785457800000,
    "type": "L"
   },
   {
